@@ -1,0 +1,8 @@
+---
+title: "OPUC and Super Telescoping Formula"
+---
+**Speaker:** [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)
+
+**Date:** 9/13/23
+
+**Abstract:** To every measure on the unit circle, S^1, one can associate a sequence of orthogonal polynomials in the variable z=exp(it). For example, if we look at the uniform probability measure on the unit circle the basic Fourier theory suggest that the polynomials 1,z,z^2,... are orthogonal with respect to this background measure. OPUC (orthogonal polynomials on the unit circle) is the theoretical framework for studying such correspondence for arbitrary measures on S^1. In this talk, we go over the basics of OPUC and their applications. We also go over a new one-parameter family of examples for such correspondence, originating from the super telescoping formula.

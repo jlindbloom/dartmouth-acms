@@ -1,0 +1,8 @@
+---
+title: "Equispaced Fourier representations for efficient Gaussian process regression from a billion data points"
+---
+**Speaker:** [Alex Barnett](https://users.flatironinstitute.org/~ahb/) (Flatiron Institute)
+
+**Date:** 10/25/23
+
+**Abstract:** Gaussian process regression is widely used in geostatistics, time-series analysis, and machine learning. It infers an unknown continuous function in a principled fashion from noisy measurements at scattered data points. The prior on the function is Gaussian, with covariance given by some user-chosen translationally invariant kernel. Yet has been limited to about, even with modern low-rank methods. Focusing on low spatial dimension (1--3), we present a GP regression method using kernel approximation by an equispaced quadrature grid in the Fourier domain. This enables the iterative solution of a smaller Toeplitz linear system, exploiting both the FFT and the nonuniform FFT to give cost. The result is often one to two orders of magnitude faster than state of the art methods, and enables cheap massive-scale regressions. For example, for a 2D Matern-3/2 kernel and points, the posterior mean function is found to 3-digit accuracy in two minutes on a desktop. This is a joint work with Philip Greengard (Columbia) and Manas Rachh (Flatiron Institute).

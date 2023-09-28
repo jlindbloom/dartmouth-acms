@@ -1,0 +1,8 @@
+---
+title: "Scaling unlocks emergent abilities in language models"
+---
+**Speaker:** [Jason Wei](https://www.jasonwei.net/) (OpenAI)
+
+**Date:** 5/9/23
+
+**Abstract:** Scaling up language models has been shown to predictably improve performance on a wide range of downstream tasks. In this talk, we will instead discuss an unpredictable phenomenon that we refer to as emergent abilities of large language models. An ability is considered emergent if it is not present in smaller models but is present in larger models, which means that the ability cannot be predicted simply by extrapolating the performance of smaller models. With the popularization of large language models such as GPT-3, Chinchilla, and PaLM, dozens of emergent abilities have been discovered, including chain-of-thought prompting, which enables state-of-the-art mathematical reasoning, and instruction finetuning, which enables large language models to be usable by the broader population. The existence of such emergent phenomena raises the question of whether additional scaling could potentially further expand the range of capabilities of language models.

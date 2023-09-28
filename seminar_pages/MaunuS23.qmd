@@ -1,0 +1,8 @@
+---
+title: "New Approaches to Positive Semidefinite Matrix Recovery"
+---
+**Speaker:** [Tyler Maunu](https://www.tylermaunu.com/) (Brandeis)
+
+**Date:** 4/11/23
+
+**Abstract:** We study algorithms that exploit constraint geometry to solve the matrix recovery problem over positive semidefinite matrices. We consider the problem in two separate settings. In the first setting, we study low-rank matrix recovery. We develop a new connection between this problem and the Wasserstein barycenter problem. Through this connection, we derive geometric first-order methods that have convergence guarantees in Bures-Wasserstein distance. In the second setting, we study the problem of graph Laplacian matrix recovery. In this setting, we derive first-order methods that exploit the constraint set geometry that again are guaranteed to efficiently recover the underlying matrix. Experiments on simulated and real data demonstrate the advantages of our new methodologies over existing methods.

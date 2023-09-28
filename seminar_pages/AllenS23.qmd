@@ -1,0 +1,8 @@
+---
+title: "Natural selection for collective action"
+---
+**Speaker:** [Ben Allen](https://scholar.google.com/citations?user=3MBv8rIAAAAJ&hl=en) (Emmanuel College)
+
+**Date:** 5/23/23
+
+**Abstract:** Collective action -- behavior that arises from the combined actions of multiple individuals -- is observed across living beings. The question of how and why collective action evolves has profound implications for behavioral ecology, multicellularity, and human society. Collective action is challenging to model mathematically, due to nonlinear fitness effects and the consequences of spatial, group, and/or family relationships. We derive a simple condition for collective action to be favored by natural selection. A collective's effect on the fitness of each individual is weighted by the relatedness between them, using a new measure of collective relatedness. If selection is weak, this condition can be evaluated using coalescent theory. More generally, our result applies to any synergistic social behavior, in spatial, group, and/or family-structured populations. We use this result to obtain conditions for the evolution of collective help among diploid siblings, subcommunities of a network, and hyperedges of a hypergraph. We also obtain a condition for which of two strategies is favored in a game between siblings, cousins, or other relatives. Our work provides a rigorous basis for extending the notion of "actor", in the study of social behavior, from individuals to collectives.

@@ -1,0 +1,8 @@
+---
+title: "M-statistics: Optimal Statistical Inference for a Small Sample"
+---
+**Speaker:** [Eugene Demidenko](https://www.eugened.org/) (Dartmouth, Mathematics)
+
+**Date:** 9/12/23
+
+**Abstract:** This talk presents a recently published book with the same title. We start with the 250-year-old problem of estimation binomial probability. The classic estimator, as the proportion of successes, m/n, contradicts common sense when the event does not happen or happens all the time. We revive Laplace’s law of succession estimator, (m+1)/(n+2), using a new statistical theory, M-statistics. Neither mean nor variance plays a role in the new theory. The current practice of statistical inference relies on asymptotic methods (large n), such as maximum likelihood (ML). The small-sample exact statistical inference is available only for a few examples, primarily linear models. Our theory requires a statistic with a known cumulative distribution function dependent on an unknown parameter. Two parallel competing tracks of inferences are offered under the umbrella of M-statistics: maximum concentration (MC) and mode (MO) statistics, which is why M=MC+MO. Having an optimal exact dual double-sided confidence interval (CI) and test, the point estimator is derived as the limit point of the CI when the confidence level approaches zero. When a statistic is sufficient, the MO-estimator, as the limit of the unbiased CI, coincides with the ML estimator. Our theory extends to multi-parameter statistical inference. Multiple examples illustrate the talk. This talk is accessible to undergraduate students who took elementary probability/statistics course.

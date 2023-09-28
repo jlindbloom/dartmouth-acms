@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The topics and audience will broadly cover mathematics, computational science, network science, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.

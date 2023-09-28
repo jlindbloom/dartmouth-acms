@@ -1,0 +1,8 @@
+---
+title: "Perturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control"
+---
+**Speaker:** [Jacob Scott](https://case.edu/cancer/members/member-directory/jacob-scott) (Case Western Reserve University)
+
+**Date:** 9/26/23
+
+**Abstract:** Cancer and drug resistant infections are the leading causes of death in the developed world. These two processes are fundamentally very similar in that they are heterogeneous collections of individual agents which evolve and interact to optimize the fitness of the population. In this talk I will outline these similarities and walk through recent work to directly parameterize mathematical models of each of the evolutionary and ecological aspects of the emergence of drug resistance. We will then discuss how these models can be used to derive control protocols to delay, or minimize the probability of drug resistance.

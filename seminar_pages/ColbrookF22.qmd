@@ -1,0 +1,8 @@
+---
+title: "On spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond"
+---
+**Speaker:** [Matt Colbrook and Alex Townsend](https://www.damtp.cam.ac.uk/user/mjc249/home.html) (Cambridge, Cornell)
+
+**Date:** 11/15/23
+
+**Abstract:** Computing spectral properties of operators is fundamental in the sciences, with many applications. However, the infinite-dimensional problem is infamously difficult - common difficulties include spectral pollution and continuous spectra. This two part talk will address two examples: (a) computation of spectral measures for general self-adjoint operators (b) computation of spectral properties of Koopman operators. Finally, we discuss how these results fit into a wider programme on infinite-dimensional spectral computations and beyond.

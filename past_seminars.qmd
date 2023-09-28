@@ -1,0 +1,81 @@
+---
+title: "Past Seminars"
+echo: false
+jupyter: python3
+section-divs: false
+keep-md: true
+---
+
+```{python}
+import yaml
+from IPython.display import display, Markdown, HTML
+from tabulate import tabulate
+from datetime import datetime
+
+
+def build_table(which_schedule):
+
+    seminar_data = yaml.safe_load(open("seminar_talks.yml"))
+    table = []
+
+    for key, data in seminar_data.items():
+
+        # Only get ones on the current schedule
+        if data["schedule"] == which_schedule:
+            # table_row = [ date, speaker, title, abstract ]
+            date = data["date"]
+
+            if data['speaker_url'] is None:
+                speaker_str = f"{data['speaker']} ({data['affiliation']})"
+            else:
+                speaker_str = f"[{data['speaker']}]({data['speaker_url']}) ({data['affiliation']})"
+
+            title_str = f"[{data['title']}](/seminar_pages/{key}.html)"
+
+            table.append( [date, speaker_str, title_str] )
+        else:
+            pass
+
+    # Re-order based on date
+    dates = [ datetime.strptime(item[0], '%m/%d/%y') for item in table ]
+    table = [ x for _, x in reversed(sorted(zip(dates, table))) ]
+
+    return table
+
+```
+
+
+# Spring 2023
+```{python}
+which_schedule = "S23"
+table = build_table(which_schedule)
+Markdown(tabulate(
+  table, 
+  headers=["Date", "Speaker", "Title"]
+))
+```
+
+# Winter 2023
+```{python}
+which_schedule = "W23"
+table = build_table(which_schedule)
+Markdown(tabulate(
+  table, 
+  headers=["Date", "Speaker", "Title"]
+))
+```
+
+# Fall 2022
+```{python}
+which_schedule = "F22"
+table = build_table(which_schedule)
+Markdown(tabulate(
+  table, 
+  headers=["Date", "Speaker", "Title"]
+))
+```
+
+Still adding the rest of the history back to Spring 2006...
+
+
+

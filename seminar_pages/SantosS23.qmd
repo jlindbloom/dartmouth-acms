@@ -1,0 +1,8 @@
+---
+title: "Learning the Finer Things"
+---
+**Speaker:** [Eugene Santos Jr.](http://di2ag.thayer.dartmouth.edu/~eugene/) (Dartmouth, Thayer)
+
+**Date:** 4/4/23
+
+**Abstract:** Machine learning has often been about the tension between generalization and specificity -- we want to get the patterns and abstractions, but we also do not want to sacrifice the exemplars. While we commonly measure learning performance through cross validation and accuracy metrics, our further reality is that we must cope with domains that are extremely under-determined where accuracy is always unsatisfactory. In this talk, we present a novel probabilistic graphical model structure learning approach that can learn, generalize and explain in these elusive domains by operating at the random variable instantiation level. Using Minimum Description Length (MDL) analysis, we propose a new decomposition of the learning problem over all training exemplars, fusing together minimal entropy inferences to construct a final knowledge base. By leveraging Bayesian Knowledge Bases (BKBs), a framework that operates at the instantiation level and inherently subsumes Bayesian Networks (BNs), the fusion of exemplars results in a lossless encoding. We develop both a theoretical MDL score and associated structure learning algorithm that demonstrates significant improvements over learned BNs on 40 benchmark datasets. With regards to larger domains, we demonstrate the utility of our approach in a significantly under-determined domain by learning gene regulatory networks on breast cancer gene mutational data available from The Cancer Genome Atlas (TCGA).

@@ -1,0 +1,56 @@
+---
+title: "Current Seminar"
+echo: false
+jupyter: python3
+section-divs: false
+keep-md: true
+---
+
+The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.
+
+The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room 007.
+
+<!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
+```{python}
+CURRENT_SCHEDULE = "F23"
+import yaml
+from IPython.display import display, Markdown, HTML
+from tabulate import tabulate
+from datetime import datetime
+
+# Load all data
+seminar_data = yaml.safe_load(open("seminar_talks.yml"))
+table = []
+
+for key, data in seminar_data.items():
+
+    # Only get ones on the current schedule
+    if data["schedule"] == CURRENT_SCHEDULE:
+        # table_row = [ date, speaker, title, abstract ]
+        date = data["date"]
+
+        if data['speaker_url'] is None:
+            speaker_str = f"{data['speaker']} ({data['affiliation']})"
+        else:
+            speaker_str = f"[{data['speaker']}]({data['speaker_url']}) ({data['affiliation']})"
+
+        title_str = f"[{data['title']}](/seminar_pages/{key}.html)"
+
+        table.append( [date, speaker_str, title_str] )
+    else:
+        pass
+
+# Re-order based on date
+dates = [ datetime.strptime(item[0], '%m/%d/%y') for item in table ]
+table = [ x for _, x in sorted(zip(dates, table)) ]
+
+Markdown(tabulate(
+  table, 
+  headers=["Date", "Speaker", "Title"]
+))
+
+```
+
+This seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu).
+
+![](acms_banner.JPG)

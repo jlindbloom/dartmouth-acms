@@ -1,0 +1,8 @@
+---
+title: "A structurally informed data assimilation approach for discontinuous state variables"
+---
+**Speaker:** [Tongtong Li](https://math.dartmouth.edu/~tli/) (Dartmouth, Mathematics)
+
+**Date:** 9/19/23
+
+**Abstract:** Data assimilation is a scientific process that combines available observations with numerical simulations to obtain statistically accurate and reliable state representations in dynamical systems. However, it is well known that the commonly used Gaussian distribution assumption introduces biases for state variables that admit discontinuous profiles, which are prevalent in nonlinear partial differential equations. In this talk, we focus on the design of a new structurally informed non-Gaussian prior that exploits statistical information from the simulated state variables. In particular, we construct a new weighting matrix based on the second moment of the gradient information of the state variable to replace the prior covariance matrix used for model/data compromise in the data assimilation framework. We further adapt our weighting matrix to include information in discontinuity regions via a clustering technique. Our numerical experiments demonstrate that this new approach yields more accurate estimates than those obtained using ensemble transform Kalman filter (ETKF) on shallow water equations.

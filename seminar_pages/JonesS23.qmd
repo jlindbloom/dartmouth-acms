@@ -1,0 +1,8 @@
+---
+title: "Nash Equilibrium in a Low-Information Vote Trading Game"
+---
+**Speaker:** [Matt Jones](https://mattjonesmath.github.io/) (Yale)
+
+**Date:** 3/28/23
+
+**Abstract:** Groups are often asked to make decisions about a wide range of issues. If each issue is decided by a separate vote, voters are incentivized to give away their votes on issues they deem unimportant in exchange for additional votes on the most critical issues. This scenario leads to a vote trading game in which voters must decide which trades to offer to maximize their final utility. We begin with a discrete model of voter utility and then move to the more general continuous model. In both cases, we analyze the game by studying their Nash equilibria and evaluating how the underlying utility distribution affects player behavior.

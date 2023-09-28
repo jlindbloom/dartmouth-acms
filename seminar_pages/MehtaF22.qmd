@@ -1,0 +1,8 @@
+---
+title: "Complex systems in high dimensions: from Machine Learning to Microbial Ecology"
+---
+**Speaker:** [Pankaj Mehta](https://physics.bu.edu/~pankajm/) (Boston University)
+
+**Date:** 10/11/23
+
+**Abstract:** In this talk, I will give an overview of recent work from the group that draws on techniques from statistical physics of disordered systems (Random Matrix Theory, Cavity Method) to understand complex systems in high dimensions. In the first part of this talk, I will discuss how we can understand the ability of over-parameterized statistical models to make accurate predictions even when the number of fitting parameters is much larger than the number of training data points (the so called double-descent phenomenon). If time permits, in the second part of the talk I will discuss how similar techniques also yield interesting insights into complex microbial ecosystems. References: Physical Review Research 4, 013201 (2022); arXiv:2103.14108; Science 361, 469-474 (2018); Physical Review Letters 125 048101 (2020); Physical Review E 104, 034416 (2020).

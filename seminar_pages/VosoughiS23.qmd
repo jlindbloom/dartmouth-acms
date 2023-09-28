@@ -1,0 +1,8 @@
+---
+title: "Unsupervised Structural Graph Representation Learning"
+---
+**Speaker:** [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) (Dartmouth, CS)
+
+**Date:** 4/25/23
+
+**Abstract:** In this presentation, I will discuss our lab’s research on unsupervised structural graph representation learning. It is essential to differentiate between representations that capture structural roles and those that capture local information in graphs (microscopic representations, such as node2vec). Structural embeddings can capture the global roles of nodes, edges, and subgraphs in a graph. This means that nodes that perform similar functions in a graph will have similar vector representations, regardless of their distance from each other in the graph. Our framework's core feature is its capability for unsupervised learning of versatile and universal representations that capture the structural roles of nodes, edges, and subgraphs (communities) in a dynamic attributed graph. These general-purpose representations eliminate the need for time-consuming and biased feature engineering and are suitable for both unsupervised and supervised tasks, including clustering and classification. Finally, I will discuss the potential of these general-purpose representations for supervised and unsupervised learning in downstream tasks on various types of graphs, such as social and financial networks.

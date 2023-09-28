@@ -1,0 +1,8 @@
+---
+title: "EIM-degradation free RBM via over collocation and residual hyper reduction and its application to fluid flow problems and optimal mass transport"
+---
+**Speaker:** [Yanlai Chen](https://www.umassd.edu/directory/ychen5/) (UMass Dartmouth)
+
+**Date:** 11/8/23
+
+**Abstract:** The need for multiple interactive, real-time simulations using different parameter values has driven the design of fast numerical algorithms with certifiable accuracies. The reduced basis method (RBM) presents itself as such an option. RBM features a mathematically rigorous error estimator which drives the construction of a low-dimensional subspace. A surrogate solution is then sought in this low-dimensional space approximating the parameter-induced high fidelity solution manifold. However when the system is nonlinear or its parameter dependence nonaffine, this efficiency gain degrades tremendously, an inherent drawback of the application of the empirical interpolation method (EIM). In this talk, we present an EIM-degradation free RBM via over collocation and residual hyper reduction-based error estimation. It augments and extends the EIM approach as a direct solver, as opposed to an assistant, for solving nonlinear partial differential equations on the reduced level. Collocating at about twice as many locations as the number of basis elements and featuring an adaptive hyper reduction of the residuals for the reduced solution, this R2-ROC scheme is stable, offline- and online-efficient, and capable of avoiding the efficiency degradation. Time permitting, applications of R2-ROC to fast simulations of parametric fluid flow problems and optimal mass transport will be presented.

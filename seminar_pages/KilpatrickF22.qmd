@@ -1,0 +1,8 @@
+---
+title: "Stochastic dynamics of decision-making: From individuals to groups"
+---
+**Speaker:** [Zachary Kilpatrick](https://www.colorado.edu/amath/zpkilpat) (University of Colorado Boulder)
+
+**Date:** 9/27/23
+
+**Abstract:** People and other animals combine ongoing streams of observations with prior knowledge to make decisions. Individuals appear to use statistical inference to account for variability in many experiments and contexts. Mathematical models of these processes often take the form of stochastic differential equations with trajectories that trigger decisions upon crossing a threshold, typically derived for decisions in static and symmetric environments. We move beyond these standard models in three ways, developing methods in stochastic processes, optimization, and Bayesian inference along the way, and validating with human decision-making data. First, we examine strategies people use to infer the frequency of rare events. Subjects using imperfect Bayesian strategies exhibit lower variance but higher bias in their estimates than those using heuristics, inverting the typical bias-variance trade-off. Second, we derived optimal models of binary decisions in dynamic environments. People appear to employ near-normative decision criteria (thresholds) more than heuristics, due to their ability to anticipate or reflect changes in reward contingencies and the quality of evidence. Lastly, we derive and analyze normative models of agents accumulating evidence and sharing their decisions along a social network. Rational agents glean information from their neighbors' indecisions, resulting in rapid decision waves that correct for early errors, especially in groups comprised of a mix of hasty and deliberate deciders.
