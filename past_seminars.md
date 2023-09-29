@@ -10,9 +10,6 @@ keep-md: true
 
 # Spring 2023
 
-::: {.cell execution_count=2}
-
-::: {.cell-output .cell-output-display execution_count=2}
 Date     Speaker                                                                                       Title
 -------  --------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------
 5/30/23  [Ethan Levien](https://elevien.github.io/) (Dartmouth, Mathematics)                           [Evolution in the presence of large (but finite) offspring fluctuations](/seminar_pages/LevienS23.html)
@@ -23,29 +20,19 @@ Date     Speaker                                                                
 4/11/23  [Tyler Maunu](https://www.tylermaunu.com/) (Brandeis)                                         [New Approaches to Positive Semidefinite Matrix Recovery](/seminar_pages/MaunuS23.html)
 4/4/23   [Eugene Santos Jr.](http://di2ag.thayer.dartmouth.edu/~eugene/) (Dartmouth, Thayer)           [Learning the Finer Things](/seminar_pages/SantosS23.html)
 3/28/23  [Matt Jones](https://mattjonesmath.github.io/) (Yale)                                         [Nash Equilibrium in a Low-Information Vote Trading Game](/seminar_pages/JonesS23.html)
-:::
-:::
 
 
 # Winter 2023
 
-::: {.cell execution_count=3}
-
-::: {.cell-output .cell-output-display execution_count=3}
 Date     Speaker                                                             Title
 -------  ------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------
 2/14/23  [Rob Frost](https://people.csail.mit.edu/drp/) (Dartmouth, Geisel)  [Eigenvectors from eigenvalues sparse principal component analysis](/seminar_pages/FrostW23.html)
 2/7/23   [David Palmer](https://people.csail.mit.edu/drp/) (MIT)             [Applied Geometric Measure Theory from DeepCurrents to Topological Defects](/seminar_pages/PalmerW23.html)
 1/24/23  [Phil Chodrow](https://www.philchodrow.prof/) (Middlebury College)  [Generative Hypergraph Clustering: Scalable Heuristics and Sparse Thresholds](/seminar_pages/ChodrowW23.html)
-:::
-:::
 
 
 # Fall 2022
 
-::: {.cell execution_count=4}
-
-::: {.cell-output .cell-output-display execution_count=4}
 Date      Speaker                                                                                                    Title
 --------  ---------------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 11/15/23  [Matt Colbrook and Alex Townsend](https://www.damtp.cam.ac.uk/user/mjc249/home.html) (Cambridge, Cornell)  [On spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond](/seminar_pages/ColbrookF22.html)
@@ -57,8 +44,6 @@ Date      Speaker                                                               
 9/27/23   [Zachary Kilpatrick](https://www.colorado.edu/amath/zpkilpat) (University of Colorado Boulder)             [Stochastic dynamics of decision-making: From individuals to groups](/seminar_pages/KilpatrickF22.html)
 9/20/23   [Pete Rigas](https://scholar.google.com/citations?user=pjytF18AAAAJ&hl=en&oi=sra) (Cornell)                [Variational quantum algorithm for numerical PDE solving](/seminar_pages/RigasF22.html)
 9/13/23   [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)            [OPUC and Super Telescoping Formula](/seminar_pages/JebelliF22.html)
-:::
-:::
 
 
 Still adding the rest of the history back to Spring 2006...

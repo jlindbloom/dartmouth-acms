@@ -1,8 +1,0 @@
----
-title: "TBA"
----
-**Speaker:** TBA (None)
-
-**Date:** 10/3/23
-
-**Abstract:** TBA

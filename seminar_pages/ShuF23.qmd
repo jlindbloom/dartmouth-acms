@@ -1,0 +1,8 @@
+---
+title: "Dynamics of bimatrix games and a social-climate model"
+---
+**Speaker:** [Longmei Shu](https://math.dartmouth.edu/~lshu/) (Dartmouth, Mathematics)
+
+**Date:** 10/3/23
+
+**Abstract:** In the first part of this presentation we consider replicator dynamics with feedback-evolving games, where the payoffs switch between two different matrices. Although each payoff matrix on its own represents an environment where cooperators and defectors can’t coexist stably, we show that it’s possible to design appropriate switching control laws and achieve persistent oscillations of strategy abundance. In the second part we couple the forest dieback model with human behaviors. Using evolutionary game theory, we build a time-delay system where forest growth is impacted by both temperature and human mitigation choices, the latter being informed by temperature forecasts. Simulations of the coupled system over 200 years show us varying outcomes.
