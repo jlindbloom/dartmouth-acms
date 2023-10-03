@@ -18,7 +18,7 @@ Date      Speaker                                                               
 9/19/23   [Tongtong Li](https://math.dartmouth.edu/~tli/) (Dartmouth, Mathematics)                                       [A structurally informed data assimilation approach for discontinuous state variables](/seminar_pages/LiF23.html)
 9/26/23   [Jacob Scott](https://case.edu/cancer/members/member-directory/jacob-scott) (Case Western Reserve University)  [Perturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control](/seminar_pages/ScottF23.html)
 10/3/23   [Longmei Shu](https://math.dartmouth.edu/~lshu/) (Dartmouth, Mathematics)                                      [Dynamics of bimatrix games and a social-climate model](/seminar_pages/ShuF23.html)
-10/10/23  [Daniel Watkin](https://danielmwatkins.com/) (Brown)                                                           [TBA](/seminar_pages/WatkinF23.html)
+10/10/23  [Daniel Watkins](https://danielmwatkins.com/) (Brown)                                                          [Dynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale](/seminar_pages/WatkinsF23.html)
 10/17/23  [Heather Zinn Brooks](https://sites.google.com/g.hmc.edu/hzinnbrooks?pli=1) (Harvey Mudd)                      [TBA](/seminar_pages/BrooksF23.html)
 10/24/23  [Yu Tian](https://ytian.netlify.app/) (NORDITA)                                                                [TBA](/seminar_pages/TianF23.html)
 10/31/23  [Will Thompson](https://www.willhwthompson.com/) (Vermont Complex Systems Center)                              [TBA](/seminar_pages/ThompsonF23.html)
