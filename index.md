@@ -20,7 +20,7 @@ Date      Speaker                                                               
 10/3/23   [Longmei Shu](https://math.dartmouth.edu/~lshu/) (Dartmouth, Mathematics)                                      [Dynamics of bimatrix games and a social-climate model](/seminar_pages/ShuF23.html)
 10/10/23  [Daniel Watkins](https://danielmwatkins.com/) (Brown)                                                          [Dynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale](/seminar_pages/WatkinsF23.html)
 10/17/23  [Heather Zinn Brooks](https://sites.google.com/g.hmc.edu/hzinnbrooks?pli=1) (Harvey Mudd)                      [Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics](/seminar_pages/BrooksF23.html)
-10/24/23  [Yu Tian](https://ytian.netlify.app/) (NORDITA)                                                                [TBA](/seminar_pages/TianF23.html)
+10/24/23  TBA (TBA)                                                                                                      [TBA](/seminar_pages/TianF23.html)
 10/31/23  [Will Thompson](https://www.willhwthompson.com/) (Vermont Complex Systems Center)                              [TBA](/seminar_pages/ThompsonF23.html)
 11/7/23   [Hiroki Sayama](https://bingweb.binghamton.edu/~sayama/) (Binghamton)                                          [TBA](/seminar_pages/SayamaF23.html)
 11/14/23  [Georg Stadler](https://math.nyu.edu/~stadler/) (NYU)                                                          [TBA](/seminar_pages/StadlerF23.html)
