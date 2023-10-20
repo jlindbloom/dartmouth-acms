@@ -6,7 +6,7 @@ keep-md: true
 ---
 
 
-The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.
+The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, stochastic processes, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.
 
 The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room 007.
 
@@ -20,7 +20,7 @@ Date      Speaker                                                               
 10/3/23   [Longmei Shu](https://math.dartmouth.edu/~lshu/) (Dartmouth, Mathematics)                                      [Dynamics of bimatrix games and a social-climate model](/seminar_pages/ShuF23.html)
 10/10/23  [Daniel Watkins](https://danielmwatkins.com/) (Brown)                                                          [Dynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale](/seminar_pages/WatkinsF23.html)
 10/17/23  [Heather Zinn Brooks](https://sites.google.com/g.hmc.edu/hzinnbrooks?pli=1) (Harvey Mudd)                      [Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics](/seminar_pages/BrooksF23.html)
-10/24/23  TBA (TBA)                                                                                                      [TBA](/seminar_pages/TianF23.html)
+10/24/23  [Aditya Viswanathan](https://www-personal.umd.umich.edu/~adityavv/) (University of Michigan-Dearborn)          [Phaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging](/seminar_pages/ViswanathanF23.html)
 10/31/23  [Will Thompson](https://www.willhwthompson.com/) (Vermont Complex Systems Center)                              [TBA](/seminar_pages/ThompsonF23.html)
 11/7/23   [Hiroki Sayama](https://bingweb.binghamton.edu/~sayama/) (Binghamton)                                          [TBA](/seminar_pages/SayamaF23.html)
 11/14/23  [Georg Stadler](https://math.nyu.edu/~stadler/) (NYU)                                                          [TBA](/seminar_pages/StadlerF23.html)

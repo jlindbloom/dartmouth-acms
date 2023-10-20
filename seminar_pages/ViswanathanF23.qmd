@@ -1,0 +1,8 @@
+---
+title: "Phaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging"
+---
+**Speaker:** [Aditya Viswanathan](https://www-personal.umd.umich.edu/~adityavv/) (University of Michigan-Dearborn)
+
+**Date:** 10/24/23
+
+**Abstract:** The underlying physics of certain imaging modalities - such as x-ray crystallography and (Fourier) ptychography - requires the recovery of a signal from phaseless (or magnitude-only) measurements. This problem, commonly referred to as Phase Retrieval, is a challenging (and non-convex) inverse problem since the phase encapsulates a significant amount of structure in the underlying signal. In this talk, we discuss a framework for solving the phase retrieval problem from local (spectrogram-type) measurements. We summarize a recently introduced fast (essentially linear-time) and robust phase retrieval algorithm based on the Wigner deconvolution approach. The Wigner deconvolution procedure relates the autocorrelation of the unknown signal to the acquired measurements through Fourier transforms. An eigenvector based angular synchronization algorithm can subsequently be utilized to recover individual phase information from these autocorrelation estimates. Theoretical recovery guarantees, numerical results, extensions to two-dimensional and continuous problem settings, as well as applications to biomedical imaging will be discussed.
