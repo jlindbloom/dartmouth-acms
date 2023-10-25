@@ -22,7 +22,7 @@ Date      Speaker                                                               
 10/17/23  [Heather Zinn Brooks](https://sites.google.com/g.hmc.edu/hzinnbrooks?pli=1) (Harvey Mudd)                      [Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics](/seminar_pages/BrooksF23.html)
 10/24/23  [Aditya Viswanathan](https://www-personal.umd.umich.edu/~adityavv/) (University of Michigan-Dearborn)          [Phaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging](/seminar_pages/ViswanathanF23.html)
 10/31/23  [Will Thompson](https://www.willhwthompson.com/) (Vermont Complex Systems Center)                              [TBA](/seminar_pages/ThompsonF23.html)
-11/7/23   [Hiroki Sayama](https://bingweb.binghamton.edu/~sayama/) (Binghamton)                                          [TBA](/seminar_pages/SayamaF23.html)
+11/7/23   [Hiroki Sayama](https://bingweb.binghamton.edu/~sayama/) (Binghamton)                                          [Studying Social Fragmentation Using Adaptive Network-based Artificial Society Models](/seminar_pages/SayamaF23.html)
 11/14/23  [Georg Stadler](https://math.nyu.edu/~stadler/) (NYU)                                                          [TBA](/seminar_pages/StadlerF23.html)
 
 

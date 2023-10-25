@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Studying Social Fragmentation Using Adaptive Network-based Artificial Society Models"
 ---
 **Speaker:** [Hiroki Sayama](https://bingweb.binghamton.edu/~sayama/) (Binghamton)
 
 **Date:** 11/7/23
 
-**Abstract:** TBA
+**Abstract:** The rapid adoption of social media and smartphones that has occurred over the past few decades has made it dramatically easier for everyone to freely choose and access a variety of information sources. However, numerous studies have shown that such a society with faster and more personalized information circulation is not necessarily conducive to integration and consensus building, but on the contrary, tends to promote division among communities with incompatible views. It is thus crucial to understand the possible dynamical mechanisms that cause social fragmentation and to properly manage them according to societal conditions and needs. “Artificial society” research plays an important role in this front, developing mathematical models of social dynamics and exploring possible forms and behaviors of various hypothetical societies, rather than studying the current state of society only empirically. In this talk, I will introduce two examples of our recent studies on social fragmentation using coevolutionary adaptive social network models as concrete examples of artificial society research. The first study investigated the effects of individual behavioral traits on macroscopic social evolution using a simple opinion dynamics model on adaptive social networks. The second study used a more detailed computational agent-based model to demonstrate that a “third state” society, in which both topological connectivity and opinion diversity are simultaneously maintained, is possible when agents are behaviorally heterogeneous. This key finding obtained in the second study was also confirmed using an extended version of the first model as well, demonstrating the robustness of the finding about the importance of behavioral diversity within society.
