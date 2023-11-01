@@ -70,22 +70,22 @@ ViswanathanF23:
     schedule: F23
 
 ThompsonF23:
-    title: TBA
+    title: Understanding the Emergence of Inequality with Two Models of Social Dynamics
     date: 10/31/23
     speaker: Will Thompson
     affiliation: Vermont Complex Systems Center
     speaker_url: https://www.willhwthompson.com/
-    abstract: TBA
+    abstract: "Understanding and addressing issues of inequality and polarization in society requires examining their structural origins. Mathematical models provide formalisms to study these social phenomena from the ground up. In this work, I leverage extensions of the voter model to gain insight into two critical problems: the emergence of spatial inequality in resource allocation and the formation of opinion polarization. First, I develop a novel equitability measure based on the p-median model to identify fragile and underserved regions in infrastructure networks. Second, I incorporate higher-order social structures into the non-linear voter model to delineate phases of opinion polarization. Connecting these threads is the overarching aim of elucidating how properties of interaction networks shape inequality and consensus. The voter model provides a common basis to represent cooperative and competitive dynamics across both domains. By introducing new metrics and social structures, I demonstrate how even simple mathematical models can capture complex collective behavior in spatial systems and social networks, shedding light on real-world challenges."
     slides_url: 
     schedule: F23
 
 StadlerF23:
-    title: TBA
+    title: Mitigating the nonlinearity in PDEs, with application to continuous sea ice models
     date: 11/14/23
     speaker: Georg Stadler
     affiliation: NYU
     speaker_url: https://math.nyu.edu/~stadler/
-    abstract: TBA
+    abstract: "I will argue that nonlinearity in PDE systems can be mitigated through lifting the systems to a higher-dimensional space. After reviewing basic properties of Newton's method for solving nonlinear equations, I will detail the proposed lift-transform-linearize approach and show that the resulting Newton-type algorithms may yield favorable convergence properties. I will illustrate the ideas first on simple examples, and show connections to primal-dual interior point methods and mixed finite element methods. The resulting solvers will be illustrated for the solution of a large-scale flow problems with severely nonlinear constitutive law arising in the most commonly used continuous sea ice model."
     slides_url: 
     schedule: F23
 

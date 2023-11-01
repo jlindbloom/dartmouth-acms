@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 007.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n9/12/23\nEugene Demidenko (Dartmouth, Mathematics)\nM-statistics: Optimal Statistical Inference for a Small Sample\n\n\n9/19/23\nTongtong Li (Dartmouth, Mathematics)\nA structurally informed data assimilation approach for discontinuous state variables\n\n\n9/26/23\nJacob Scott (Case Western Reserve University)\nPerturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control\n\n\n10/3/23\nLongmei Shu (Dartmouth, Mathematics)\nDynamics of bimatrix games and a social-climate model\n\n\n10/10/23\nDaniel Watkins (Brown)\nDynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale\n\n\n10/17/23\nHeather Zinn Brooks (Harvey Mudd)\nEmergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics\n\n\n10/24/23\nAditya Viswanathan (University of Michigan-Dearborn)\nPhaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging\n\n\n10/31/23\nWill Thompson (Vermont Complex Systems Center)\nTBA\n\n\n11/7/23\nHiroki Sayama (Binghamton)\nStudying Social Fragmentation Using Adaptive Network-based Artificial Society Models\n\n\n11/14/23\nGeorg Stadler (NYU)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 007.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n9/12/23\nEugene Demidenko (Dartmouth, Mathematics)\nM-statistics: Optimal Statistical Inference for a Small Sample\n\n\n9/19/23\nTongtong Li (Dartmouth, Mathematics)\nA structurally informed data assimilation approach for discontinuous state variables\n\n\n9/26/23\nJacob Scott (Case Western Reserve University)\nPerturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control\n\n\n10/3/23\nLongmei Shu (Dartmouth, Mathematics)\nDynamics of bimatrix games and a social-climate model\n\n\n10/10/23\nDaniel Watkins (Brown)\nDynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale\n\n\n10/17/23\nHeather Zinn Brooks (Harvey Mudd)\nEmergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics\n\n\n10/24/23\nAditya Viswanathan (University of Michigan-Dearborn)\nPhaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging\n\n\n10/31/23\nWill Thompson (Vermont Complex Systems Center)\nUnderstanding the Emergence of Inequality with Two Models of Social Dynamics\n\n\n11/7/23\nHiroki Sayama (Binghamton)\nStudying Social Fragmentation Using Adaptive Network-based Artificial Society Models\n\n\n11/14/23\nGeorg Stadler (NYU)\nMitigating the nonlinearity in PDEs, with application to continuous sea ice models\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "seminar_pages/StadlerF23.html",
     "href": "seminar_pages/StadlerF23.html",
-    "title": "TBA",
+    "title": "Mitigating the nonlinearity in PDEs, with application to continuous sea ice models",
     "section": "",
-    "text": "Date: 11/14/23\nAbstract: TBA"
+    "text": "Date: 11/14/23\nAbstract: I will argue that nonlinearity in PDE systems can be mitigated through lifting the systems to a higher-dimensional space. After reviewing basic properties of Newton’s method for solving nonlinear equations, I will detail the proposed lift-transform-linearize approach and show that the resulting Newton-type algorithms may yield favorable convergence properties. I will illustrate the ideas first on simple examples, and show connections to primal-dual interior point methods and mixed finite element methods. The resulting solvers will be illustrated for the solution of a large-scale flow problems with severely nonlinear constitutive law arising in the most commonly used continuous sea ice model."
   },
   {
     "objectID": "seminar_pages/PalmerW23.html",
@@ -198,9 +198,9 @@
   {
     "objectID": "seminar_pages/ThompsonF23.html",
     "href": "seminar_pages/ThompsonF23.html",
-    "title": "TBA",
+    "title": "Understanding the Emergence of Inequality with Two Models of Social Dynamics",
     "section": "",
-    "text": "Date: 10/31/23\nAbstract: TBA"
+    "text": "Date: 10/31/23\nAbstract: Understanding and addressing issues of inequality and polarization in society requires examining their structural origins. Mathematical models provide formalisms to study these social phenomena from the ground up. In this work, I leverage extensions of the voter model to gain insight into two critical problems: the emergence of spatial inequality in resource allocation and the formation of opinion polarization. First, I develop a novel equitability measure based on the p-median model to identify fragile and underserved regions in infrastructure networks. Second, I incorporate higher-order social structures into the non-linear voter model to delineate phases of opinion polarization. Connecting these threads is the overarching aim of elucidating how properties of interaction networks shape inequality and consensus. The voter model provides a common basis to represent cooperative and competitive dynamics across both domains. By introducing new metrics and social structures, I demonstrate how even simple mathematical models can capture complex collective behavior in spatial systems and social networks, shedding light on real-world challenges."
   },
   {
     "objectID": "seminar_pages/AllenS23.html",

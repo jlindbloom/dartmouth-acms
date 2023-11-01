@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Understanding the Emergence of Inequality with Two Models of Social Dynamics"
 ---
 **Speaker:** [Will Thompson](https://www.willhwthompson.com/) (Vermont Complex Systems Center)
 
 **Date:** 10/31/23
 
-**Abstract:** TBA
+**Abstract:** Understanding and addressing issues of inequality and polarization in society requires examining their structural origins. Mathematical models provide formalisms to study these social phenomena from the ground up. In this work, I leverage extensions of the voter model to gain insight into two critical problems: the emergence of spatial inequality in resource allocation and the formation of opinion polarization. First, I develop a novel equitability measure based on the p-median model to identify fragile and underserved regions in infrastructure networks. Second, I incorporate higher-order social structures into the non-linear voter model to delineate phases of opinion polarization. Connecting these threads is the overarching aim of elucidating how properties of interaction networks shape inequality and consensus. The voter model provides a common basis to represent cooperative and competitive dynamics across both domains. By introducing new metrics and social structures, I demonstrate how even simple mathematical models can capture complex collective behavior in spatial systems and social networks, shedding light on real-world challenges.
