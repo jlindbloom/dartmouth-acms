@@ -8,6 +8,22 @@ keep-md: true
 
 
 
+# Fall 2023
+
+Date      Speaker                                                                                                        Title
+--------  -------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11/14/23  [Georg Stadler](https://math.nyu.edu/~stadler/) (NYU)                                                          [Mitigating the nonlinearity in PDEs, with application to continuous sea ice models](/seminar_pages/StadlerF23.html)
+11/7/23   [Hiroki Sayama](https://bingweb.binghamton.edu/~sayama/) (Binghamton)                                          [Studying Social Fragmentation Using Adaptive Network-based Artificial Society Models](/seminar_pages/SayamaF23.html)
+10/31/23  [Will Thompson](https://www.willhwthompson.com/) (Vermont Complex Systems Center)                              [Understanding the Emergence of Inequality with Two Models of Social Dynamics](/seminar_pages/ThompsonF23.html)
+10/24/23  [Aditya Viswanathan](https://www-personal.umd.umich.edu/~adityavv/) (University of Michigan-Dearborn)          [Phaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging](/seminar_pages/ViswanathanF23.html)
+10/17/23  [Heather Zinn Brooks](https://sites.google.com/g.hmc.edu/hzinnbrooks?pli=1) (Harvey Mudd)                      [Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics](/seminar_pages/BrooksF23.html)
+10/10/23  [Daniel Watkins](https://danielmwatkins.com/) (Brown)                                                          [Dynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale](/seminar_pages/WatkinsF23.html)
+10/3/23   [Longmei Shu](https://math.dartmouth.edu/~lshu/) (Dartmouth, Mathematics)                                      [Dynamics of bimatrix games and a social-climate model](/seminar_pages/ShuF23.html)
+9/26/23   [Jacob Scott](https://case.edu/cancer/members/member-directory/jacob-scott) (Case Western Reserve University)  [Perturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control](/seminar_pages/ScottF23.html)
+9/19/23   [Tongtong Li](https://math.dartmouth.edu/~tli/) (Dartmouth, Mathematics)                                       [A structurally informed data assimilation approach for discontinuous state variables](/seminar_pages/LiF23.html)
+9/12/23   [Eugene Demidenko](https://www.eugened.org/) (Dartmouth, Mathematics)                                          [M-statistics: Optimal Statistical Inference for a Small Sample](/seminar_pages/DemidenkoF23.html)
+
+
 # Spring 2023
 
 Date     Speaker                                                                                       Title

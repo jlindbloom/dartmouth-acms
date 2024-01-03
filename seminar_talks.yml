@@ -1,3 +1,106 @@
+AlfantW24:
+    title: "TBA"
+    date: 3/5/23
+    speaker: Rachel Alfant
+    affiliation: Rice
+    speaker_url: https://rachaelalfant.github.io/
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+ValesW24:
+    title: "TBA"
+    date: 3/5/23
+    speaker: Chris Vales
+    affiliation: UNH
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+TBA4W24:
+    title: "TBA"
+    date: 2/27/23
+    speaker: TBA
+    affiliation: TBA
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+TBA3W24:
+    title: "TBA"
+    date: 2/20/23
+    speaker: TBA
+    affiliation: TBA
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+GriffinW24:
+    title: "TBA"
+    date: 2/13/23
+    speaker: Maryclare Griffin
+    affiliation: UMass Amherst
+    speaker_url: https://maryclare.github.io/
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+ManningW24:
+    title: "TBA"
+    date: 2/6/23
+    speaker: Jeremy Manning
+    affiliation: Dartmouth, PBS
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+TBA2W24:
+    title: "TBA"
+    date: 1/30/23
+    speaker: TBA
+    affiliation: TBA
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+TBA1W24:
+    title: "TBA"
+    date: 1/23/23
+    speaker: TBA
+    affiliation: TBA
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+ZhuW24:
+    title: "Symmetry-Preserving Machine Learning: Theory and Applications"
+    date: 1/16/23
+    speaker: Wei Zhu
+    affiliation: UMass Amherst
+    speaker_url: https://www.umass.edu/mathematics-statistics/directory/faculty/wei-zhu
+    abstract: "Symmetry is prevalent in a variety of machine learning and scientific computing tasks, including computer vision and computational modeling of physical and engineering systems. Empirical studies have demonstrated that machine learning models designed to integrate the intrinsic symmetry of their tasks often exhibit substantially improved performance. Despite extensive theoretical and engineering advancements in symmetry-preserving machine learning, several critical questions remain unaddressed, presenting unique challenges and opportunities for applied mathematicians. \n Firstly, real-world symmetries rarely manifest perfectly and are typically subject to various deformations. Therefore, a pivotal question arises: Can we effectively quantify and enhance the robustness of models to maintain an “approximate” symmetry, even under imperfect symmetry transformations? Secondly, although empirical evidence suggests that symmetry-preserving models require fewer training data to achieve equivalent accuracy, there is a need for more precise and rigorous quantification of this reduction in sample complexity attributable to symmetry preservation. Lastly, considering the non-convex nature of optimization in modern machine learning, can we ascertain whether algorithms like gradient descent can guide symmetry-preserving models to indeed converge to objectively better solutions compared to their generic counterparts, and if so, to what degree? \n In this talk, I will provide an overview of my research addressing these intriguing questions. Surprisingly, the answers are not as straightforward as one might assume and, in some cases, are counterintuitive. My approach employs an interesting blend of applied probability, harmonic analysis, differential geometry, and optimization. However, specialized knowledge in these areas is not required. "
+    slides_url: 
+    schedule: W24
+
+JebelliW24:
+    title: "TBA"
+    date: 1/9/23
+    speaker: Mohammad Javad Latifi Jebelli
+    affiliation: Dartmouth, Mathematics
+    speaker_url: https://math.dartmouth.edu/~mjebelli/
+    abstract: "TBA"
+    slides_url: 
+    schedule: W24
+
+
+
+
 ShuF23:
     title: "Dynamics of bimatrix games and a social-climate model"
     date: 10/3/23
