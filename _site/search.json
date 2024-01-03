@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 007.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/23\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nTBA\n\n\n1/16/23\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/23/23\nTBA (TBA)\nTBA\n\n\n1/30/23\nTBA (TBA)\nTBA\n\n\n2/6/23\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/23\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/23\nTBA (TBA)\nTBA\n\n\n2/27/23\nTBA (TBA)\nTBA\n\n\n3/5/23\nChris Vales (UNH)\nTBA\n\n\n3/5/23\nRachel Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 007.\nThe first two seminars on 1/9/24 and 1/16/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nTBA\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/23/24\nTBA (TBA)\nTBA\n\n\n1/30/24\nTBA (TBA)\nTBA\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/24\nTBA (TBA)\nTBA\n\n\n2/27/24\nTBA (TBA)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nTBA\n\n\n3/5/24\nRachel Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",
@@ -25,7 +25,7 @@
     "href": "seminar_pages/TBA3W24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 2/20/23\nAbstract: TBA"
+    "text": "Date: 2/20/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/ChenF22.html",
@@ -60,7 +60,7 @@
     "href": "seminar_pages/JebelliW24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 1/9/23\nAbstract: TBA"
+    "text": "Date: 1/9/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/PalmerW23.html",
@@ -88,7 +88,7 @@
     "href": "seminar_pages/TBA1W24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 1/23/23\nAbstract: TBA"
+    "text": "Date: 1/23/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/SingalS23.html",
@@ -186,35 +186,35 @@
     "href": "seminar_pages/TBA2W24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 1/30/23\nAbstract: TBA"
+    "text": "Date: 1/30/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/ManningW24.html",
     "href": "seminar_pages/ManningW24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 2/6/23\nAbstract: TBA"
+    "text": "Date: 2/6/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/ValesW24.html",
     "href": "seminar_pages/ValesW24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 3/5/23\nAbstract: TBA"
+    "text": "Date: 3/5/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/ZhuW24.html",
     "href": "seminar_pages/ZhuW24.html",
     "title": "Symmetry-Preserving Machine Learning: Theory and Applications",
     "section": "",
-    "text": "Date: 1/16/23\nAbstract: Symmetry is prevalent in a variety of machine learning and scientific computing tasks, including computer vision and computational modeling of physical and engineering systems. Empirical studies have demonstrated that machine learning models designed to integrate the intrinsic symmetry of their tasks often exhibit substantially improved performance. Despite extensive theoretical and engineering advancements in symmetry-preserving machine learning, several critical questions remain unaddressed, presenting unique challenges and opportunities for applied mathematicians. Firstly, real-world symmetries rarely manifest perfectly and are typically subject to various deformations. Therefore, a pivotal question arises: Can we effectively quantify and enhance the robustness of models to maintain an “approximate” symmetry, even under imperfect symmetry transformations? Secondly, although empirical evidence suggests that symmetry-preserving models require fewer training data to achieve equivalent accuracy, there is a need for more precise and rigorous quantification of this reduction in sample complexity attributable to symmetry preservation. Lastly, considering the non-convex nature of optimization in modern machine learning, can we ascertain whether algorithms like gradient descent can guide symmetry-preserving models to indeed converge to objectively better solutions compared to their generic counterparts, and if so, to what degree? In this talk, I will provide an overview of my research addressing these intriguing questions. Surprisingly, the answers are not as straightforward as one might assume and, in some cases, are counterintuitive. My approach employs an interesting blend of applied probability, harmonic analysis, differential geometry, and optimization. However, specialized knowledge in these areas is not required."
+    "text": "Date: 1/16/24\nAbstract: Symmetry is prevalent in a variety of machine learning and scientific computing tasks, including computer vision and computational modeling of physical and engineering systems. Empirical studies have demonstrated that machine learning models designed to integrate the intrinsic symmetry of their tasks often exhibit substantially improved performance. Despite extensive theoretical and engineering advancements in symmetry-preserving machine learning, several critical questions remain unaddressed, presenting unique challenges and opportunities for applied mathematicians. Firstly, real-world symmetries rarely manifest perfectly and are typically subject to various deformations. Therefore, a pivotal question arises: Can we effectively quantify and enhance the robustness of models to maintain an “approximate” symmetry, even under imperfect symmetry transformations? Secondly, although empirical evidence suggests that symmetry-preserving models require fewer training data to achieve equivalent accuracy, there is a need for more precise and rigorous quantification of this reduction in sample complexity attributable to symmetry preservation. Lastly, considering the non-convex nature of optimization in modern machine learning, can we ascertain whether algorithms like gradient descent can guide symmetry-preserving models to indeed converge to objectively better solutions compared to their generic counterparts, and if so, to what degree? In this talk, I will provide an overview of my research addressing these intriguing questions. Surprisingly, the answers are not as straightforward as one might assume and, in some cases, are counterintuitive. My approach employs an interesting blend of applied probability, harmonic analysis, differential geometry, and optimization. However, specialized knowledge in these areas is not required."
   },
   {
     "objectID": "seminar_pages/TBA4W24.html",
     "href": "seminar_pages/TBA4W24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 2/27/23\nAbstract: TBA"
+    "text": "Date: 2/27/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/ColbrookF22.html",
@@ -249,7 +249,7 @@
     "href": "seminar_pages/GriffinW24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 2/13/23\nAbstract: TBA"
+    "text": "Date: 2/13/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/JebelliF22.html",
@@ -277,7 +277,7 @@
     "href": "seminar_pages/AlfantW24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 3/5/23\nAbstract: TBA"
+    "text": "Date: 3/5/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/RigasF22.html",
