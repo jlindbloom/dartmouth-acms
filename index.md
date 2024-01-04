@@ -16,7 +16,7 @@ The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room
 
 Date     Speaker                                                                                            Title
 -------  -------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------
-1/9/24   [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)    [TBA](/seminar_pages/JebelliW24.html)
+1/9/24   [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)    [Kernel Smoothing Operators on Thick Open Domains](/seminar_pages/JebelliW24.html)
 1/16/24  [Wei Zhu](https://www.umass.edu/mathematics-statistics/directory/faculty/wei-zhu) (UMass Amherst)  [Symmetry-Preserving Machine Learning: Theory and Applications](/seminar_pages/ZhuW24.html)
 1/23/24  TBA (TBA)                                                                                          [TBA](/seminar_pages/TBA1W24.html)
 1/30/24  TBA (TBA)                                                                                          [TBA](/seminar_pages/TBA2W24.html)
