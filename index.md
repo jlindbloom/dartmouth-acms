@@ -8,7 +8,7 @@ keep-md: true
 
 The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, stochastic processes, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.
 
-The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room 007.
+The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room 307.
 
 <span style="color:red">*The first two seminars on 1/9/24 and 1/16/24 will instead be from 2:00 -- 3:00 PM.*</span>
 
