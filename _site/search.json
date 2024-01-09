@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe first two seminars on 1/9/24 and 1/16/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/23/24\nTBA (TBA)\nTBA\n\n\n1/30/24\nTBA (TBA)\nTBA\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/24\nTBA (TBA)\nTBA\n\n\n2/27/24\nTBA (TBA)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nTBA\n\n\n3/5/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe first three seminars on 1/9/24, 1/16/24, and 1/23/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/23/24\nMario Bencomo (California State U, Fresno)\nTBA\n\n\n1/30/24\nTBA (TBA)\nTBA\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/24\nTBA (TBA)\nTBA\n\n\n2/27/24\nTBA (TBA)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nTBA\n\n\n3/5/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",
@@ -82,13 +82,6 @@
     "title": "M-statistics: Optimal Statistical Inference for a Small Sample",
     "section": "",
     "text": "Date: 9/12/23\nAbstract: This talk presents a recently published book with the same title. We start with the 250-year-old problem of estimation binomial probability. The classic estimator, as the proportion of successes, m/n, contradicts common sense when the event does not happen or happens all the time. We revive Laplace’s law of succession estimator, (m+1)/(n+2), using a new statistical theory, M-statistics. Neither mean nor variance plays a role in the new theory. The current practice of statistical inference relies on asymptotic methods (large n), such as maximum likelihood (ML). The small-sample exact statistical inference is available only for a few examples, primarily linear models. Our theory requires a statistic with a known cumulative distribution function dependent on an unknown parameter. Two parallel competing tracks of inferences are offered under the umbrella of M-statistics: maximum concentration (MC) and mode (MO) statistics, which is why M=MC+MO. Having an optimal exact dual double-sided confidence interval (CI) and test, the point estimator is derived as the limit point of the CI when the confidence level approaches zero. When a statistic is sufficient, the MO-estimator, as the limit of the unbiased CI, coincides with the ML estimator. Our theory extends to multi-parameter statistical inference. Multiple examples illustrate the talk. This talk is accessible to undergraduate students who took elementary probability/statistics course."
-  },
-  {
-    "objectID": "seminar_pages/TBA1W24.html",
-    "href": "seminar_pages/TBA1W24.html",
-    "title": "TBA",
-    "section": "",
-    "text": "Date: 1/23/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/SingalS23.html",
@@ -306,5 +299,12 @@
     "title": "Dynamics of bimatrix games and a social-climate model",
     "section": "",
     "text": "Date: 10/3/23\nAbstract: In the first part of this presentation we consider replicator dynamics with feedback-evolving games, where the payoffs switch between two different matrices. Although each payoff matrix on its own represents an environment where cooperators and defectors can’t coexist stably, we show that it’s possible to design appropriate switching control laws and achieve persistent oscillations of strategy abundance. In the second part we couple the forest dieback model with human behaviors. Using evolutionary game theory, we build a time-delay system where forest growth is impacted by both temperature and human mitigation choices, the latter being informed by temperature forecasts. Simulations of the coupled system over 200 years show us varying outcomes."
+  },
+  {
+    "objectID": "seminar_pages/BencomoW24.html",
+    "href": "seminar_pages/BencomoW24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 1/23/24\nAbstract: TBA"
   }
 ]

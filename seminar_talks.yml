@@ -68,12 +68,12 @@ TBA2W24:
     slides_url: 
     schedule: W24
 
-TBA1W24:
+BencomoW24:
     title: "TBA"
     date: 1/23/24
-    speaker: TBA
-    affiliation: TBA
-    speaker_url: 
+    speaker: Mario Bencomo
+    affiliation: California State U, Fresno
+    speaker_url: https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html
     abstract: "TBA"
     slides_url: 
     schedule: W24
