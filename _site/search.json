@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe first three seminars on 1/9/24, 1/16/24, and 1/23/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/23/24\nMario Bencomo (California State U, Fresno)\nTBA\n\n\n1/30/24\nTBA (TBA)\nTBA\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/24\nTBA (TBA)\nTBA\n\n\n2/27/24\nTBA (TBA)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nTBA\n\n\n3/5/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe first three seminars on 1/9/24, 1/16/24, and 1/23/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/23/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n1/30/24\nTBA (TBA)\nTBA\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/24\nTBA (TBA)\nTBA\n\n\n2/27/24\nTBA (TBA)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nTBA\n\n\n3/12/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",
@@ -270,7 +270,7 @@
     "href": "seminar_pages/AlfantW24.html",
     "title": "TBA",
     "section": "",
-    "text": "Date: 3/5/24\nAbstract: TBA"
+    "text": "Date: 3/12/24\nAbstract: TBA"
   },
   {
     "objectID": "seminar_pages/RigasF22.html",
@@ -303,8 +303,8 @@
   {
     "objectID": "seminar_pages/BencomoW24.html",
     "href": "seminar_pages/BencomoW24.html",
-    "title": "TBA",
+    "title": "Topics in Differential Equations, Inverse Problems, and Optimal Control",
     "section": "",
-    "text": "Date: 1/23/24\nAbstract: TBA"
+    "text": "Date: 1/23/24\nAbstract: This talk covers a body of research under the category of optimization problems with differential equations as constraints, a unifying framework for some inverse and optimal control problems. The talk will focus on challenges associated with discretizing and estimating seismic sources as multipoles and discrete adjoint computations for relaxation Runge-Kutta methods. Accurate representation and estimation of seismic sources is crucial to the accuracy of imaging algorithms in exploration seismology. In order to account for source anisotropy, we model seismic sources of point-support as multipoles, i.e., a finite series of derivatives of the spatial delta function. We present a method for discretizing multipole sources in a finite difference setting. The multipole source inverse problem results in a highly ill-conditioned linear least squares problem which presents a challenge for iterative solvers such as conjugate gradient (CG). We propose a preconditioner consisting of time differo-integral operators based on analytical solutions to the wave equation to accelerate CG iterations. Relaxation Runge-Kutta (RRK) methods reproduce a fully discrete conservation of entropy for entropy stable semi-discretizations of nonlinear conservation laws. In this talk, we derive the discrete adjoint of RRK schemes, which are applicable to discretize-then-optimize approaches for optimal control problems. Numerical experiments demonstrate the importance of appropriately treating the relaxation parameter when computing the discrete adjoint."
   }
 ]

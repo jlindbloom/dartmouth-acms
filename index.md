@@ -15,17 +15,17 @@ The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room
 <!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
 
 Date     Speaker                                                                                                              Title
--------  -------------------------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------
+-------  -------------------------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------------------------
 1/9/24   [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)                      [Kernel Smoothing Operators on Thick Open Domains](/seminar_pages/JebelliW24.html)
 1/16/24  [Wei Zhu](https://www.umass.edu/mathematics-statistics/directory/faculty/wei-zhu) (UMass Amherst)                    [Symmetry-Preserving Machine Learning: Theory and Applications](/seminar_pages/ZhuW24.html)
-1/23/24  [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) (California State U, Fresno)  [TBA](/seminar_pages/BencomoW24.html)
+1/23/24  [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) (California State U, Fresno)  [Topics in Differential Equations, Inverse Problems, and Optimal Control](/seminar_pages/BencomoW24.html)
 1/30/24  TBA (TBA)                                                                                                            [TBA](/seminar_pages/TBA2W24.html)
 2/6/24   [Jeremy Manning](https://pbs.dartmouth.edu/people/jeremy-r-manning) (Dartmouth, PBS)                                 [TBA](/seminar_pages/ManningW24.html)
 2/13/24  [Maryclare Griffin](https://maryclare.github.io/) (UMass Amherst)                                                    [TBA](/seminar_pages/GriffinW24.html)
 2/20/24  TBA (TBA)                                                                                                            [TBA](/seminar_pages/TBA3W24.html)
 2/27/24  TBA (TBA)                                                                                                            [TBA](/seminar_pages/TBA4W24.html)
 3/5/24   Chris Vales (UNH)                                                                                                    [TBA](/seminar_pages/ValesW24.html)
-3/5/24   [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [TBA](/seminar_pages/AlfantW24.html)
+3/12/24  [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [TBA](/seminar_pages/AlfantW24.html)
 
 
 This seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu).
