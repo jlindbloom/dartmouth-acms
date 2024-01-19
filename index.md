@@ -18,8 +18,8 @@ Date     Speaker                                                                
 -------  -------------------------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------------------------
 1/9/24   [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)                      [Kernel Smoothing Operators on Thick Open Domains](/seminar_pages/JebelliW24.html)
 1/16/24  [Wei Zhu](https://www.umass.edu/mathematics-statistics/directory/faculty/wei-zhu) (UMass Amherst)                    [Symmetry-Preserving Machine Learning: Theory and Applications](/seminar_pages/ZhuW24.html)
-1/23/24  [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) (California State U, Fresno)  [Topics in Differential Equations, Inverse Problems, and Optimal Control](/seminar_pages/BencomoW24.html)
-1/30/24  TBA (TBA)                                                                                                            [TBA](/seminar_pages/TBA2W24.html)
+1/23/24  TBA (TBA)                                                                                                            [TBA](/seminar_pages/TBA2W24.html)
+1/30/24  [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) (California State U, Fresno)  [Topics in Differential Equations, Inverse Problems, and Optimal Control](/seminar_pages/BencomoW24.html)
 2/6/24   [Jeremy Manning](https://pbs.dartmouth.edu/people/jeremy-r-manning) (Dartmouth, PBS)                                 [TBA](/seminar_pages/ManningW24.html)
 2/13/24  [Maryclare Griffin](https://maryclare.github.io/) (UMass Amherst)                                                    [TBA](/seminar_pages/GriffinW24.html)
 2/20/24  TBA (TBA)                                                                                                            [TBA](/seminar_pages/TBA3W24.html)
