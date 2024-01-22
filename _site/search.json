@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe first three seminars on 1/9/24, 1/16/24, and 1/30/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/30/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/24\nTBA (TBA)\nTBA\n\n\n2/27/24\nTBA (TBA)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nTBA\n\n\n3/12/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe first three seminars on 1/9/24, 1/16/24, and 1/30/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/30/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nTBA\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTBA\n\n\n2/20/24\nTBA (TBA)\nTBA\n\n\n2/27/24\nCasey Dowdle (Dartmouth, Mathematics)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nEnergy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems\n\n\n3/12/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",
@@ -184,9 +184,9 @@
   {
     "objectID": "seminar_pages/ValesW24.html",
     "href": "seminar_pages/ValesW24.html",
-    "title": "TBA",
+    "title": "Energy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems",
     "section": "",
-    "text": "Date: 3/5/24\nAbstract: TBA"
+    "text": "Date: 3/5/24\nAbstract: Dimension reduction methods are used to approximate the numerical discretization of a model in order to reduce the computational cost of its simulation while staying faithful to the full dynamics. To achieve this, projection-based methods construct a reduced basis from full simulation data and project the dynamics onto the spanned linear subspace. For nonlinear problems, hyper-reduction methods are additionally needed to remove the dependence of the nonlinear terms on the full problem’s size, completing the reduction process. In this work, we develop an energy conservative hyperreduction method for hydrodynamics PDE problems discretized on a Lagrangian moving grid by high order finite element methods. Based on an existing empirical quadrature procedure, our method employs sparse numerical quadrature rules to estimate the model’s nonlinear integral terms with a chosen degree of accuracy while ensuring that energy is conserved. We apply our method to well established benchmark problems, demonstrating that it achieves superior energy conservation and similar accuracy and computational speedup compared to the preexisting, non-conservative method."
   },
   {
     "objectID": "seminar_pages/ZhuW24.html",
