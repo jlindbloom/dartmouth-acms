@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "How do our thoughts take shape?"
 ---
 **Speaker:** [Jeremy Manning](https://pbs.dartmouth.edu/people/jeremy-r-manning) (Dartmouth, PBS)
 
 **Date:** 2/6/24
 
-**Abstract:** TBA
+**Abstract:** How our brains support our ongoing conscious thoughts, and how (and what) we remember are some of the greatest mysteries of our species. My lab is pushing our understanding of these questions using computational models and neuroimaging. In my talk, I'll focus on our work using natural language processing models to characterize the content of people's experiences, memories, knowledge, behaviors, and interactions.

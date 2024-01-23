@@ -49,12 +49,12 @@ GriffinW24:
     schedule: W24
 
 ManningW24:
-    title: "TBA"
+    title: "How do our thoughts take shape?"
     date: 2/6/24
     speaker: Jeremy Manning
     affiliation: Dartmouth, PBS
     speaker_url: https://pbs.dartmouth.edu/people/jeremy-r-manning
-    abstract: "TBA"
+    abstract: "How our brains support our ongoing conscious thoughts, and how (and what) we remember are some of the greatest mysteries of our species. My lab is pushing our understanding of these questions using computational models and neuroimaging. In my talk, I'll focus on our work using natural language processing models to characterize the content of people's experiences, memories, knowledge, behaviors, and interactions."
     slides_url: 
     schedule: W24
 
