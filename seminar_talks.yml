@@ -20,7 +20,7 @@ ValesW24:
 
 TBA4W24:
     title: "TBA"
-    date: 2/27/24
+    date: 2/20/24
     speaker: Casey Dowdle
     affiliation: Dartmouth, Mathematics
     speaker_url: 
@@ -30,10 +30,10 @@ TBA4W24:
 
 TBA3W24:
     title: "TBA"
-    date: 2/20/24
-    speaker: TBA
-    affiliation: TBA
-    speaker_url: 
+    date: 2/27/24
+    speaker: Alex McAvoy 
+    affiliation: UNC Chapel Hill
+    speaker_url: https://datascience.unc.edu/person/alex-mcavoy/
     abstract: "TBA"
     slides_url: 
     schedule: W24

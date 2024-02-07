@@ -1,8 +1,8 @@
 ---
 title: "TBA"
 ---
-**Speaker:** TBA (TBA)
+**Speaker:** [Alex McAvoy](https://datascience.unc.edu/person/alex-mcavoy/) (UNC Chapel Hill)
 
-**Date:** 2/20/24
+**Date:** 2/27/24
 
 **Abstract:** TBA
