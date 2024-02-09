@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Quantum Computing and the Battle for Quantum Advantage"
 ---
 **Speaker:** Casey Dowdle (Dartmouth, Mathematics)
 
 **Date:** 2/20/24
 
-**Abstract:** TBA
+**Abstract:** Quantum computing has gained attention lately for several reasons, including academic, national security, and economic interests. Quantum advantage was first claimed in 2019 by Google in their random circuit sampling experiment. Since then there have been many other claims of quantum computers performing calculations faster than classical computers. However, every claim so far has been disproven through methods such as spoofing and tensor network simulation. In this talk I will give a brief overview of quantum theory, quantum computing, and the on-going controversy over quantum advantage.
