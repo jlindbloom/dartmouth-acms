@@ -18,7 +18,18 @@ ValesW24:
     slides_url: 
     schedule: W24
 
-TBA4W24:
+
+CJonesW24:
+    title: "Optimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models"
+    date: 2/21/24
+    speaker: Christopher Jones
+    affiliation: UNC Chapel Hill
+    speaker_url: https://tarheels.live/applieddynamics/christopher-jones/
+    abstract: "Data assimilation (DA) is a process by which information from the computational solution of a physical model and from observational data are combined to give a more accurate characterization of the physical situation under study. DA schemes are traditionally model-agnostic, but sophisticated numerical solvers offer an opportunity for the improvement of DA schemes through designing them to work in concert with the solver. The motivation comes from novel models of Arctic sea ice that are based on numerical solvers aimed at capturing such physical features as fractures and leads. These include the use of adaptive meshes and discontinuous Galerkin methods."
+    slides_url: 
+    schedule: W24
+
+DowdleW24:
     title: "Quantum Computing and the Battle for Quantum Advantage"
     date: 2/20/24
     speaker: Casey Dowdle
@@ -28,13 +39,13 @@ TBA4W24:
     slides_url: 
     schedule: W24
 
-TBA3W24:
-    title: "TBA"
+McAvoyW24:
+    title: "Evaluating mutation-selection dynamics in structured populations"
     date: 2/27/24
     speaker: Alex McAvoy 
     affiliation: UNC Chapel Hill
     speaker_url: https://datascience.unc.edu/person/alex-mcavoy/
-    abstract: "TBA"
+    abstract: "Evolutionary processes in structured populations are often studied under the assumption that traits/behaviors/types spread from vertex to vertex faithfully, with no mutation of types as they propagate. While some systems do have zero or small mutation rates, these models are limited in their expressiveness due to their inability to capture organisms with more frequent mutations. Such systems could be genetic in nature (e.g., viruses) or cultural (e.g., mutation as exploration of nearby behaviors). In this talk, I will describe a modeling approach that appeared around 15 years ago and describe recent work with a colleague that allows one to evaluate this class of models on heterogeneous networks. If time permits, I will briefly discuss some limitations of this model as well as plans for future work to make it more realistic."
     slides_url: 
     schedule: W24
 

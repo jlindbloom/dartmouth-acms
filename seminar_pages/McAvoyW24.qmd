@@ -1,0 +1,8 @@
+---
+title: "Evaluating mutation-selection dynamics in structured populations"
+---
+**Speaker:** [Alex McAvoy](https://datascience.unc.edu/person/alex-mcavoy/) (UNC Chapel Hill)
+
+**Date:** 2/27/24
+
+**Abstract:** Evolutionary processes in structured populations are often studied under the assumption that traits/behaviors/types spread from vertex to vertex faithfully, with no mutation of types as they propagate. While some systems do have zero or small mutation rates, these models are limited in their expressiveness due to their inability to capture organisms with more frequent mutations. Such systems could be genetic in nature (e.g., viruses) or cultural (e.g., mutation as exploration of nearby behaviors). In this talk, I will describe a modeling approach that appeared around 15 years ago and describe recent work with a colleague that allows one to evaluate this class of models on heterogeneous networks. If time permits, I will briefly discuss some limitations of this model as well as plans for future work to make it more realistic.

@@ -1,0 +1,8 @@
+---
+title: "Optimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models"
+---
+**Speaker:** [Christopher Jones](https://tarheels.live/applieddynamics/christopher-jones/) (UNC Chapel Hill)
+
+**Date:** 2/21/24
+
+**Abstract:** Data assimilation (DA) is a process by which information from the computational solution of a physical model and from observational data are combined to give a more accurate characterization of the physical situation under study. DA schemes are traditionally model-agnostic, but sophisticated numerical solvers offer an opportunity for the improvement of DA schemes through designing them to work in concert with the solver. The motivation comes from novel models of Arctic sea ice that are based on numerical solvers aimed at capturing such physical features as fractures and leads. These include the use of adaptive meshes and discontinuous Galerkin methods.

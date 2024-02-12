@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe first three seminars on 1/9/24, 1/16/24, and 1/30/24 will instead be from 2:00 – 3:00 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/30/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nHow do our thoughts take shape?\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTesting and estimation for sparsity-inducing power penalties\n\n\n2/20/24\nCasey Dowdle (Dartmouth, Mathematics)\nQuantum Computing and the Battle for Quantum Advantage\n\n\n2/27/24\nAlex McAvoy (UNC Chapel Hill)\nTBA\n\n\n3/5/24\nChris Vales (UNH)\nEnergy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems\n\n\n3/12/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\nThe Wednesday 2/21/24 talk by Christopher Jones will be from 3:30 – 4:30 PM.\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/30/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nHow do our thoughts take shape?\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTesting and estimation for sparsity-inducing power penalties\n\n\n2/20/24\nCasey Dowdle (Dartmouth, Mathematics)\nQuantum Computing and the Battle for Quantum Advantage\n\n\n2/21/24\nChristopher Jones (UNC Chapel Hill)\nOptimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models\n\n\n2/27/24\nAlex McAvoy (UNC Chapel Hill)\nEvaluating mutation-selection dynamics in structured populations\n\n\n3/5/24\nChris Vales (UNH)\nEnergy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems\n\n\n3/12/24\nRachael Alfant (Rice)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",
@@ -21,11 +21,11 @@
     "text": "The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The topics and audience will broadly cover mathematics, computational science, network science, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind."
   },
   {
-    "objectID": "seminar_pages/TBA3W24.html",
-    "href": "seminar_pages/TBA3W24.html",
-    "title": "TBA",
+    "objectID": "seminar_pages/CJonesW24.html",
+    "href": "seminar_pages/CJonesW24.html",
+    "title": "Optimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models",
     "section": "",
-    "text": "Date: 2/27/24\nAbstract: TBA"
+    "text": "Date: 2/21/24\nAbstract: Data assimilation (DA) is a process by which information from the computational solution of a physical model and from observational data are combined to give a more accurate characterization of the physical situation under study. DA schemes are traditionally model-agnostic, but sophisticated numerical solvers offer an opportunity for the improvement of DA schemes through designing them to work in concert with the solver. The motivation comes from novel models of Arctic sea ice that are based on numerical solvers aimed at capturing such physical features as fractures and leads. These include the use of adaptive meshes and discontinuous Galerkin methods."
   },
   {
     "objectID": "seminar_pages/ChenF22.html",
@@ -196,13 +196,6 @@
     "text": "Date: 1/16/24\nAbstract: Symmetry is prevalent in a variety of machine learning and scientific computing tasks, including computer vision and computational modeling of physical and engineering systems. Empirical studies have demonstrated that machine learning models designed to integrate the intrinsic symmetry of their tasks often exhibit substantially improved performance. Despite extensive theoretical and engineering advancements in symmetry-preserving machine learning, several critical questions remain unaddressed, presenting unique challenges and opportunities for applied mathematicians. Firstly, real-world symmetries rarely manifest perfectly and are typically subject to various deformations. Therefore, a pivotal question arises: Can we effectively quantify and enhance the robustness of models to maintain an “approximate” symmetry, even under imperfect symmetry transformations? Secondly, although empirical evidence suggests that symmetry-preserving models require fewer training data to achieve equivalent accuracy, there is a need for more precise and rigorous quantification of this reduction in sample complexity attributable to symmetry preservation. Lastly, considering the non-convex nature of optimization in modern machine learning, can we ascertain whether algorithms like gradient descent can guide symmetry-preserving models to indeed converge to objectively better solutions compared to their generic counterparts, and if so, to what degree? In this talk, I will provide an overview of my research addressing these intriguing questions. Surprisingly, the answers are not as straightforward as one might assume and, in some cases, are counterintuitive. My approach employs an interesting blend of applied probability, harmonic analysis, differential geometry, and optimization. However, specialized knowledge in these areas is not required."
   },
   {
-    "objectID": "seminar_pages/TBA4W24.html",
-    "href": "seminar_pages/TBA4W24.html",
-    "title": "Quantum Computing and the Battle for Quantum Advantage",
-    "section": "",
-    "text": "Date: 2/20/24\nAbstract: Quantum computing has gained attention lately for several reasons, including academic, national security, and economic interests. Quantum advantage was first claimed in 2019 by Google in their random circuit sampling experiment. Since then there have been many other claims of quantum computers performing calculations faster than classical computers. However, every claim so far has been disproven through methods such as spoofing and tensor network simulation. In this talk I will give a brief overview of quantum theory, quantum computing, and the on-going controversy over quantum advantage."
-  },
-  {
     "objectID": "seminar_pages/ColbrookF22.html",
     "href": "seminar_pages/ColbrookF22.html",
     "title": "On spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond",
@@ -266,6 +259,13 @@
     "text": "Date: 3/12/24\nAbstract: TBA"
   },
   {
+    "objectID": "seminar_pages/DowdleW24.html",
+    "href": "seminar_pages/DowdleW24.html",
+    "title": "Quantum Computing and the Battle for Quantum Advantage",
+    "section": "",
+    "text": "Date: 2/20/24\nAbstract: Quantum computing has gained attention lately for several reasons, including academic, national security, and economic interests. Quantum advantage was first claimed in 2019 by Google in their random circuit sampling experiment. Since then there have been many other claims of quantum computers performing calculations faster than classical computers. However, every claim so far has been disproven through methods such as spoofing and tensor network simulation. In this talk I will give a brief overview of quantum theory, quantum computing, and the on-going controversy over quantum advantage."
+  },
+  {
     "objectID": "seminar_pages/RigasF22.html",
     "href": "seminar_pages/RigasF22.html",
     "title": "Variational quantum algorithm for numerical PDE solving",
@@ -285,6 +285,13 @@
     "title": "New Approaches to Positive Semidefinite Matrix Recovery",
     "section": "",
     "text": "Date: 4/11/23\nAbstract: We study algorithms that exploit constraint geometry to solve the matrix recovery problem over positive semidefinite matrices. We consider the problem in two separate settings. In the first setting, we study low-rank matrix recovery. We develop a new connection between this problem and the Wasserstein barycenter problem. Through this connection, we derive geometric first-order methods that have convergence guarantees in Bures-Wasserstein distance. In the second setting, we study the problem of graph Laplacian matrix recovery. In this setting, we derive first-order methods that exploit the constraint set geometry that again are guaranteed to efficiently recover the underlying matrix. Experiments on simulated and real data demonstrate the advantages of our new methodologies over existing methods."
+  },
+  {
+    "objectID": "seminar_pages/McAvoyW24.html",
+    "href": "seminar_pages/McAvoyW24.html",
+    "title": "Evaluating mutation-selection dynamics in structured populations",
+    "section": "",
+    "text": "Date: 2/27/24\nAbstract: Evolutionary processes in structured populations are often studied under the assumption that traits/behaviors/types spread from vertex to vertex faithfully, with no mutation of types as they propagate. While some systems do have zero or small mutation rates, these models are limited in their expressiveness due to their inability to capture organisms with more frequent mutations. Such systems could be genetic in nature (e.g., viruses) or cultural (e.g., mutation as exploration of nearby behaviors). In this talk, I will describe a modeling approach that appeared around 15 years ago and describe recent work with a colleague that allows one to evaluate this class of models on heterogeneous networks. If time permits, I will briefly discuss some limitations of this model as well as plans for future work to make it more realistic."
   },
   {
     "objectID": "seminar_pages/ShuF23.html",
