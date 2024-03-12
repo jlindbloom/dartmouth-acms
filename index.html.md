@@ -1,0 +1,38 @@
+---
+title: Current Seminar
+echo: false
+section-divs: false
+keep-md: true
+---
+
+
+
+
+The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, stochastic processes, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.
+
+The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room 307.
+
+<!-- <span style="color:red">*The Wednesday 2/21/24 talk by Christopher Jones will be from 3:30 -- 4:30 PM.*</span> -->
+
+
+
+<!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
+
+Date     Speaker                                                                                                              Title
+-------  -------------------------------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
+1/9/24   [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)                      [Kernel Smoothing Operators on Thick Open Domains](/seminar_pages/JebelliW24.html)
+1/16/24  [Wei Zhu](https://www.umass.edu/mathematics-statistics/directory/faculty/wei-zhu) (UMass Amherst)                    [Symmetry-Preserving Machine Learning: Theory and Applications](/seminar_pages/ZhuW24.html)
+1/30/24  [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) (California State U, Fresno)  [Topics in Differential Equations, Inverse Problems, and Optimal Control](/seminar_pages/BencomoW24.html)
+2/6/24   [Jeremy Manning](https://pbs.dartmouth.edu/people/jeremy-r-manning) (Dartmouth, PBS)                                 [How do our thoughts take shape?](/seminar_pages/ManningW24.html)
+2/13/24  [Maryclare Griffin](https://maryclare.github.io/) (UMass Amherst)                                                    [Testing and estimation for sparsity-inducing power penalties](/seminar_pages/GriffinW24.html)
+2/20/24  Casey Dowdle (Dartmouth, Mathematics)                                                                                [Quantum Computing and the Battle for Quantum Advantage](/seminar_pages/DowdleW24.html)
+2/21/24  [Christopher Jones](https://tarheels.live/applieddynamics/christopher-jones/) (UNC Chapel Hill)                      [Optimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models](/seminar_pages/CJonesW24.html)
+2/27/24  [Alex McAvoy](https://datascience.unc.edu/person/alex-mcavoy/) (UNC Chapel Hill)                                     [Evaluating mutation-selection dynamics in structured populations](/seminar_pages/McAvoyW24.html)
+3/5/24   Chris Vales (UNH)                                                                                                    [Energy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems](/seminar_pages/ValesW24.html)
+3/12/24  [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems](/seminar_pages/AlfantW24.html)
+
+
+This seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu).
+
+![](acms_banner.JPG)
+

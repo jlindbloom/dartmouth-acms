@@ -1,3 +1,117 @@
+
+BovierS24:
+    title: "TBA"
+    date: 5/28/24
+    speaker: Anton Bovier
+    affiliation: UBonn, Germany
+    speaker_url: https://wt.iam.uni-bonn.de/bovier/home/
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+RenS24:
+    title: "TBA"
+    date: 5/21/24
+    speaker: Kui Ren
+    affiliation: Columbia
+    speaker_url: https://www.columbia.edu/~kr2002/
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+SideriusS24:
+    title: "TBA"
+    date: 5/14/24
+    speaker: James Siderius
+    affiliation: Dartmouth, Tuck
+    speaker_url: https://www.tuck.dartmouth.edu/faculty/faculty-directory/james-siderius
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+ErtemS24:
+    title: "TBA"
+    date: 5/7/24
+    speaker: Zeynep Ertem
+    affiliation: Binghamton
+    speaker_url: https://www.binghamton.edu/ssie/people/profile.html?id=zeynep
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+TBA2S24:
+    title: "TBA"
+    date: 4/30/24
+    speaker: TBA
+    affiliation: 
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+TBA1S24:
+    title: "TBA"
+    date: 4/23/24
+    speaker: TBA
+    affiliation: 
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+LucibelloS24:
+    title: "TBA"
+    date: 4/16/24
+    speaker: Carlo Lucibello
+    affiliation: Bocconi University
+    speaker_url: https://carlolucibello.github.io/
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+BatesS24:
+    title: "TBA"
+    date: 4/9/24
+    speaker: Erik Bates
+    affiliation: NCSU
+    speaker_url: https://www.ewbates.com/home
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+LeeksS24:
+    title: "TBA"
+    date: 4/2/24
+    speaker: Asher Leeks
+    affiliation: Yale
+    speaker_url: https://asherleeks.com/
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+ZhaoS24:
+    title: "TBA"
+    date: 3/26/24
+    speaker: Wenjun Zhao
+    affiliation: Brown
+    speaker_url: https://wenjunzhaowo.github.io/
+    abstract: "TBA"
+    slides_url: 
+    schedule: S24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 AlfantW24:
     title: "A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems"
     date: 3/12/24
@@ -70,15 +184,6 @@ ManningW24:
     slides_url: 
     schedule: W24
 
-# TBA2W24:
-#     title: "TBA"
-#     date: 1/23/24
-#     speaker: TBA
-#     affiliation: TBA
-#     speaker_url: 
-#     abstract: "TBA"
-#     slides_url: 
-#     schedule: W24
 
 BencomoW24:
     title: "Topics in Differential Equations, Inverse Problems, and Optimal Control"
@@ -430,19 +535,6 @@ ColbrookF22:
     abstract: "Computing spectral properties of operators is fundamental in the sciences, with many applications. However, the infinite-dimensional problem is infamously difficult - common difficulties include spectral pollution and continuous spectra. This two part talk will address two examples: (a) computation of spectral measures for general self-adjoint operators (b) computation of spectral properties of Koopman operators. Finally, we discuss how these results fit into a wider programme on infinite-dimensional spectral computations and beyond."
     slides_url: 
     schedule: F22
-
-
-
-
-# Title:
-#     title: 
-#     date: 
-#     speaker: 
-#     affiliation: 
-#     speaker_url: 
-#     abstract: 
-#     slides_url: 
-#     schedule:
 
 
 
