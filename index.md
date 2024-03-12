@@ -10,7 +10,9 @@ The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings tog
 
 The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room 307.
 
-<span style="color:red">*The Wednesday 2/21/24 talk by Christopher Jones will be from 3:30 -- 4:30 PM.*</span>
+<!-- <span style="color:red">*The Wednesday 2/21/24 talk by Christopher Jones will be from 3:30 -- 4:30 PM.*</span> -->
+
+
 
 <!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
 
@@ -25,7 +27,7 @@ Date     Speaker                                                                
 2/21/24  [Christopher Jones](https://tarheels.live/applieddynamics/christopher-jones/) (UNC Chapel Hill)                      [Optimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models](/seminar_pages/CJonesW24.html)
 2/27/24  [Alex McAvoy](https://datascience.unc.edu/person/alex-mcavoy/) (UNC Chapel Hill)                                     [Evaluating mutation-selection dynamics in structured populations](/seminar_pages/McAvoyW24.html)
 3/5/24   Chris Vales (UNH)                                                                                                    [Energy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems](/seminar_pages/ValesW24.html)
-3/12/24  [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [TBA](/seminar_pages/AlfantW24.html)
+3/12/24  [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems](/seminar_pages/AlfantW24.html)
 
 
 This seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu).

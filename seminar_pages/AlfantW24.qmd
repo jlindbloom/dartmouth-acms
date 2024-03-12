@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems"
 ---
 **Speaker:** [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)
 
 **Date:** 3/12/24
 
-**Abstract:** TBA
+**Abstract:** Stochastic programs refer to optimization problems for which some of the problem parameters are unknown, but are assumed to follow a known probability distribution. They provide a particularly useful structured framework that is utilized in many industry applications for maximizing profit under demand uncertainty. This talk presents a high-level overview of stochastic programming, as well as an application in cloud computing. Optimization is a critical component in the allocation of cloud computing resources, in order to ensure that providers are maximizing revenue (and minimizing energy wastage) while simultaneously guaranteeing an acceptable level of service to their users. However, this problem is made complex by the periodic uncertainty underlying users' demand for these resources. Thus, this talk presents a stochastic programming approach to capacity allocation in the cloud under uncertain demand that minimizes wasted computing capacity and maximizes revenue, with a particular focus on the spot market.
