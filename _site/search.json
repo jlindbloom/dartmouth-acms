@@ -1,0 +1,394 @@
+[
+  {
+    "objectID": "past_seminars.html",
+    "href": "past_seminars.html",
+    "title": "Past Seminars",
+    "section": "",
+    "text": "Date\nSpeaker\nTitle\n\n\n\n\n3/12/24\nRachael Alfant (Rice)\nA Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems\n\n\n3/5/24\nChris Vales (UNH)\nEnergy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems\n\n\n2/27/24\nAlex McAvoy (UNC Chapel Hill)\nEvaluating mutation-selection dynamics in structured populations\n\n\n2/21/24\nChristopher Jones (UNC Chapel Hill)\nOptimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models\n\n\n2/20/24\nCasey Dowdle (Dartmouth, Mathematics)\nQuantum Computing and the Battle for Quantum Advantage\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTesting and estimation for sparsity-inducing power penalties\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nHow do our thoughts take shape?\n\n\n1/30/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n\nFall 2023\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n11/14/23\nGeorg Stadler (NYU)\nMitigating the nonlinearity in PDEs, with application to continuous sea ice models\n\n\n11/7/23\nHiroki Sayama (Binghamton)\nStudying Social Fragmentation Using Adaptive Network-based Artificial Society Models\n\n\n10/31/23\nWill Thompson (Vermont Complex Systems Center)\nUnderstanding the Emergence of Inequality with Two Models of Social Dynamics\n\n\n10/24/23\nAditya Viswanathan (University of Michigan-Dearborn)\nPhaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging\n\n\n10/17/23\nHeather Zinn Brooks (Harvey Mudd)\nEmergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics\n\n\n10/10/23\nDaniel Watkins (Brown)\nDynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale\n\n\n10/3/23\nLongmei Shu (Dartmouth, Mathematics)\nDynamics of bimatrix games and a social-climate model\n\n\n9/26/23\nJacob Scott (Case Western Reserve University)\nPerturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control\n\n\n9/19/23\nTongtong Li (Dartmouth, Mathematics)\nA structurally informed data assimilation approach for discontinuous state variables\n\n\n9/12/23\nEugene Demidenko (Dartmouth, Mathematics)\nM-statistics: Optimal Statistical Inference for a Small Sample\n\n\n\nSpring 2023\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n5/30/23\nEthan Levien (Dartmouth, Mathematics)\nEvolution in the presence of large (but finite) offspring fluctuations\n\n\n5/23/23\nBen Allen (Emmanuel College)\nNatural selection for collective action\n\n\n5/16/23\nMaximilian Ramgraber (MIT)\nAdaptive localization in nonlinear ensemble transport filtering\n\n\n5/9/23\nJason Wei (OpenAI)\nScaling unlocks emergent abilities in language models\n\n\n4/25/23\nSoroush Vosoughi (Dartmouth, CS)\nUnsupervised Structural Graph Representation Learning\n\n\n4/11/23\nTyler Maunu (Brandeis)\nNew Approaches to Positive Semidefinite Matrix Recovery\n\n\n4/4/23\nEugene Santos Jr. (Dartmouth, Thayer)\nLearning the Finer Things\n\n\n3/28/23\nMatt Jones (Yale)\nNash Equilibrium in a Low-Information Vote Trading Game\n\n\n\nWinter 2023\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n2/14/23\nRob Frost (Dartmouth, Geisel)\nEigenvectors from eigenvalues sparse principal component analysis\n\n\n2/7/23\nDavid Palmer (MIT)\nApplied Geometric Measure Theory from DeepCurrents to Topological Defects\n\n\n1/24/23\nPhil Chodrow (Middlebury College)\nGenerative Hypergraph Clustering: Scalable Heuristics and Sparse Thresholds\n\n\n\nFall 2022\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n11/15/23\nMatt Colbrook and Alex Townsend (Cambridge, Cornell)\nOn spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond\n\n\n11/8/23\nYanlai Chen (UMass Dartmouth)\nEIM-degradation free RBM via over collocation and residual hyper reduction and its application to fluid flow problems and optimal mass transport\n\n\n10/25/23\nAlex Barnett (Flatiron Institute)\nEquispaced Fourier representations for efficient Gaussian process regression from a billion data points\n\n\n10/18/23\nLu Zhang (Columbia University)\nCoupling physics-deep learning inversion\n\n\n10/11/23\nPankaj Mehta (Boston University)\nComplex systems in high dimensions: from Machine Learning to Microbial Ecology\n\n\n10/4/23\nGaik Ambartsoumian (UT Arlington)\nBroken Rays, Cones, and Stars in Tomography\n\n\n9/27/23\nZachary Kilpatrick (University of Colorado Boulder)\nStochastic dynamics of decision-making: From individuals to groups\n\n\n9/20/23\nPete Rigas (Cornell)\nVariational quantum algorithm for numerical PDE solving\n\n\n9/13/23\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nOPUC and Super Telescoping Formula\n\n\n\nStill adding the rest of the history back to Spring 2006…"
+  },
+  {
+    "objectID": "index.html.html",
+    "href": "index.html.html",
+    "title": "Current Seminar",
+    "section": "",
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/30/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nHow do our thoughts take shape?\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTesting and estimation for sparsity-inducing power penalties\n\n\n2/20/24\nCasey Dowdle (Dartmouth, Mathematics)\nQuantum Computing and the Battle for Quantum Advantage\n\n\n2/21/24\nChristopher Jones (UNC Chapel Hill)\nOptimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models\n\n\n2/27/24\nAlex McAvoy (UNC Chapel Hill)\nEvaluating mutation-selection dynamics in structured populations\n\n\n3/5/24\nChris Vales (UNH)\nEnergy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems\n\n\n3/12/24\nRachael Alfant (Rice)\nA Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Current Seminar",
+    "section": "",
+    "text": "The seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n3/26/24\nWenjun Zhao (Brown)\nTBA\n\n\n4/2/24\nAsher Leeks (Yale)\nTBA\n\n\n4/9/24\nErik Bates (NCSU)\nTBA\n\n\n4/16/24\nCarlo Lucibello (Bocconi University)\nTBA\n\n\n4/23/24\nTBA (None)\nTBA\n\n\n4/30/24\nTBA (None)\nTBA\n\n\n5/7/24\nZeynep Ertem (Binghamton)\nTBA\n\n\n5/14/24\nJames Siderius (Dartmouth, Tuck)\nTBA\n\n\n5/21/24\nKui Ren (Columbia)\nTBA\n\n\n5/28/24\nAnton Bovier (UBonn, Germany)\nTBA\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+  },
+  {
+    "objectID": "past_seminars.html.html",
+    "href": "past_seminars.html.html",
+    "title": "Past Seminars",
+    "section": "",
+    "text": "Date\nSpeaker\nTitle\n\n\n\n\n3/12/24\nRachael Alfant (Rice)\nA Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems\n\n\n3/5/24\nChris Vales (UNH)\nEnergy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems\n\n\n2/27/24\nAlex McAvoy (UNC Chapel Hill)\nEvaluating mutation-selection dynamics in structured populations\n\n\n2/21/24\nChristopher Jones (UNC Chapel Hill)\nOptimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models\n\n\n2/20/24\nCasey Dowdle (Dartmouth, Mathematics)\nQuantum Computing and the Battle for Quantum Advantage\n\n\n2/13/24\nMaryclare Griffin (UMass Amherst)\nTesting and estimation for sparsity-inducing power penalties\n\n\n2/6/24\nJeremy Manning (Dartmouth, PBS)\nHow do our thoughts take shape?\n\n\n1/30/24\nMario Bencomo (California State U, Fresno)\nTopics in Differential Equations, Inverse Problems, and Optimal Control\n\n\n1/16/24\nWei Zhu (UMass Amherst)\nSymmetry-Preserving Machine Learning: Theory and Applications\n\n\n1/9/24\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nKernel Smoothing Operators on Thick Open Domains\n\n\n\n\n\nFall 2023\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n11/14/23\nGeorg Stadler (NYU)\nMitigating the nonlinearity in PDEs, with application to continuous sea ice models\n\n\n11/7/23\nHiroki Sayama (Binghamton)\nStudying Social Fragmentation Using Adaptive Network-based Artificial Society Models\n\n\n10/31/23\nWill Thompson (Vermont Complex Systems Center)\nUnderstanding the Emergence of Inequality with Two Models of Social Dynamics\n\n\n10/24/23\nAditya Viswanathan (University of Michigan-Dearborn)\nPhaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging\n\n\n10/17/23\nHeather Zinn Brooks (Harvey Mudd)\nEmergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics\n\n\n10/10/23\nDaniel Watkins (Brown)\nDynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale\n\n\n10/3/23\nLongmei Shu (Dartmouth, Mathematics)\nDynamics of bimatrix games and a social-climate model\n\n\n9/26/23\nJacob Scott (Case Western Reserve University)\nPerturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control\n\n\n9/19/23\nTongtong Li (Dartmouth, Mathematics)\nA structurally informed data assimilation approach for discontinuous state variables\n\n\n9/12/23\nEugene Demidenko (Dartmouth, Mathematics)\nM-statistics: Optimal Statistical Inference for a Small Sample\n\n\n\n\n\nSpring 2023\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n5/30/23\nEthan Levien (Dartmouth, Mathematics)\nEvolution in the presence of large (but finite) offspring fluctuations\n\n\n5/23/23\nBen Allen (Emmanuel College)\nNatural selection for collective action\n\n\n5/16/23\nMaximilian Ramgraber (MIT)\nAdaptive localization in nonlinear ensemble transport filtering\n\n\n5/9/23\nJason Wei (OpenAI)\nScaling unlocks emergent abilities in language models\n\n\n4/25/23\nSoroush Vosoughi (Dartmouth, CS)\nUnsupervised Structural Graph Representation Learning\n\n\n4/11/23\nTyler Maunu (Brandeis)\nNew Approaches to Positive Semidefinite Matrix Recovery\n\n\n4/4/23\nEugene Santos Jr. (Dartmouth, Thayer)\nLearning the Finer Things\n\n\n3/28/23\nMatt Jones (Yale)\nNash Equilibrium in a Low-Information Vote Trading Game\n\n\n\n\n\nWinter 2023\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n2/14/23\nRob Frost (Dartmouth, Geisel)\nEigenvectors from eigenvalues sparse principal component analysis\n\n\n2/7/23\nDavid Palmer (MIT)\nApplied Geometric Measure Theory from DeepCurrents to Topological Defects\n\n\n1/24/23\nPhil Chodrow (Middlebury College)\nGenerative Hypergraph Clustering: Scalable Heuristics and Sparse Thresholds\n\n\n\n\n\nFall 2022\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n11/15/23\nMatt Colbrook and Alex Townsend (Cambridge, Cornell)\nOn spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond\n\n\n11/8/23\nYanlai Chen (UMass Dartmouth)\nEIM-degradation free RBM via over collocation and residual hyper reduction and its application to fluid flow problems and optimal mass transport\n\n\n10/25/23\nAlex Barnett (Flatiron Institute)\nEquispaced Fourier representations for efficient Gaussian process regression from a billion data points\n\n\n10/18/23\nLu Zhang (Columbia University)\nCoupling physics-deep learning inversion\n\n\n10/11/23\nPankaj Mehta (Boston University)\nComplex systems in high dimensions: from Machine Learning to Microbial Ecology\n\n\n10/4/23\nGaik Ambartsoumian (UT Arlington)\nBroken Rays, Cones, and Stars in Tomography\n\n\n9/27/23\nZachary Kilpatrick (University of Colorado Boulder)\nStochastic dynamics of decision-making: From individuals to groups\n\n\n9/20/23\nPete Rigas (Cornell)\nVariational quantum algorithm for numerical PDE solving\n\n\n9/13/23\nMohammad Javad Latifi Jebelli (Dartmouth, Mathematics)\nOPUC and Super Telescoping Formula\n\n\n\n\n\nStill adding the rest of the history back to Spring 2006…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The topics and audience will broadly cover mathematics, computational science, network science, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind."
+  },
+  {
+    "objectID": "seminar_pages/CJonesW24.html",
+    "href": "seminar_pages/CJonesW24.html",
+    "title": "Optimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models",
+    "section": "",
+    "text": "Date: 2/21/24\nAbstract: Data assimilation (DA) is a process by which information from the computational solution of a physical model and from observational data are combined to give a more accurate characterization of the physical situation under study. DA schemes are traditionally model-agnostic, but sophisticated numerical solvers offer an opportunity for the improvement of DA schemes through designing them to work in concert with the solver. The motivation comes from novel models of Arctic sea ice that are based on numerical solvers aimed at capturing such physical features as fractures and leads. These include the use of adaptive meshes and discontinuous Galerkin methods."
+  },
+  {
+    "objectID": "seminar_pages/TBA1S24.html",
+    "href": "seminar_pages/TBA1S24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 4/23/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/BovierS24.html",
+    "href": "seminar_pages/BovierS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 5/28/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/ChenF22.html",
+    "href": "seminar_pages/ChenF22.html",
+    "title": "EIM-degradation free RBM via over collocation and residual hyper reduction and its application to fluid flow problems and optimal mass transport",
+    "section": "",
+    "text": "Date: 11/8/23\nAbstract: The need for multiple interactive, real-time simulations using different parameter values has driven the design of fast numerical algorithms with certifiable accuracies. The reduced basis method (RBM) presents itself as such an option. RBM features a mathematically rigorous error estimator which drives the construction of a low-dimensional subspace. A surrogate solution is then sought in this low-dimensional space approximating the parameter-induced high fidelity solution manifold. However when the system is nonlinear or its parameter dependence nonaffine, this efficiency gain degrades tremendously, an inherent drawback of the application of the empirical interpolation method (EIM). In this talk, we present an EIM-degradation free RBM via over collocation and residual hyper reduction-based error estimation. It augments and extends the EIM approach as a direct solver, as opposed to an assistant, for solving nonlinear partial differential equations on the reduced level. Collocating at about twice as many locations as the number of basis elements and featuring an adaptive hyper reduction of the residuals for the reduced solution, this R2-ROC scheme is stable, offline- and online-efficient, and capable of avoiding the efficiency degradation. Time permitting, applications of R2-ROC to fast simulations of parametric fluid flow problems and optimal mass transport will be presented."
+  },
+  {
+    "objectID": "seminar_pages/BrooksF23.html",
+    "href": "seminar_pages/BrooksF23.html",
+    "title": "Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics",
+    "section": "",
+    "text": "Date: 10/17/23\nAbstract: We propose a nonlinear bounded-confidence model (BCM) of continuous time opinion dynamics on networks with both persuadable individuals and zealots. The model is parameterized by a scalar γ, which controls the steepness of a smooth influence function that encodes the relative weights that nodes place on the opinions of other nodes. When γ = 0, this influence function exactly recovers Taylor’s averaging model; when γ → ∞, the influence function converges to that of a modified Hegselmann–Krause (HK) BCM. Unlike the classical HK model, however, our sigmoidal bounded-confidence model (SBCM) is smooth for any finite γ. We show that the set of steady states of our SBCM is qualitatively similar to that of the Taylor model when γ is small and that the set of steady states approaches a subset of the set of steady states of a modified HK model as γ → ∞. For several special graph topologies, we give analytical descriptions of important features of the space of steady states. A notable result is a closed-form relationship between the stability of a polarized state and the graph topology in a simple model of echo chambers in social networks. Because the influence function of our BCM is smooth, we are able to study it with linear stability analysis, which is difficult to employ with the usual discontinuous influence functions in BCMs. This is joint work with Phil Chodrow and Mason Porter."
+  },
+  {
+    "objectID": "seminar_pages/SayamaF23.html",
+    "href": "seminar_pages/SayamaF23.html",
+    "title": "Studying Social Fragmentation Using Adaptive Network-based Artificial Society Models",
+    "section": "",
+    "text": "Date: 11/7/23\nAbstract: The rapid adoption of social media and smartphones that has occurred over the past few decades has made it dramatically easier for everyone to freely choose and access a variety of information sources. However, numerous studies have shown that such a society with faster and more personalized information circulation is not necessarily conducive to integration and consensus building, but on the contrary, tends to promote division among communities with incompatible views. It is thus crucial to understand the possible dynamical mechanisms that cause social fragmentation and to properly manage them according to societal conditions and needs. “Artificial society” research plays an important role in this front, developing mathematical models of social dynamics and exploring possible forms and behaviors of various hypothetical societies, rather than studying the current state of society only empirically. In this talk, I will introduce two examples of our recent studies on social fragmentation using coevolutionary adaptive social network models as concrete examples of artificial society research. The first study investigated the effects of individual behavioral traits on macroscopic social evolution using a simple opinion dynamics model on adaptive social networks. The second study used a more detailed computational agent-based model to demonstrate that a “third state” society, in which both topological connectivity and opinion diversity are simultaneously maintained, is possible when agents are behaviorally heterogeneous. This key finding obtained in the second study was also confirmed using an extended version of the first model as well, demonstrating the robustness of the finding about the importance of behavioral diversity within society."
+  },
+  {
+    "objectID": "seminar_pages/StadlerF23.html",
+    "href": "seminar_pages/StadlerF23.html",
+    "title": "Mitigating the nonlinearity in PDEs, with application to continuous sea ice models",
+    "section": "",
+    "text": "Date: 11/14/23\nAbstract: I will argue that nonlinearity in PDE systems can be mitigated through lifting the systems to a higher-dimensional space. After reviewing basic properties of Newton’s method for solving nonlinear equations, I will detail the proposed lift-transform-linearize approach and show that the resulting Newton-type algorithms may yield favorable convergence properties. I will illustrate the ideas first on simple examples, and show connections to primal-dual interior point methods and mixed finite element methods. The resulting solvers will be illustrated for the solution of a large-scale flow problems with severely nonlinear constitutive law arising in the most commonly used continuous sea ice model."
+  },
+  {
+    "objectID": "seminar_pages/JebelliW24.html",
+    "href": "seminar_pages/JebelliW24.html",
+    "title": "Kernel Smoothing Operators on Thick Open Domains",
+    "section": "",
+    "text": "Date: 1/9/24\nAbstract: Given an appropriate kernel function, it is known that the convolution operator would converge to the identity operator as the scaling parameter goes to zero. In this talk, we discuss the approximation properties of the ‘normalized’ convolution operators on certain domains in Euclidean space. Despite the fact that normalization breaks the symmetry of the convolution operators, we show that a local Hardy-Littlewood inequality holds in L^p(X), where p>1 and X is a ‘thick’ domain in n-dimensional Euclidean space. Using this inequality, we establish pointwise and Lp(X) convergence for the family of convolution operators. We demonstrate the application of such smoothing operators to sea ice piecewise-continuous density, velocity, and stress fields from discrete element models of sea ice dynamics."
+  },
+  {
+    "objectID": "seminar_pages/PalmerW23.html",
+    "href": "seminar_pages/PalmerW23.html",
+    "title": "Applied Geometric Measure Theory from DeepCurrents to Topological Defects",
+    "section": "",
+    "text": "Date: 2/7/23\nAbstract: Choosing the right representation of geometry can often simplify knotty computational problems and expose new opportunities. I will talk about some of our work devising computational representations of geometry inspired by geometric measure theory and, in particular, minimal currents. First, while neural implicit representations offer a flexible way to encode surfaces and learn families of surfaces in computer vision, most methods are unable to reconstruct surfaces with boundary curves. In DeepCurrents (joint work with Dima Smirnov, Stephanie Wang, Albert Chern, and Justin Solomon), we propose a new hybrid representation that parametrizes currents via neural implicit functions and solves a minimal surface problem. By modifying the ambient metric such that the target geometry is minimal, we can learn arbitrary surfaces and families of surfaces with boundary, providing a building block for larger-scale surface representations. A completely different application of currents is to the problem of computing line or nematic fields, cross fields, and their generalizations on surfaces. Such fields are important to applications in computer graphics and computational engineering, and they have recently shown up in models of biological morphogenesis. Singularities or topological defects are an essential feature of such fields. But singularities challenge classical field optimization methods, whose energies tend to diverge or depend on discretization in their presence. By reformulating field optimization in terms of minimal currents in circle bundles, we obtain a convex relaxation that treats singularities as first-class citizens and yields reliable optimization."
+  },
+  {
+    "objectID": "seminar_pages/RamgraberS23.html",
+    "href": "seminar_pages/RamgraberS23.html",
+    "title": "Adaptive localization in nonlinear ensemble transport filtering",
+    "section": "",
+    "text": "Date: 5/16/23\nAbstract: Most ensemble filtering algorithms today rely on one of two update strategies. The ensemble Kalman filter (EnKF) and its many variants are sample-efficient but remain fundamentally restricted to linear updates, which limits fidelity in strongly nonlinear or non-Gaussian settings. Particle filters, on the other hand, can realize arbitrarily nonlinear updates for non-Gaussian problems, but often require intractable ensemble sizes to forestall ensemble collapse. A promising alternative may be found in ensemble transport methods. Transport methods construct a map from an unknown, potentially non-Gaussian target distribution—represented only through an ensemble of particles—to a well-defined reference distribution, often a standard multivariate Gaussian distribution. Inverting this map permits sampling from the target’s conditional distributions. Leveraging this operation, it is possible to derive true nonlinear generalizations of the EnKF and its smoothing variants. In this construction, the complexity of the map’s parameterization is a critical choice. More complex maps may capture increasingly complex distributional features but risk unfavourable bias-variance trade-offs. In this presentation, we present an efficient map adaptation scheme which not only (1) identifies an optimal degree of map complexity, but also (2) reveals and exploits conditional independence, yielding an efficient form of adaptive localization. We demonstrate the performance of the resulting adaptive ensemble transport filter in a chaotic and nonlinear setting and discuss its implications for high-dimensional environmental systems."
+  },
+  {
+    "objectID": "seminar_pages/DemidenkoF23.html",
+    "href": "seminar_pages/DemidenkoF23.html",
+    "title": "M-statistics: Optimal Statistical Inference for a Small Sample",
+    "section": "",
+    "text": "Date: 9/12/23\nAbstract: This talk presents a recently published book with the same title. We start with the 250-year-old problem of estimation binomial probability. The classic estimator, as the proportion of successes, m/n, contradicts common sense when the event does not happen or happens all the time. We revive Laplace’s law of succession estimator, (m+1)/(n+2), using a new statistical theory, M-statistics. Neither mean nor variance plays a role in the new theory. The current practice of statistical inference relies on asymptotic methods (large n), such as maximum likelihood (ML). The small-sample exact statistical inference is available only for a few examples, primarily linear models. Our theory requires a statistic with a known cumulative distribution function dependent on an unknown parameter. Two parallel competing tracks of inferences are offered under the umbrella of M-statistics: maximum concentration (MC) and mode (MO) statistics, which is why M=MC+MO. Having an optimal exact dual double-sided confidence interval (CI) and test, the point estimator is derived as the limit point of the CI when the confidence level approaches zero. When a statistic is sufficient, the MO-estimator, as the limit of the unbiased CI, coincides with the ML estimator. Our theory extends to multi-parameter statistical inference. Multiple examples illustrate the talk. This talk is accessible to undergraduate students who took elementary probability/statistics course."
+  },
+  {
+    "objectID": "seminar_pages/LucibelloS24.html",
+    "href": "seminar_pages/LucibelloS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 4/16/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/SingalS23.html",
+    "href": "seminar_pages/SingalS23.html",
+    "title": "Effective Wages under Workforce Scheduling with Heterogeneous Time Preferences",
+    "section": "",
+    "text": "Date: 6/6/23\nAbstract: Problem definition: Motivated by the debate around drivers’ welfare in on-demand transportation, we propose a framework to evaluate current practices and also possible alternatives. We study a setting in which riders seek drivers and a platform facilitates such matches over the course of the day. The platform allocates time slots to drivers using an allocation policy, and the drivers are strategic agents who maximize expected utility that depends on their preferred times to be on road, the allocated slots and the total on-road time. On the one hand, the platform seeks to ensure that a sufficient number of drivers is available to satisfy demand, and on the other hand, drivers aim to maximize their utility, which is driven by wages.  Methodology / results: Our framework evaluates policies on two dimensions: the supply of drivers across the day, and the effective wages of drivers. We illustrate that several families of policies have serious limitations both in terms of driver supply and effective wages. We find these limitations exist because the policies do not let drivers fully express their preferences and/or cannot account for heterogeneity in drivers’ preferences. We propose a new allocation policy and establish strong performance guarantees with respect to both driver supply and effective wages. The policy is simple and fully leverages the market information to reach better market outcomes. We supplement our theory with numerical experiments calibrated on various New York City datasets that illustrate performance across a range of markets. Managerial implications: The paper highlights a possible fundamental inefficiency of policies deployed that limit driver’s ability to express their preferences. By allowing drivers to express their temporal preferences, and using the priority-based allocation policy we devise to accommodate heterogeneity in such preferences, it is possible to obtain a potentially significant Pareto improvement, maintaining (or even increasing) driver supply while also increasing drivers’ effective wages. Working paper available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202484."
+  },
+  {
+    "objectID": "seminar_pages/RenS24.html",
+    "href": "seminar_pages/RenS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 5/21/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/ChodrowW23.html",
+    "href": "seminar_pages/ChodrowW23.html",
+    "title": "Generative Hypergraph Clustering: Scalable Heuristics and Sparse Thresholds",
+    "section": "",
+    "text": "Date: 1/24/23\nAbstract: Many data sets concern entities that interact or gather in groups of two or more. Such data sets might describe people congregating for events, tags categorizing a forum post, and raw food ingredients combining in a recipe. Hypergraphs—generalizations of graphs in which edges can join any number of nodes—are a natural modeling framework for such data sets. The hypergraph clustering task asks us to group nodes into a small number of meaningful clusters using the observed edges. In this talk, we’ll discuss a generative approach to hypergraph clustering. This generative approach uses a parametric statistical model called a stochastic blockmodel (SBM). After introducing an SBM for hypergraphs, we’ll consider two main questions. First, we’ll ask: how can the generative approach inform scalable clustering heuristics? We’ll derive a fast greedy heuristic for clustering under certain common SBM assumptions. This heuristic generalizes Louvain modularity clustering to the hypergraph setting. We’ll then demonstrate the performance of this heuristic on empirical and synthetic hypergraphs up to 1 million nodes. Second, we’ll ask: what are the fundamental limits of generative clustering in sparse hypergraphs? We’ll briefly describe the belief-propagation algorithm for clustering in the sparse SBM. We’ll then analyze belief-propagation to construct a closed-form conjecture for the threshold at which generative clustering fails to detect planted clusters. Along the way, we’ll derive an eigenvector-based hypergraph clustering algorithm via a generalization of the graph nonbacktracking matrix. This talk includes joint work with Nate Veldt (Texas A&M), Austin Benson (Cornell, D. E. Shaw), Nicole Eikmeier (Grinnell), and Jamie Haddock (Harvey Mudd). The two papers discussed may be found at the following links: - https://www.science.org/doi/full/10.1126/sciadv.abh1303 - https://arxiv.org/abs/2204.13586."
+  },
+  {
+    "objectID": "seminar_pages/VosoughiS23.html",
+    "href": "seminar_pages/VosoughiS23.html",
+    "title": "Unsupervised Structural Graph Representation Learning",
+    "section": "",
+    "text": "Date: 4/25/23\nAbstract: In this presentation, I will discuss our lab’s research on unsupervised structural graph representation learning. It is essential to differentiate between representations that capture structural roles and those that capture local information in graphs (microscopic representations, such as node2vec). Structural embeddings can capture the global roles of nodes, edges, and subgraphs in a graph. This means that nodes that perform similar functions in a graph will have similar vector representations, regardless of their distance from each other in the graph. Our framework’s core feature is its capability for unsupervised learning of versatile and universal representations that capture the structural roles of nodes, edges, and subgraphs (communities) in a dynamic attributed graph. These general-purpose representations eliminate the need for time-consuming and biased feature engineering and are suitable for both unsupervised and supervised tasks, including clustering and classification. Finally, I will discuss the potential of these general-purpose representations for supervised and unsupervised learning in downstream tasks on various types of graphs, such as social and financial networks."
+  },
+  {
+    "objectID": "seminar_pages/ScottF23.html",
+    "href": "seminar_pages/ScottF23.html",
+    "title": "Perturbing the evolutionary mechanisms and ecological forces underlying drug resistance in cancer and pathogens: evolutionary therapy and formal control",
+    "section": "",
+    "text": "Date: 9/26/23\nAbstract: Cancer and drug resistant infections are the leading causes of death in the developed world. These two processes are fundamentally very similar in that they are heterogeneous collections of individual agents which evolve and interact to optimize the fitness of the population. In this talk I will outline these similarities and walk through recent work to directly parameterize mathematical models of each of the evolutionary and ecological aspects of the emergence of drug resistance. We will then discuss how these models can be used to derive control protocols to delay, or minimize the probability of drug resistance."
+  },
+  {
+    "objectID": "seminar_pages/ZhangF22.html",
+    "href": "seminar_pages/ZhangF22.html",
+    "title": "Coupling physics-deep learning inversion",
+    "section": "",
+    "text": "Date: 10/18/23\nAbstract: In recent years, there is great interest in using deep learning to geophysical/medical data inversion. However, direct application of end-to-end data-driven approaches to inversion have quickly shown limitations in the practical implementation. Due to the lack of prior knowledge on the objects of interest, the trained deep learning neural networks very often have limited generalization. In this talk, we introduce a new methodology of coupling model-based inverse algorithms with deep learning for two typical types of inversion problems. In the first part, we present an offline-online computational strategy for coupling classical least-squares based computational inversion with modern deep learning based approaches for full waveform inversion (FWI) to achieve advantages that can not be achieved with only one of the components. An offline learning strategy is used to construct a robust approximation to the inverse operator and utilize it to design a new objective function for the online inversion with new datasets. In the second part, we present an integrated machine learning and model-based iterative reconstruction framework for joint inversion problems where additional data on the unknown coefficients are supplemented for better reconstructions. The proposed method couples the supplementary data with the partial differential equation (PDE) model to make the data-driven modeling process consistent with the model-based reconstruction procedure. The impact of learning uncertainty on the joint inversion results are also investigated."
+  },
+  {
+    "objectID": "seminar_pages/SantosS23.html",
+    "href": "seminar_pages/SantosS23.html",
+    "title": "Learning the Finer Things",
+    "section": "",
+    "text": "Date: 4/4/23\nAbstract: Machine learning has often been about the tension between generalization and specificity – we want to get the patterns and abstractions, but we also do not want to sacrifice the exemplars. While we commonly measure learning performance through cross validation and accuracy metrics, our further reality is that we must cope with domains that are extremely under-determined where accuracy is always unsatisfactory. In this talk, we present a novel probabilistic graphical model structure learning approach that can learn, generalize and explain in these elusive domains by operating at the random variable instantiation level. Using Minimum Description Length (MDL) analysis, we propose a new decomposition of the learning problem over all training exemplars, fusing together minimal entropy inferences to construct a final knowledge base. By leveraging Bayesian Knowledge Bases (BKBs), a framework that operates at the instantiation level and inherently subsumes Bayesian Networks (BNs), the fusion of exemplars results in a lossless encoding. We develop both a theoretical MDL score and associated structure learning algorithm that demonstrates significant improvements over learned BNs on 40 benchmark datasets. With regards to larger domains, we demonstrate the utility of our approach in a significantly under-determined domain by learning gene regulatory networks on breast cancer gene mutational data available from The Cancer Genome Atlas (TCGA)."
+  },
+  {
+    "objectID": "seminar_pages/WeiS23.html",
+    "href": "seminar_pages/WeiS23.html",
+    "title": "Scaling unlocks emergent abilities in language models",
+    "section": "",
+    "text": "Date: 5/9/23\nAbstract: Scaling up language models has been shown to predictably improve performance on a wide range of downstream tasks. In this talk, we will instead discuss an unpredictable phenomenon that we refer to as emergent abilities of large language models. An ability is considered emergent if it is not present in smaller models but is present in larger models, which means that the ability cannot be predicted simply by extrapolating the performance of smaller models. With the popularization of large language models such as GPT-3, Chinchilla, and PaLM, dozens of emergent abilities have been discovered, including chain-of-thought prompting, which enables state-of-the-art mathematical reasoning, and instruction finetuning, which enables large language models to be usable by the broader population. The existence of such emergent phenomena raises the question of whether additional scaling could potentially further expand the range of capabilities of language models."
+  },
+  {
+    "objectID": "seminar_pages/FrostW23.html",
+    "href": "seminar_pages/FrostW23.html",
+    "title": "Eigenvectors from eigenvalues sparse principal component analysis",
+    "section": "",
+    "text": "Date: 2/14/23\nAbstract: We present a novel technique for sparse principal component analysis. This method, named eigenvectors from eigenvalues sparse principal component analysis (EESPCA), is based on the formula for computing squared eigenvector loadings of a Hermitian matrix from the eigenvalues of the full matrix and associated sub-matrices. We explore two versions of the EESPCA method: a version that uses a fixed threshold for inducing sparsity and a version that selects the threshold via cross-validation. Relative to the state-of-the-art sparse PCA methods of Witten et al., Yuan and Zhang, and Tan et al., the fixed threshold EESPCA technique offers an order-of-magnitude improvement in computational speed, does not require estimation of tuning parameters via cross-validation, and can more accurately identify true zero principal component loadings across a range of data matrix sizes and covariance structures. Importantly, the EESPCA method achieves these benefits while maintaining out-of-sample reconstruction error and PC estimation error close to the lowest error generated by all evaluated approaches. EESPCA is a practical and effective technique for sparse PCA with particular relevance to computationally demanding statistical problems such as the analysis of high-dimensional datasets or application of statistical techniques like resampling that involve the repeated calculation of sparse PCs. Paper link: https://doi.org/10.1080/10618600.2021.1987254."
+  },
+  {
+    "objectID": "seminar_pages/ViswanathanF23.html",
+    "href": "seminar_pages/ViswanathanF23.html",
+    "title": "Phaseless Imaging: Fast Algorithms, Recovery Guarantees, and Applications to Bio-Imaging",
+    "section": "",
+    "text": "Date: 10/24/23\nAbstract: The underlying physics of certain imaging modalities - such as x-ray crystallography and (Fourier) ptychography - requires the recovery of a signal from phaseless (or magnitude-only) measurements. This problem, commonly referred to as Phase Retrieval, is a challenging (and non-convex) inverse problem since the phase encapsulates a significant amount of structure in the underlying signal. In this talk, we discuss a framework for solving the phase retrieval problem from local (spectrogram-type) measurements. We summarize a recently introduced fast (essentially linear-time) and robust phase retrieval algorithm based on the Wigner deconvolution approach. The Wigner deconvolution procedure relates the autocorrelation of the unknown signal to the acquired measurements through Fourier transforms. An eigenvector based angular synchronization algorithm can subsequently be utilized to recover individual phase information from these autocorrelation estimates. Theoretical recovery guarantees, numerical results, extensions to two-dimensional and continuous problem settings, as well as applications to biomedical imaging will be discussed."
+  },
+  {
+    "objectID": "seminar_pages/BarnettF22.html",
+    "href": "seminar_pages/BarnettF22.html",
+    "title": "Equispaced Fourier representations for efficient Gaussian process regression from a billion data points",
+    "section": "",
+    "text": "Date: 10/25/23\nAbstract: Gaussian process regression is widely used in geostatistics, time-series analysis, and machine learning. It infers an unknown continuous function in a principled fashion from noisy measurements at scattered data points. The prior on the function is Gaussian, with covariance given by some user-chosen translationally invariant kernel. Yet has been limited to about, even with modern low-rank methods. Focusing on low spatial dimension (1–3), we present a GP regression method using kernel approximation by an equispaced quadrature grid in the Fourier domain. This enables the iterative solution of a smaller Toeplitz linear system, exploiting both the FFT and the nonuniform FFT to give cost. The result is often one to two orders of magnitude faster than state of the art methods, and enables cheap massive-scale regressions. For example, for a 2D Matern-3/2 kernel and points, the posterior mean function is found to 3-digit accuracy in two minutes on a desktop. This is a joint work with Philip Greengard (Columbia) and Manas Rachh (Flatiron Institute)."
+  },
+  {
+    "objectID": "seminar_pages/LeeksS24.html",
+    "href": "seminar_pages/LeeksS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 4/2/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/MehtaF22.html",
+    "href": "seminar_pages/MehtaF22.html",
+    "title": "Complex systems in high dimensions: from Machine Learning to Microbial Ecology",
+    "section": "",
+    "text": "Date: 10/11/23\nAbstract: In this talk, I will give an overview of recent work from the group that draws on techniques from statistical physics of disordered systems (Random Matrix Theory, Cavity Method) to understand complex systems in high dimensions. In the first part of this talk, I will discuss how we can understand the ability of over-parameterized statistical models to make accurate predictions even when the number of fitting parameters is much larger than the number of training data points (the so called double-descent phenomenon). If time permits, in the second part of the talk I will discuss how similar techniques also yield interesting insights into complex microbial ecosystems. References: Physical Review Research 4, 013201 (2022); arXiv:2103.14108; Science 361, 469-474 (2018); Physical Review Letters 125 048101 (2020); Physical Review E 104, 034416 (2020)."
+  },
+  {
+    "objectID": "seminar_pages/LiF23.html",
+    "href": "seminar_pages/LiF23.html",
+    "title": "A structurally informed data assimilation approach for discontinuous state variables",
+    "section": "",
+    "text": "Date: 9/19/23\nAbstract: Data assimilation is a scientific process that combines available observations with numerical simulations to obtain statistically accurate and reliable state representations in dynamical systems. However, it is well known that the commonly used Gaussian distribution assumption introduces biases for state variables that admit discontinuous profiles, which are prevalent in nonlinear partial differential equations. In this talk, we focus on the design of a new structurally informed non-Gaussian prior that exploits statistical information from the simulated state variables. In particular, we construct a new weighting matrix based on the second moment of the gradient information of the state variable to replace the prior covariance matrix used for model/data compromise in the data assimilation framework. We further adapt our weighting matrix to include information in discontinuity regions via a clustering technique. Our numerical experiments demonstrate that this new approach yields more accurate estimates than those obtained using ensemble transform Kalman filter (ETKF) on shallow water equations."
+  },
+  {
+    "objectID": "seminar_pages/JonesS23.html",
+    "href": "seminar_pages/JonesS23.html",
+    "title": "Nash Equilibrium in a Low-Information Vote Trading Game",
+    "section": "",
+    "text": "Date: 3/28/23\nAbstract: Groups are often asked to make decisions about a wide range of issues. If each issue is decided by a separate vote, voters are incentivized to give away their votes on issues they deem unimportant in exchange for additional votes on the most critical issues. This scenario leads to a vote trading game in which voters must decide which trades to offer to maximize their final utility. We begin with a discrete model of voter utility and then move to the more general continuous model. In both cases, we analyze the game by studying their Nash equilibria and evaluating how the underlying utility distribution affects player behavior."
+  },
+  {
+    "objectID": "seminar_pages/TBA2S24.html",
+    "href": "seminar_pages/TBA2S24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 4/30/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/ManningW24.html",
+    "href": "seminar_pages/ManningW24.html",
+    "title": "How do our thoughts take shape?",
+    "section": "",
+    "text": "Date: 2/6/24\nAbstract: How our brains support our ongoing conscious thoughts, and how (and what) we remember are some of the greatest mysteries of our species. My lab is pushing our understanding of these questions using computational models and neuroimaging. In my talk, I’ll focus on our work using natural language processing models to characterize the content of people’s experiences, memories, knowledge, behaviors, and interactions."
+  },
+  {
+    "objectID": "seminar_pages/ErtemS24.html",
+    "href": "seminar_pages/ErtemS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 5/7/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/ValesW24.html",
+    "href": "seminar_pages/ValesW24.html",
+    "title": "Energy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems",
+    "section": "",
+    "text": "Date: 3/5/24\nAbstract: Dimension reduction methods are used to approximate the numerical discretization of a model in order to reduce the computational cost of its simulation while staying faithful to the full dynamics. To achieve this, projection-based methods construct a reduced basis from full simulation data and project the dynamics onto the spanned linear subspace. For nonlinear problems, hyper-reduction methods are additionally needed to remove the dependence of the nonlinear terms on the full problem’s size, completing the reduction process. In this work, we develop an energy conservative hyperreduction method for hydrodynamics PDE problems discretized on a Lagrangian moving grid by high order finite element methods. Based on an existing empirical quadrature procedure, our method employs sparse numerical quadrature rules to estimate the model’s nonlinear integral terms with a chosen degree of accuracy while ensuring that energy is conserved. We apply our method to well established benchmark problems, demonstrating that it achieves superior energy conservation and similar accuracy and computational speedup compared to the preexisting, non-conservative method."
+  },
+  {
+    "objectID": "seminar_pages/BatesS24.html",
+    "href": "seminar_pages/BatesS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 4/9/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/ZhuW24.html",
+    "href": "seminar_pages/ZhuW24.html",
+    "title": "Symmetry-Preserving Machine Learning: Theory and Applications",
+    "section": "",
+    "text": "Date: 1/16/24\nAbstract: Symmetry is prevalent in a variety of machine learning and scientific computing tasks, including computer vision and computational modeling of physical and engineering systems. Empirical studies have demonstrated that machine learning models designed to integrate the intrinsic symmetry of their tasks often exhibit substantially improved performance. Despite extensive theoretical and engineering advancements in symmetry-preserving machine learning, several critical questions remain unaddressed, presenting unique challenges and opportunities for applied mathematicians. Firstly, real-world symmetries rarely manifest perfectly and are typically subject to various deformations. Therefore, a pivotal question arises: Can we effectively quantify and enhance the robustness of models to maintain an “approximate” symmetry, even under imperfect symmetry transformations? Secondly, although empirical evidence suggests that symmetry-preserving models require fewer training data to achieve equivalent accuracy, there is a need for more precise and rigorous quantification of this reduction in sample complexity attributable to symmetry preservation. Lastly, considering the non-convex nature of optimization in modern machine learning, can we ascertain whether algorithms like gradient descent can guide symmetry-preserving models to indeed converge to objectively better solutions compared to their generic counterparts, and if so, to what degree? In this talk, I will provide an overview of my research addressing these intriguing questions. Surprisingly, the answers are not as straightforward as one might assume and, in some cases, are counterintuitive. My approach employs an interesting blend of applied probability, harmonic analysis, differential geometry, and optimization. However, specialized knowledge in these areas is not required."
+  },
+  {
+    "objectID": "seminar_pages/ColbrookF22.html",
+    "href": "seminar_pages/ColbrookF22.html",
+    "title": "On spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond",
+    "section": "",
+    "text": "Date: 11/15/23\nAbstract: Computing spectral properties of operators is fundamental in the sciences, with many applications. However, the infinite-dimensional problem is infamously difficult - common difficulties include spectral pollution and continuous spectra. This two part talk will address two examples: (a) computation of spectral measures for general self-adjoint operators (b) computation of spectral properties of Koopman operators. Finally, we discuss how these results fit into a wider programme on infinite-dimensional spectral computations and beyond."
+  },
+  {
+    "objectID": "seminar_pages/LevienS23.html",
+    "href": "seminar_pages/LevienS23.html",
+    "title": "Evolution in the presence of large (but finite) offspring fluctuations",
+    "section": "",
+    "text": "Date: 5/30/23\nAbstract: Evolution is driven by a tension between two opposing forces: random fluctuations in the genetic composition of a population, known as genetic drift, and deterministic selection. Among models of genetic drift, the classical Wright-Fisher diffusion (WFD) reigns supreme. The success of the WFD can be attributed to universality: Much like the Gaussian emerges universally from sums of iid random variables with finite variance, the WFD emerges as a universal large population size limit from numerous population genetics models in which the variance in offspring numbers is finite. However, an onslaught of data from the microbial world has revealed the limitations of this model, motivating the study of evolution in the presence of power law offspring distributions with infinite variance. In this talk, I will present results concerning models of neutral evolution where the variance in offspring is finite, but large relative to the population size. In particular, I will consider offspring distributions with Weibull log tails (the lognormal being a special case) in a particular ``thermodynamic’’ limit. These offspring distributions are motivated by biology, where they appear in models of microbial pathogens, but also by a connection to statistical physics where they appear in the context of spin glasses with long range interactions. By leveraging results from the theory of spin glasses, I will describe a new class of limit models for genetic drift which generalize the -Flemming Viot process – a phenomenological model for neutral evolution with skewed offspring distributions. If time permits I will also discuss the statistical structure of genealogies emerging from these models, which are connected to the forward dynamics via stochastic duality. These genealogies have some surprising characteristics including the simultaneous merging of multiple ancestral lineages."
+  },
+  {
+    "objectID": "seminar_pages/AmbartsoumianF22.html",
+    "href": "seminar_pages/AmbartsoumianF22.html",
+    "title": "Broken Rays, Cones, and Stars in Tomography",
+    "section": "",
+    "text": "Date: 10/4/23\nAbstract: Mathematical models of various imaging modalities are based on integral transforms mapping a function (representing the image) to its integrals along specific families of curves or surfaces. Those integrals are generated by external measurements of physical signals, which are sent into the imaging object, get modified as they pass through its medium and are captured by sensors after exiting the object. The mathematical task of image reconstruction is then equivalent to recovering the image function from the appropriate family of its integrals, i.e. inverting the corresponding integral transform (often called a generalized Radon transform). A classic example is computerized tomography (CT), where the measurements of reduced intensity of X-rays that have passed though the body correspond to the X-ray transform of the attenuation coefficient of the medium. Image reconstruction in CT is achieved through inversion of the X-ray transform. In this talk, we will discuss several novel imaging techniques using scattered particles, which lead to the study of generalized Radon transforms integrating along trajectories and surfaces containing a ``vertex’’. The relevant applications include single-scattering X-ray tomography, single-scattering optical tomography, and Compton camera imaging. We will present recent results about injectivity, inversion, stability and other properties of the broken ray transform, conical Radon transform and the star transform."
+  },
+  {
+    "objectID": "seminar_pages/SideriusS24.html",
+    "href": "seminar_pages/SideriusS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 5/14/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/WatkinsF23.html",
+    "href": "seminar_pages/WatkinsF23.html",
+    "title": "Dynamics of coupled Arctic air-ice-ocean interactions from floe scale to basin scale",
+    "section": "",
+    "text": "Date: 10/10/23\nAbstract: Sea ice is a defining component of the coupled Arctic air-ice-ocean system. Sea ice mediates the exchange of momentum, heat, and moisture between the atmosphere and the ocean and is therefore a critical component for Earth system modeling, including climate prediction and weather forecasting. Ice motion results from the complex interaction of stresses from the winds and ocean currents, gravity, and Earth’s rotation. The motion and deformation of the ice resulting from these interacting stresses depends on the spatially and temporally varying ice strength, and on the orientation of the stresses relative to coastal features and the ice-ocean boundary. The compounded effects of small forces across large areas results in shearing, cracking, and opening of the ice surface. Many sea ice properties exhibit power law relationships across spatial and temporal scales. In this talk, I’ll present recent results on air-ice-ocean dynamics based on two complementary types of observations: in situ measurements from buoys and autonomous weather stations deployed during the Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC), and remote sensing observations from satellite imagery via the Ice Floe Tracker (IFT) algorithm. Our results highlight the multiscale nature of sea ice motion. The MOSAiC buoys were deployed in a nested array allowing measurement of differential ice motion at hourly timescales. From these measurements, we show that abrupt changes in ice dynamics are associated with transitions in ocean seafloor topography. Topographic effects are particularly strong in tidal and inertial frequency bands, producing effects on ice deformation at daily and twice daily timescales at spatial scales of a few kilometers. Additionally, current jets at shelf boundaries align with high ice drift speeds, likely contributing to enhanced shear in the ice. Analysis of the IFT floe trajectories over the last 20 years shows sharp gradients in the fraction of the drift attributable to wind forcing over the Greenland continental shelf, suggesting that accurate representation of ocean currents is critical for modeling and forecasting ice drift in the region. Finally, I will present new measurements of power law behavior in ice dynamics, including the importance of accounting for seasonality in describing ice properties."
+  },
+  {
+    "objectID": "seminar_pages/GriffinW24.html",
+    "href": "seminar_pages/GriffinW24.html",
+    "title": "Testing and estimation for sparsity-inducing power penalties",
+    "section": "",
+    "text": "Date: 2/13/24\nAbstract: Many penalized maximum likelihood estimators correspond to posterior mode estimators under specific prior distributions. Appropriateness of a particular class of penalty functions can therefore be interpreted as the appropriateness of a prior for the parameters. For example, the appropriateness of a lasso penalty for regression coefficients depends on the extent to which the empirical distribution of the regression coefficients resembles a Laplace distribution. We give a testing procedure of whether or not a Laplace prior is appropriate and accordingly, whether or not using a lasso penalized estimate is appropriate. Via simulations, we show that this testing procedure achieves the desired level and has enough power to detect violations of the Laplace assumption when the numbers of observations and unknown regression coefficients are large. We then introduce an adaptive procedure that chooses a more appropriate prior and corresponding penalty from the class of exponential power priors when the null hypothesis is rejected. We show that this can improve estimation of the regression coefficients both when they are drawn from an exponential power distribution and when they are drawn from a spike-and-slab distribution. Last, this motivates an improved pathwise coordinate descent method for estimating regression coefficients assuming an exponential power prior, which corresponds to a power penalty. We introduce and demonstrate the utility of the corresponding new pathwise coordinate descent method."
+  },
+  {
+    "objectID": "seminar_pages/JebelliF22.html",
+    "href": "seminar_pages/JebelliF22.html",
+    "title": "OPUC and Super Telescoping Formula",
+    "section": "",
+    "text": "Date: 9/13/23\nAbstract: To every measure on the unit circle, S^1, one can associate a sequence of orthogonal polynomials in the variable z=exp(it). For example, if we look at the uniform probability measure on the unit circle the basic Fourier theory suggest that the polynomials 1,z,z^2,… are orthogonal with respect to this background measure. OPUC (orthogonal polynomials on the unit circle) is the theoretical framework for studying such correspondence for arbitrary measures on S^1. In this talk, we go over the basics of OPUC and their applications. We also go over a new one-parameter family of examples for such correspondence, originating from the super telescoping formula."
+  },
+  {
+    "objectID": "seminar_pages/ZhaoS24.html",
+    "href": "seminar_pages/ZhaoS24.html",
+    "title": "TBA",
+    "section": "",
+    "text": "Date: 3/26/24\nAbstract: TBA"
+  },
+  {
+    "objectID": "seminar_pages/ThompsonF23.html",
+    "href": "seminar_pages/ThompsonF23.html",
+    "title": "Understanding the Emergence of Inequality with Two Models of Social Dynamics",
+    "section": "",
+    "text": "Date: 10/31/23\nAbstract: Understanding and addressing issues of inequality and polarization in society requires examining their structural origins. Mathematical models provide formalisms to study these social phenomena from the ground up. In this work, I leverage extensions of the voter model to gain insight into two critical problems: the emergence of spatial inequality in resource allocation and the formation of opinion polarization. First, I develop a novel equitability measure based on the p-median model to identify fragile and underserved regions in infrastructure networks. Second, I incorporate higher-order social structures into the non-linear voter model to delineate phases of opinion polarization. Connecting these threads is the overarching aim of elucidating how properties of interaction networks shape inequality and consensus. The voter model provides a common basis to represent cooperative and competitive dynamics across both domains. By introducing new metrics and social structures, I demonstrate how even simple mathematical models can capture complex collective behavior in spatial systems and social networks, shedding light on real-world challenges."
+  },
+  {
+    "objectID": "seminar_pages/AllenS23.html",
+    "href": "seminar_pages/AllenS23.html",
+    "title": "Natural selection for collective action",
+    "section": "",
+    "text": "Date: 5/23/23\nAbstract: Collective action – behavior that arises from the combined actions of multiple individuals – is observed across living beings. The question of how and why collective action evolves has profound implications for behavioral ecology, multicellularity, and human society. Collective action is challenging to model mathematically, due to nonlinear fitness effects and the consequences of spatial, group, and/or family relationships. We derive a simple condition for collective action to be favored by natural selection. A collective’s effect on the fitness of each individual is weighted by the relatedness between them, using a new measure of collective relatedness. If selection is weak, this condition can be evaluated using coalescent theory. More generally, our result applies to any synergistic social behavior, in spatial, group, and/or family-structured populations. We use this result to obtain conditions for the evolution of collective help among diploid siblings, subcommunities of a network, and hyperedges of a hypergraph. We also obtain a condition for which of two strategies is favored in a game between siblings, cousins, or other relatives. Our work provides a rigorous basis for extending the notion of “actor”, in the study of social behavior, from individuals to collectives."
+  },
+  {
+    "objectID": "seminar_pages/AlfantW24.html",
+    "href": "seminar_pages/AlfantW24.html",
+    "title": "A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems",
+    "section": "",
+    "text": "Date: 3/12/24\nAbstract: Stochastic programs refer to optimization problems for which some of the problem parameters are unknown, but are assumed to follow a known probability distribution. They provide a particularly useful structured framework that is utilized in many industry applications for maximizing profit under demand uncertainty. This talk presents a high-level overview of stochastic programming, as well as an application in cloud computing. Optimization is a critical component in the allocation of cloud computing resources, in order to ensure that providers are maximizing revenue (and minimizing energy wastage) while simultaneously guaranteeing an acceptable level of service to their users. However, this problem is made complex by the periodic uncertainty underlying users’ demand for these resources. Thus, this talk presents a stochastic programming approach to capacity allocation in the cloud under uncertain demand that minimizes wasted computing capacity and maximizes revenue, with a particular focus on the spot market."
+  },
+  {
+    "objectID": "seminar_pages/DowdleW24.html",
+    "href": "seminar_pages/DowdleW24.html",
+    "title": "Quantum Computing and the Battle for Quantum Advantage",
+    "section": "",
+    "text": "Date: 2/20/24\nAbstract: Quantum computing has gained attention lately for several reasons, including academic, national security, and economic interests. Quantum advantage was first claimed in 2019 by Google in their random circuit sampling experiment. Since then there have been many other claims of quantum computers performing calculations faster than classical computers. However, every claim so far has been disproven through methods such as spoofing and tensor network simulation. In this talk I will give a brief overview of quantum theory, quantum computing, and the on-going controversy over quantum advantage."
+  },
+  {
+    "objectID": "seminar_pages/RigasF22.html",
+    "href": "seminar_pages/RigasF22.html",
+    "title": "Variational quantum algorithm for numerical PDE solving",
+    "section": "",
+    "text": "Date: 9/20/23\nAbstract: Classical-quantum hybrid algorithms have recently garnered significant attention, which are characterized by combining quantum and classical computing protocols to obtain readout from quantum circuits of interest. Recent progress due to Lubasch et al in a 2019 paper provides readout for solutions to the Schrodinger and Inviscid Burgers equations, by making use of a new variational quantum algorithm (VQA) which determines the ground state of a cost function expressed with a superposition of expectation values and variational parameters. In the following, we analyze additional computational prospects in which the VQA can reliably produce solutions to other PDEs that are comparable to solutions that have been previously realized classically, which are characterized with noiseless quantum simulations. To determine the range of nonlinearities that the algorithm can process for other IVPs, we study several PDEs, first beginning with the Navier-Stokes equations and progressing to other equations underlying physical phenomena ranging from electromagnetism, gravitation, and shallow wave propagation, from simulations of the Einstein, Boussniesq-type, Lin-Tsien, Camsssa-Holm, Drinfeld-Sokolov-Wilson (DSW), Hunter-Saxton, and Benney-Luke equations. To formulate optimization routines that the VQA undergoes to obtain numerical approximations of solutions that are abstracted from quantum circuit readout, cost functions corresponding to each PDE are provided in the supplementary section after which simulations results from hundreds of ZGR-QFT ansatzae are generated. With such an ensemble of ansatzae that we perform numerical experiments upon through time-evolution of quantum states corresponding to solution approximations of a PDE, we can readily compare different initial states of the solution across different PDEs that the VQA can effectively approximate, and establish various comparisons between computational complexity of optimizing different cost functions. To quantify VQA performance for approximating solutions to many PDEs, we perform our quantum circuit implementation with the open source Cirq platform, which prepares, and updates, the state vector corresponding to a PDE solution throughout the time evolution. To determine whether barren plateaus when optimizing for the ground state can be avoided, we also execute gradient-based, and stochastic, optimization procedures, which are compared with the performance of deterministic optimizers on a case-by-case basis."
+  },
+  {
+    "objectID": "seminar_pages/KilpatrickF22.html",
+    "href": "seminar_pages/KilpatrickF22.html",
+    "title": "Stochastic dynamics of decision-making: From individuals to groups",
+    "section": "",
+    "text": "Date: 9/27/23\nAbstract: People and other animals combine ongoing streams of observations with prior knowledge to make decisions. Individuals appear to use statistical inference to account for variability in many experiments and contexts. Mathematical models of these processes often take the form of stochastic differential equations with trajectories that trigger decisions upon crossing a threshold, typically derived for decisions in static and symmetric environments. We move beyond these standard models in three ways, developing methods in stochastic processes, optimization, and Bayesian inference along the way, and validating with human decision-making data. First, we examine strategies people use to infer the frequency of rare events. Subjects using imperfect Bayesian strategies exhibit lower variance but higher bias in their estimates than those using heuristics, inverting the typical bias-variance trade-off. Second, we derived optimal models of binary decisions in dynamic environments. People appear to employ near-normative decision criteria (thresholds) more than heuristics, due to their ability to anticipate or reflect changes in reward contingencies and the quality of evidence. Lastly, we derive and analyze normative models of agents accumulating evidence and sharing their decisions along a social network. Rational agents glean information from their neighbors’ indecisions, resulting in rapid decision waves that correct for early errors, especially in groups comprised of a mix of hasty and deliberate deciders."
+  },
+  {
+    "objectID": "seminar_pages/MaunuS23.html",
+    "href": "seminar_pages/MaunuS23.html",
+    "title": "New Approaches to Positive Semidefinite Matrix Recovery",
+    "section": "",
+    "text": "Date: 4/11/23\nAbstract: We study algorithms that exploit constraint geometry to solve the matrix recovery problem over positive semidefinite matrices. We consider the problem in two separate settings. In the first setting, we study low-rank matrix recovery. We develop a new connection between this problem and the Wasserstein barycenter problem. Through this connection, we derive geometric first-order methods that have convergence guarantees in Bures-Wasserstein distance. In the second setting, we study the problem of graph Laplacian matrix recovery. In this setting, we derive first-order methods that exploit the constraint set geometry that again are guaranteed to efficiently recover the underlying matrix. Experiments on simulated and real data demonstrate the advantages of our new methodologies over existing methods."
+  },
+  {
+    "objectID": "seminar_pages/McAvoyW24.html",
+    "href": "seminar_pages/McAvoyW24.html",
+    "title": "Evaluating mutation-selection dynamics in structured populations",
+    "section": "",
+    "text": "Date: 2/27/24\nAbstract: Evolutionary processes in structured populations are often studied under the assumption that traits/behaviors/types spread from vertex to vertex faithfully, with no mutation of types as they propagate. While some systems do have zero or small mutation rates, these models are limited in their expressiveness due to their inability to capture organisms with more frequent mutations. Such systems could be genetic in nature (e.g., viruses) or cultural (e.g., mutation as exploration of nearby behaviors). In this talk, I will describe a modeling approach that appeared around 15 years ago and describe recent work with a colleague that allows one to evaluate this class of models on heterogeneous networks. If time permits, I will briefly discuss some limitations of this model as well as plans for future work to make it more realistic."
+  },
+  {
+    "objectID": "seminar_pages/ShuF23.html",
+    "href": "seminar_pages/ShuF23.html",
+    "title": "Dynamics of bimatrix games and a social-climate model",
+    "section": "",
+    "text": "Date: 10/3/23\nAbstract: In the first part of this presentation we consider replicator dynamics with feedback-evolving games, where the payoffs switch between two different matrices. Although each payoff matrix on its own represents an environment where cooperators and defectors can’t coexist stably, we show that it’s possible to design appropriate switching control laws and achieve persistent oscillations of strategy abundance. In the second part we couple the forest dieback model with human behaviors. Using evolutionary game theory, we build a time-delay system where forest growth is impacted by both temperature and human mitigation choices, the latter being informed by temperature forecasts. Simulations of the coupled system over 200 years show us varying outcomes."
+  },
+  {
+    "objectID": "seminar_pages/BencomoW24.html",
+    "href": "seminar_pages/BencomoW24.html",
+    "title": "Topics in Differential Equations, Inverse Problems, and Optimal Control",
+    "section": "",
+    "text": "Date: 1/30/24\nAbstract: This talk covers a body of research under the category of optimization problems with differential equations as constraints, a unifying framework for some inverse and optimal control problems. The talk will focus on challenges associated with discretizing and estimating seismic sources as multipoles and discrete adjoint computations for relaxation Runge-Kutta methods. Accurate representation and estimation of seismic sources is crucial to the accuracy of imaging algorithms in exploration seismology. In order to account for source anisotropy, we model seismic sources of point-support as multipoles, i.e., a finite series of derivatives of the spatial delta function. We present a method for discretizing multipole sources in a finite difference setting. The multipole source inverse problem results in a highly ill-conditioned linear least squares problem which presents a challenge for iterative solvers such as conjugate gradient (CG). We propose a preconditioner consisting of time differo-integral operators based on analytical solutions to the wave equation to accelerate CG iterations. Relaxation Runge-Kutta (RRK) methods reproduce a fully discrete conservation of entropy for entropy stable semi-discretizations of nonlinear conservation laws. In this talk, we derive the discrete adjoint of RRK schemes, which are applicable to discretize-then-optimize approaches for optimal control problems. Numerical experiments demonstrate the importance of appropriately treating the relaxation parameter when computing the discrete adjoint."
+  }
+]

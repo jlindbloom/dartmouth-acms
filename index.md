@@ -16,18 +16,18 @@ The seminar is held weekly on Tuesdays from 2:30 -- 3:30 PM in Kemeny Hall, Room
 
 <!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
 
-Date     Speaker                                                                                                              Title
--------  -------------------------------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
-1/9/24   [Mohammad Javad Latifi Jebelli](https://math.dartmouth.edu/~mjebelli/) (Dartmouth, Mathematics)                      [Kernel Smoothing Operators on Thick Open Domains](/seminar_pages/JebelliW24.html)
-1/16/24  [Wei Zhu](https://www.umass.edu/mathematics-statistics/directory/faculty/wei-zhu) (UMass Amherst)                    [Symmetry-Preserving Machine Learning: Theory and Applications](/seminar_pages/ZhuW24.html)
-1/30/24  [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) (California State U, Fresno)  [Topics in Differential Equations, Inverse Problems, and Optimal Control](/seminar_pages/BencomoW24.html)
-2/6/24   [Jeremy Manning](https://pbs.dartmouth.edu/people/jeremy-r-manning) (Dartmouth, PBS)                                 [How do our thoughts take shape?](/seminar_pages/ManningW24.html)
-2/13/24  [Maryclare Griffin](https://maryclare.github.io/) (UMass Amherst)                                                    [Testing and estimation for sparsity-inducing power penalties](/seminar_pages/GriffinW24.html)
-2/20/24  Casey Dowdle (Dartmouth, Mathematics)                                                                                [Quantum Computing and the Battle for Quantum Advantage](/seminar_pages/DowdleW24.html)
-2/21/24  [Christopher Jones](https://tarheels.live/applieddynamics/christopher-jones/) (UNC Chapel Hill)                      [Optimizing data assimilation for the underlying numerical solver with motivation from next generation sea ice models](/seminar_pages/CJonesW24.html)
-2/27/24  [Alex McAvoy](https://datascience.unc.edu/person/alex-mcavoy/) (UNC Chapel Hill)                                     [Evaluating mutation-selection dynamics in structured populations](/seminar_pages/McAvoyW24.html)
-3/5/24   Chris Vales (UNH)                                                                                                    [Energy conservative quadrature based hyperreduction of Lagrangian hydrodynamics problems](/seminar_pages/ValesW24.html)
-3/12/24  [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems](/seminar_pages/AlfantW24.html)
+Date     Speaker                                                                                                      Title
+-------  -----------------------------------------------------------------------------------------------------------  ---------------------------------------
+3/26/24  [Wenjun Zhao](https://wenjunzhaowo.github.io/) (Brown)                                                       [TBA](/seminar_pages/ZhaoS24.html)
+4/2/24   [Asher Leeks](https://asherleeks.com/) (Yale)                                                                [TBA](/seminar_pages/LeeksS24.html)
+4/9/24   [Erik Bates](https://www.ewbates.com/home) (NCSU)                                                            [TBA](/seminar_pages/BatesS24.html)
+4/16/24  [Carlo Lucibello](https://carlolucibello.github.io/) (Bocconi University)                                    [TBA](/seminar_pages/LucibelloS24.html)
+4/23/24  TBA (None)                                                                                                   [TBA](/seminar_pages/TBA1S24.html)
+4/30/24  TBA (None)                                                                                                   [TBA](/seminar_pages/TBA2S24.html)
+5/7/24   [Zeynep Ertem](https://www.binghamton.edu/ssie/people/profile.html?id=zeynep) (Binghamton)                   [TBA](/seminar_pages/ErtemS24.html)
+5/14/24  [James Siderius](https://www.tuck.dartmouth.edu/faculty/faculty-directory/james-siderius) (Dartmouth, Tuck)  [TBA](/seminar_pages/SideriusS24.html)
+5/21/24  [Kui Ren](https://www.columbia.edu/~kr2002/) (Columbia)                                                      [TBA](/seminar_pages/RenS24.html)
+5/28/24  [Anton Bovier](https://wt.iam.uni-bonn.de/bovier/home/) (UBonn, Germany)                                     [TBA](/seminar_pages/BovierS24.html)
 
 
 This seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu).
