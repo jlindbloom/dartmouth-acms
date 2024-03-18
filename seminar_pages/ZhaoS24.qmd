@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Optimal transport with covariates: Wasserstein barycenter and its extensions"
 ---
 **Speaker:** [Wenjun Zhao](https://wenjunzhaowo.github.io/) (Brown)
 
 **Date:** 3/26/24
 
-**Abstract:** TBA
+**Abstract:** Optimal transport has emerged as a powerful tool in various fields, such as image processing, statistics, and data analysis. In this talk, we introduce the Wasserstein barycenter problem and its extension to continuous factors. To showcase its applicability in statistics, we propose a general framework using the barycenter problem for conditional density estimation and simulation. Real-data examples within purely data-driven settings will be presented to demonstrate our methodologies. If time allows, we will discuss its two extensions: (1) conditional barycenter, to preserve partial information of covariates if desired; (2) hierarchical barycenter, to incorporate covariates with hierarchical structures. This talk is based on joint work with Esteban G. Tabak (NYU Courant) and Giulio Trigila (CUNY Baruch).
