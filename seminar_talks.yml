@@ -39,12 +39,12 @@ ErtemS24:
     slides_url: 
     schedule: S24
 
-TBA2S24:
+LoeserS24:
     title: "TBA"
     date: 4/30/24
-    speaker: TBA
-    affiliation: 
-    speaker_url: 
+    speaker: Eva Loeser
+    affiliation: UCSD
+    speaker_url: https://www.google.com/search?q=eva+loeser&rlz=1C5CHFA_enUS810US810&oq=eva+loeser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEzNjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
     abstract: "TBA"
     slides_url: 
     schedule: S24
