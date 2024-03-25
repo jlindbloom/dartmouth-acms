@@ -1,11 +1,11 @@
 
 BovierS24:
-    title: "TBA"
+    title: "A branching random walk with self repulsion"
     date: 5/28/24
     speaker: Anton Bovier
     affiliation: UBonn, Germany
     speaker_url: https://wt.iam.uni-bonn.de/bovier/home/
-    abstract: "TBA"
+    abstract: "We consider a discrete time branching random walk where each particle splits into two at integer times and the offspring move independently by a normal random variable. We introduce a penalty that penalises particles that get within a distance epsilon of each other. We analyse the most likely configurations of particles under the tilted measure for a fixed time horizon N. It turns out that spread very quickly to a distance 2^{2N/3} and show a very abrupt change in behaviour at time 2N/3. This is joint work with Lisa Hartung, Frank den Hollander and Stefan Müller."
     slides_url: 
     schedule: S24
 
@@ -80,12 +80,12 @@ BatesS24:
     schedule: S24
 
 LeeksS24:
-    title: "TBA"
+    title: "The (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict"
     date: 4/2/24
     speaker: Asher Leeks
     affiliation: Yale
     speaker_url: https://asherleeks.com/
-    abstract: "TBA"
+    abstract: "In multipartite viruses, the genome is split into multiple segments, each of which is transmitted via a separate capsid. The existence of multipartite viruses poses a problem, because replication is only possible when all segments are present within the same host. Given this clear cost, why is multipartitism so common in viruses? Most previous hypotheses try to explain how multipartitism could provide an advantage. In so doing, they require scenarios that are unrealistic and that cannot explain viruses with more than 2 multipartite segments. With a combination of classical game theory and agent-based simulations, we show that selection for cheats, which avoid producing a shared gene product, but still benefit from gene products produced by other genomes, can drive the evolution of both multipartite and segmented viruses. We find that multipartitism can evolve via cheating under realistic conditions and does not require unreasonably high coinfection rates or any group-level benefit. Furthermore, the cheating hypothesis is consistent with empirical patterns of cheating and multipartitism across viruses. More broadly, our results show how evolutionary conflict can drive new patterns of genome organisation in viruses and elsewhere."
     slides_url: 
     schedule: S24
 

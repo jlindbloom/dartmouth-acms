@@ -93,9 +93,9 @@
   {
     "objectID": "seminar_pages/LeeksS24.html",
     "href": "seminar_pages/LeeksS24.html",
-    "title": "TBA",
+    "title": "The (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict",
     "section": "",
-    "text": "Speaker: Asher Leeks (Yale)\nDate: 4/2/24\nAbstract: TBA"
+    "text": "Speaker: Asher Leeks (Yale)\nDate: 4/2/24\nAbstract: In multipartite viruses, the genome is split into multiple segments, each of which is transmitted via a separate capsid. The existence of multipartite viruses poses a problem, because replication is only possible when all segments are present within the same host. Given this clear cost, why is multipartitism so common in viruses? Most previous hypotheses try to explain how multipartitism could provide an advantage. In so doing, they require scenarios that are unrealistic and that cannot explain viruses with more than 2 multipartite segments. With a combination of classical game theory and agent-based simulations, we show that selection for cheats, which avoid producing a shared gene product, but still benefit from gene products produced by other genomes, can drive the evolution of both multipartite and segmented viruses. We find that multipartitism can evolve via cheating under realistic conditions and does not require unreasonably high coinfection rates or any group-level benefit. Furthermore, the cheating hypothesis is consistent with empirical patterns of cheating and multipartitism across viruses. More broadly, our results show how evolutionary conflict can drive new patterns of genome organisation in viruses and elsewhere."
   },
   {
     "objectID": "seminar_pages/ViswanathanF23.html",
@@ -170,9 +170,9 @@
   {
     "objectID": "seminar_pages/BovierS24.html",
     "href": "seminar_pages/BovierS24.html",
-    "title": "TBA",
+    "title": "A branching random walk with self repulsion",
     "section": "",
-    "text": "Speaker: Anton Bovier (UBonn, Germany)\nDate: 5/28/24\nAbstract: TBA"
+    "text": "Speaker: Anton Bovier (UBonn, Germany)\nDate: 5/28/24\nAbstract: We consider a discrete time branching random walk where each particle splits into two at integer times and the offspring move independently by a normal random variable. We introduce a penalty that penalises particles that get within a distance epsilon of each other. We analyse the most likely configurations of particles under the tilted measure for a fixed time horizon N. It turns out that spread very quickly to a distance 2^{2N/3} and show a very abrupt change in behaviour at time 2N/3. This is joint work with Lisa Hartung, Frank den Hollander and Stefan Müller."
   },
   {
     "objectID": "seminar_pages/CJonesW24.html",
@@ -207,7 +207,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, stochastic processes, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.\nThe seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\n\n\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n3/26/24\nWenjun Zhao (Brown)\nOptimal transport with covariates: Wasserstein barycenter and its extensions\n\n\n4/2/24\nAsher Leeks (Yale)\nTBA\n\n\n4/9/24\nErik Bates (NCSU)\nTBA\n\n\n4/16/24\nCarlo Lucibello (Bocconi University)\nTBA\n\n\n4/23/24\nTBA (None)\nTBA\n\n\n4/30/24\nEva Loeser (UCSD)\nTBA\n\n\n5/7/24\nZeynep Ertem (Binghamton)\nTBA\n\n\n5/14/24\nJames Siderius (Dartmouth, Tuck)\nTBA\n\n\n5/21/24\nKui Ren (Columbia)\nTBA\n\n\n5/28/24\nAnton Bovier (UBonn, Germany)\nTBA\n\n\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, stochastic processes, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.\nThe seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\n\n\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n3/26/24\nWenjun Zhao (Brown)\nOptimal transport with covariates: Wasserstein barycenter and its extensions\n\n\n4/2/24\nAsher Leeks (Yale)\nThe (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict\n\n\n4/9/24\nErik Bates (NCSU)\nTBA\n\n\n4/16/24\nCarlo Lucibello (Bocconi University)\nTBA\n\n\n4/23/24\nTBA (None)\nTBA\n\n\n4/30/24\nEva Loeser (UCSD)\nTBA\n\n\n5/7/24\nZeynep Ertem (Binghamton)\nTBA\n\n\n5/14/24\nJames Siderius (Dartmouth, Tuck)\nTBA\n\n\n5/21/24\nKui Ren (Columbia)\nTBA\n\n\n5/28/24\nAnton Bovier (UBonn, Germany)\nA branching random walk with self repulsion\n\n\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",

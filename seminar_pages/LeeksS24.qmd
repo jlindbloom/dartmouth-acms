@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "The (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict"
 ---
 **Speaker:** [Asher Leeks](https://asherleeks.com/) (Yale)
 
 **Date:** 4/2/24
 
-**Abstract:** TBA
+**Abstract:** In multipartite viruses, the genome is split into multiple segments, each of which is transmitted via a separate capsid. The existence of multipartite viruses poses a problem, because replication is only possible when all segments are present within the same host. Given this clear cost, why is multipartitism so common in viruses? Most previous hypotheses try to explain how multipartitism could provide an advantage. In so doing, they require scenarios that are unrealistic and that cannot explain viruses with more than 2 multipartite segments. With a combination of classical game theory and agent-based simulations, we show that selection for cheats, which avoid producing a shared gene product, but still benefit from gene products produced by other genomes, can drive the evolution of both multipartite and segmented viruses. We find that multipartitism can evolve via cheating under realistic conditions and does not require unreasonably high coinfection rates or any group-level benefit. Furthermore, the cheating hypothesis is consistent with empirical patterns of cheating and multipartitism across viruses. More broadly, our results show how evolutionary conflict can drive new patterns of genome organisation in viruses and elsewhere.
