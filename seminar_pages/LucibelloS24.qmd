@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "The Exponential Capacity of Dense Associative Memories"
 ---
 **Speaker:** [Carlo Lucibello](https://carlolucibello.github.io/) (Bocconi University)
 
 **Date:** 4/16/24
 
-**Abstract:** TBA
+**Abstract:** Recent generalizations of the Hopfield model of associative memories are able to store a number P of random patterns that grows exponentially with the number N of neurons, P=exp(αN). Besides the huge storage capacity, another interesting feature of these networks is their connection to the attention mechanism which is part of the Transformer architectures and to the score function of Denoising Diffusion Models. In this work, we consider a generic family of pattern ensembles, and thanks to the statistical mechanics analysis of an auxiliary Random Energy Model, we are able to provide exact asymptotic thresholds for the retrieval of a typical pattern, α1, and lower bounds for the maximum of the load α for which all patterns can be retrieved, αc. Additionally, we characterize the size of the basins of attractions. We discuss in detail the cases of Gaussian and spherical patterns, and show that they display rich and qualitatively different phase diagrams.
