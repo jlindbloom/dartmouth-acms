@@ -40,21 +40,21 @@ ErtemS24:
     schedule: S24
 
 LoeserS24:
-    title: "TBA"
+    title: "Fluid Limit for a Stochastic Model of Enzymatic Processing with General Distributions"
     date: 4/30/24
     speaker: Eva Loeser
     affiliation: UCSD
     speaker_url: https://sites.google.com/ucsd.edu/eva-loesers-website/home
-    abstract: "TBA"
+    abstract: "In this talk, we consider a stochastic chemical reaction system arising as a model for enzymatic processing in a cell. This can also be thought of as a multi-server multiclass queue with reneging operating under the random order of service discipline. Stochastic primitives for the model such as production/interarrival times, processing/service times, and lifetimes are assumed to be generally distributed. We establish a fluid limit for a measure-valued process that keeps track of the remaining lifetime for each entity in the system. We prove uniqueness for fluid model solutions under mild conditions and study the asymptotic behavior of fluid model solutions as time goes to infinity. This talk is based on joint work with Ruth Williams."
     slides_url: 
     schedule: S24
 
-TBA1S24:
+LeProvostS24:
     title: "TBA"
     date: 4/23/24
-    speaker: TBA
-    affiliation: 
-    speaker_url: 
+    speaker: Mathieu Le Provost
+    affiliation: MIT
+    speaker_url: https://scholar.google.com/citations?user=HBBUBOoAAAAJ&hl=en
     abstract: "TBA"
     slides_url: 
     schedule: S24
@@ -70,12 +70,12 @@ LucibelloS24:
     schedule: S24
 
 BatesS24:
-    title: "TBA"
+    title: "Parisi formulas in multi-species and vector spin glass models"
     date: 4/9/24
     speaker: Erik Bates
     affiliation: NCSU
     speaker_url: https://www.ewbates.com/home
-    abstract: "TBA"
+    abstract: "The expression \"Parisi formula\" refers to a variational formula postulated by Parisi in 1980 to give the limiting free energy of the Sherrington--Kirkpatrick (SK) spin glass. The SK model was originally conceived as a mean-field description for disordered magnetism, and has since become a mathematical prototype for frustrated disordered systems and high-complexity functions. In recent years, there has been an effort to extend the Parisi framework to various generalizations of the SK model, raising new physical questions met with fresh mathematical challenges. In this talk, I will share some developments in this evolving story. Based on joint works with Leila Sloman and Youngtak Sohn."
     slides_url: 
     schedule: S24
 
@@ -98,13 +98,6 @@ ZhaoS24:
     abstract: "Optimal transport has emerged as a powerful tool in various fields, such as image processing, statistics, and data analysis. In this talk, we introduce the Wasserstein barycenter problem and its extension to continuous factors. To showcase its applicability in statistics, we propose a general framework using the barycenter problem for conditional density estimation and simulation. Real-data examples within purely data-driven settings will be presented to demonstrate our methodologies. If time allows, we will discuss its two extensions: (1) conditional barycenter, to preserve partial information of covariates if desired; (2) hierarchical barycenter, to incorporate covariates with hierarchical structures. This talk is based on joint work with Esteban G. Tabak (NYU Courant) and Giulio Trigila (CUNY Baruch)."
     slides_url: 
     schedule: S24
-
-
-
-
-
-
-
 
 
 

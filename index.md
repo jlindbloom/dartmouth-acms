@@ -23,10 +23,10 @@ Date     Speaker                                                                
 -------  -----------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------
 3/26/24  [Wenjun Zhao](https://wenjunzhaowo.github.io/) (Brown)                                                       [Optimal transport with covariates: Wasserstein barycenter and its extensions](/seminar_pages/ZhaoS24.html)
 4/2/24   [Asher Leeks](https://asherleeks.com/) (Yale)                                                                [The (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict](/seminar_pages/LeeksS24.html)
-4/9/24   [Erik Bates](https://www.ewbates.com/home) (NCSU)                                                            [TBA](/seminar_pages/BatesS24.html)
+4/9/24   [Erik Bates](https://www.ewbates.com/home) (NCSU)                                                            [Parisi formulas in multi-species and vector spin glass models](/seminar_pages/BatesS24.html)
 4/16/24  [Carlo Lucibello](https://carlolucibello.github.io/) (Bocconi University)                                    [The Exponential Capacity of Dense Associative Memories](/seminar_pages/LucibelloS24.html)
-4/23/24  TBA (None)                                                                                                   [TBA](/seminar_pages/TBA1S24.html)
-4/30/24  [Eva Loeser](https://sites.google.com/ucsd.edu/eva-loesers-website/home) (UCSD)                              [TBA](/seminar_pages/LoeserS24.html)
+4/23/24  [Mathieu Le Provost](https://scholar.google.com/citations?user=HBBUBOoAAAAJ&hl=en) (MIT)                     [TBA](/seminar_pages/LeProvostS24.html)
+4/30/24  [Eva Loeser](https://sites.google.com/ucsd.edu/eva-loesers-website/home) (UCSD)                              [Fluid Limit for a Stochastic Model of Enzymatic Processing with General Distributions](/seminar_pages/LoeserS24.html)
 5/7/24   [Zeynep Ertem](https://www.binghamton.edu/ssie/people/profile.html?id=zeynep) (Binghamton)                   [TBA](/seminar_pages/ErtemS24.html)
 5/14/24  [James Siderius](https://www.tuck.dartmouth.edu/faculty/faculty-directory/james-siderius) (Dartmouth, Tuck)  [TBA](/seminar_pages/SideriusS24.html)
 5/21/24  [Kui Ren](https://www.columbia.edu/~kr2002/) (Columbia)                                                      [TBA](/seminar_pages/RenS24.html)

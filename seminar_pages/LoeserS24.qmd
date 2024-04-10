@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Fluid Limit for a Stochastic Model of Enzymatic Processing with General Distributions"
 ---
 **Speaker:** [Eva Loeser](https://sites.google.com/ucsd.edu/eva-loesers-website/home) (UCSD)
 
 **Date:** 4/30/24
 
-**Abstract:** TBA
+**Abstract:** In this talk, we consider a stochastic chemical reaction system arising as a model for enzymatic processing in a cell. This can also be thought of as a multi-server multiclass queue with reneging operating under the random order of service discipline. Stochastic primitives for the model such as production/interarrival times, processing/service times, and lifetimes are assumed to be generally distributed. We establish a fluid limit for a measure-valued process that keeps track of the remaining lifetime for each entity in the system. We prove uniqueness for fluid model solutions under mild conditions and study the asymptotic behavior of fluid model solutions as time goes to infinity. This talk is based on joint work with Ruth Williams.

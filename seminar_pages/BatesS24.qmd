@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Parisi formulas in multi-species and vector spin glass models"
 ---
 **Speaker:** [Erik Bates](https://www.ewbates.com/home) (NCSU)
 
 **Date:** 4/9/24
 
-**Abstract:** TBA
+**Abstract:** The expression "Parisi formula" refers to a variational formula postulated by Parisi in 1980 to give the limiting free energy of the Sherrington--Kirkpatrick (SK) spin glass. The SK model was originally conceived as a mean-field description for disordered magnetism, and has since become a mathematical prototype for frustrated disordered systems and high-complexity functions. In recent years, there has been an effort to extend the Parisi framework to various generalizations of the SK model, raising new physical questions met with fresh mathematical challenges. In this talk, I will share some developments in this evolving story. Based on joint works with Leila Sloman and Youngtak Sohn.

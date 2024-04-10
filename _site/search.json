@@ -161,18 +161,18 @@
     "text": "Speaker: Georg Stadler (NYU)\nDate: 11/14/23\nAbstract: I will argue that nonlinearity in PDE systems can be mitigated through lifting the systems to a higher-dimensional space. After reviewing basic properties of Newton’s method for solving nonlinear equations, I will detail the proposed lift-transform-linearize approach and show that the resulting Newton-type algorithms may yield favorable convergence properties. I will illustrate the ideas first on simple examples, and show connections to primal-dual interior point methods and mixed finite element methods. The resulting solvers will be illustrated for the solution of a large-scale flow problems with severely nonlinear constitutive law arising in the most commonly used continuous sea ice model."
   },
   {
-    "objectID": "seminar_pages/BrooksF23.html",
-    "href": "seminar_pages/BrooksF23.html",
-    "title": "Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics",
+    "objectID": "seminar_pages/LeProvostS24.html",
+    "href": "seminar_pages/LeProvostS24.html",
+    "title": "TBA",
     "section": "",
-    "text": "Speaker: Heather Zinn Brooks (Harvey Mudd)\nDate: 10/17/23\nAbstract: We propose a nonlinear bounded-confidence model (BCM) of continuous time opinion dynamics on networks with both persuadable individuals and zealots. The model is parameterized by a scalar γ, which controls the steepness of a smooth influence function that encodes the relative weights that nodes place on the opinions of other nodes. When γ = 0, this influence function exactly recovers Taylor’s averaging model; when γ → ∞, the influence function converges to that of a modified Hegselmann–Krause (HK) BCM. Unlike the classical HK model, however, our sigmoidal bounded-confidence model (SBCM) is smooth for any finite γ. We show that the set of steady states of our SBCM is qualitatively similar to that of the Taylor model when γ is small and that the set of steady states approaches a subset of the set of steady states of a modified HK model as γ → ∞. For several special graph topologies, we give analytical descriptions of important features of the space of steady states. A notable result is a closed-form relationship between the stability of a polarized state and the graph topology in a simple model of echo chambers in social networks. Because the influence function of our BCM is smooth, we are able to study it with linear stability analysis, which is difficult to employ with the usual discontinuous influence functions in BCMs. This is joint work with Phil Chodrow and Mason Porter."
+    "text": "Speaker: Mathieu Le Provost (MIT)\nDate: 4/23/24\nAbstract: TBA"
   },
   {
-    "objectID": "seminar_pages/BovierS24.html",
-    "href": "seminar_pages/BovierS24.html",
-    "title": "A branching random walk with self repulsion",
+    "objectID": "seminar_pages/ChenF22.html",
+    "href": "seminar_pages/ChenF22.html",
+    "title": "EIM-degradation free RBM via over collocation and residual hyper reduction and its application to fluid flow problems and optimal mass transport",
     "section": "",
-    "text": "Speaker: Anton Bovier (UBonn, Germany)\nDate: 5/28/24\nAbstract: We consider a discrete time branching random walk where each particle splits into two at integer times and the offspring move independently by a normal random variable. We introduce a penalty that penalises particles that get within a distance epsilon of each other. We analyse the most likely configurations of particles under the tilted measure for a fixed time horizon N. It turns out that spread very quickly to a distance 2^{2N/3} and show a very abrupt change in behaviour at time 2N/3. This is joint work with Lisa Hartung, Frank den Hollander and Stefan Müller."
+    "text": "Speaker: Yanlai Chen (UMass Dartmouth)\nDate: 11/8/23\nAbstract: The need for multiple interactive, real-time simulations using different parameter values has driven the design of fast numerical algorithms with certifiable accuracies. The reduced basis method (RBM) presents itself as such an option. RBM features a mathematically rigorous error estimator which drives the construction of a low-dimensional subspace. A surrogate solution is then sought in this low-dimensional space approximating the parameter-induced high fidelity solution manifold. However when the system is nonlinear or its parameter dependence nonaffine, this efficiency gain degrades tremendously, an inherent drawback of the application of the empirical interpolation method (EIM). In this talk, we present an EIM-degradation free RBM via over collocation and residual hyper reduction-based error estimation. It augments and extends the EIM approach as a direct solver, as opposed to an assistant, for solving nonlinear partial differential equations on the reduced level. Collocating at about twice as many locations as the number of basis elements and featuring an adaptive hyper reduction of the residuals for the reduced solution, this R2-ROC scheme is stable, offline- and online-efficient, and capable of avoiding the efficiency degradation. Time permitting, applications of R2-ROC to fast simulations of parametric fluid flow problems and optimal mass transport will be presented."
   },
   {
     "objectID": "seminar_pages/CJonesW24.html",
@@ -207,7 +207,7 @@
     "href": "index.html",
     "title": "Current Seminar",
     "section": "",
-    "text": "The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, stochastic processes, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.\nThe seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\n\n\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n3/26/24\nWenjun Zhao (Brown)\nOptimal transport with covariates: Wasserstein barycenter and its extensions\n\n\n4/2/24\nAsher Leeks (Yale)\nThe (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict\n\n\n4/9/24\nErik Bates (NCSU)\nTBA\n\n\n4/16/24\nCarlo Lucibello (Bocconi University)\nThe Exponential Capacity of Dense Associative Memories\n\n\n4/23/24\nTBA (None)\nTBA\n\n\n4/30/24\nEva Loeser (UCSD)\nTBA\n\n\n5/7/24\nZeynep Ertem (Binghamton)\nTBA\n\n\n5/14/24\nJames Siderius (Dartmouth, Tuck)\nTBA\n\n\n5/21/24\nKui Ren (Columbia)\nTBA\n\n\n5/28/24\nAnton Bovier (UBonn, Germany)\nA branching random walk with self repulsion\n\n\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
+    "text": "The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The seminar includes talks broadly on mathematics, computational science, network science, stochastic processes, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind.\nThe seminar is held weekly on Tuesdays from 2:30 – 3:30 PM in Kemeny Hall, Room 307.\n\n\n\n\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n3/26/24\nWenjun Zhao (Brown)\nOptimal transport with covariates: Wasserstein barycenter and its extensions\n\n\n4/2/24\nAsher Leeks (Yale)\nThe (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict\n\n\n4/9/24\nErik Bates (NCSU)\nParisi formulas in multi-species and vector spin glass models\n\n\n4/16/24\nCarlo Lucibello (Bocconi University)\nThe Exponential Capacity of Dense Associative Memories\n\n\n4/23/24\nMathieu Le Provost (MIT)\nTBA\n\n\n4/30/24\nEva Loeser (UCSD)\nFluid Limit for a Stochastic Model of Enzymatic Processing with General Distributions\n\n\n5/7/24\nZeynep Ertem (Binghamton)\nTBA\n\n\n5/14/24\nJames Siderius (Dartmouth, Tuck)\nTBA\n\n\n5/21/24\nKui Ren (Columbia)\nTBA\n\n\n5/28/24\nAnton Bovier (UBonn, Germany)\nA branching random walk with self repulsion\n\n\n\n\n\nThis seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu)."
   },
   {
     "objectID": "about.html",
@@ -217,18 +217,18 @@
     "text": "The Applied and Computational Mathematics seminar (ACMS) at Dartmouth brings together researchers with common interests in the real-world applications of mathematical models and tools to tackle the resulting numerical simulation and computational challenges. Talks, enjoyed in a casual setting, include both outside speakers. The topics and audience will broadly cover mathematics, computational science, network science, engineering, game theory, mathematical biology, statistics, physical science, complex systems, machine learning, data science, etc.; hence these talks will keep the breadth of the audience in mind."
   },
   {
-    "objectID": "seminar_pages/TBA1S24.html",
-    "href": "seminar_pages/TBA1S24.html",
-    "title": "TBA",
+    "objectID": "seminar_pages/BovierS24.html",
+    "href": "seminar_pages/BovierS24.html",
+    "title": "A branching random walk with self repulsion",
     "section": "",
-    "text": "Speaker: TBA (None)\nDate: 4/23/24\nAbstract: TBA"
+    "text": "Speaker: Anton Bovier (UBonn, Germany)\nDate: 5/28/24\nAbstract: We consider a discrete time branching random walk where each particle splits into two at integer times and the offspring move independently by a normal random variable. We introduce a penalty that penalises particles that get within a distance epsilon of each other. We analyse the most likely configurations of particles under the tilted measure for a fixed time horizon N. It turns out that spread very quickly to a distance 2^{2N/3} and show a very abrupt change in behaviour at time 2N/3. This is joint work with Lisa Hartung, Frank den Hollander and Stefan Müller."
   },
   {
-    "objectID": "seminar_pages/ChenF22.html",
-    "href": "seminar_pages/ChenF22.html",
-    "title": "EIM-degradation free RBM via over collocation and residual hyper reduction and its application to fluid flow problems and optimal mass transport",
+    "objectID": "seminar_pages/BrooksF23.html",
+    "href": "seminar_pages/BrooksF23.html",
+    "title": "Emergence of polarization in a sigmoidal bounded-confidence model of opinion dynamics",
     "section": "",
-    "text": "Speaker: Yanlai Chen (UMass Dartmouth)\nDate: 11/8/23\nAbstract: The need for multiple interactive, real-time simulations using different parameter values has driven the design of fast numerical algorithms with certifiable accuracies. The reduced basis method (RBM) presents itself as such an option. RBM features a mathematically rigorous error estimator which drives the construction of a low-dimensional subspace. A surrogate solution is then sought in this low-dimensional space approximating the parameter-induced high fidelity solution manifold. However when the system is nonlinear or its parameter dependence nonaffine, this efficiency gain degrades tremendously, an inherent drawback of the application of the empirical interpolation method (EIM). In this talk, we present an EIM-degradation free RBM via over collocation and residual hyper reduction-based error estimation. It augments and extends the EIM approach as a direct solver, as opposed to an assistant, for solving nonlinear partial differential equations on the reduced level. Collocating at about twice as many locations as the number of basis elements and featuring an adaptive hyper reduction of the residuals for the reduced solution, this R2-ROC scheme is stable, offline- and online-efficient, and capable of avoiding the efficiency degradation. Time permitting, applications of R2-ROC to fast simulations of parametric fluid flow problems and optimal mass transport will be presented."
+    "text": "Speaker: Heather Zinn Brooks (Harvey Mudd)\nDate: 10/17/23\nAbstract: We propose a nonlinear bounded-confidence model (BCM) of continuous time opinion dynamics on networks with both persuadable individuals and zealots. The model is parameterized by a scalar γ, which controls the steepness of a smooth influence function that encodes the relative weights that nodes place on the opinions of other nodes. When γ = 0, this influence function exactly recovers Taylor’s averaging model; when γ → ∞, the influence function converges to that of a modified Hegselmann–Krause (HK) BCM. Unlike the classical HK model, however, our sigmoidal bounded-confidence model (SBCM) is smooth for any finite γ. We show that the set of steady states of our SBCM is qualitatively similar to that of the Taylor model when γ is small and that the set of steady states approaches a subset of the set of steady states of a modified HK model as γ → ∞. For several special graph topologies, we give analytical descriptions of important features of the space of steady states. A notable result is a closed-form relationship between the stability of a polarized state and the graph topology in a simple model of echo chambers in social networks. Because the influence function of our BCM is smooth, we are able to study it with linear stability analysis, which is difficult to employ with the usual discontinuous influence functions in BCMs. This is joint work with Phil Chodrow and Mason Porter."
   },
   {
     "objectID": "seminar_pages/SayamaF23.html",
@@ -254,9 +254,9 @@
   {
     "objectID": "seminar_pages/LoeserS24.html",
     "href": "seminar_pages/LoeserS24.html",
-    "title": "TBA",
+    "title": "Fluid Limit for a Stochastic Model of Enzymatic Processing with General Distributions",
     "section": "",
-    "text": "Speaker: Eva Loeser (UCSD)\nDate: 4/30/24\nAbstract: TBA"
+    "text": "Speaker: Eva Loeser (UCSD)\nDate: 4/30/24\nAbstract: In this talk, we consider a stochastic chemical reaction system arising as a model for enzymatic processing in a cell. This can also be thought of as a multi-server multiclass queue with reneging operating under the random order of service discipline. Stochastic primitives for the model such as production/interarrival times, processing/service times, and lifetimes are assumed to be generally distributed. We establish a fluid limit for a measure-valued process that keeps track of the remaining lifetime for each entity in the system. We prove uniqueness for fluid model solutions under mild conditions and study the asymptotic behavior of fluid model solutions as time goes to infinity. This talk is based on joint work with Ruth Williams."
   },
   {
     "objectID": "seminar_pages/SingalS23.html",
@@ -324,9 +324,9 @@
   {
     "objectID": "seminar_pages/BatesS24.html",
     "href": "seminar_pages/BatesS24.html",
-    "title": "TBA",
+    "title": "Parisi formulas in multi-species and vector spin glass models",
     "section": "",
-    "text": "Speaker: Erik Bates (NCSU)\nDate: 4/9/24\nAbstract: TBA"
+    "text": "Speaker: Erik Bates (NCSU)\nDate: 4/9/24\nAbstract: The expression “Parisi formula” refers to a variational formula postulated by Parisi in 1980 to give the limiting free energy of the Sherrington–Kirkpatrick (SK) spin glass. The SK model was originally conceived as a mean-field description for disordered magnetism, and has since become a mathematical prototype for frustrated disordered systems and high-complexity functions. In recent years, there has been an effort to extend the Parisi framework to various generalizations of the SK model, raising new physical questions met with fresh mathematical challenges. In this talk, I will share some developments in this evolving story. Based on joint works with Leila Sloman and Youngtak Sohn."
   },
   {
     "objectID": "seminar_pages/ColbrookF22.html",
