@@ -1,7 +1,7 @@
 ---
 title: "Preserving linear invariants in ensemble filtering methods"
 ---
-**Speaker:** [Mathieu Le Provost](https://scholar.google.com/citations?user=HBBUBOoAAAAJ&hl=en) (MIT)
+**Speaker:** [Mathieu Le Provost](https://nbviewer.org/github/jlindbloom/dartmouth-acms/blob/main/slides/Le_Provost_Dartmouth_ACMS_0424.pdf) (MIT)
 
 **Date:** 4/23/24
 
