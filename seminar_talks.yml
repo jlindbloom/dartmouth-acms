@@ -29,13 +29,13 @@ SideriusS24:
     slides_url: 
     schedule: S24
 
-ErtemS24:
-    title: "TBA"
-    date: 5/7/24
-    speaker: Zeynep Ertem
-    affiliation: Binghamton
-    speaker_url: https://www.binghamton.edu/ssie/people/profile.html?id=zeynep
-    abstract: "TBA"
+ZhouS24:
+    title: "Acceleration for MCMC methods on discrete states"
+    date: 5/6/24
+    speaker: Bohan Zhou
+    affiliation: UC Santa Barbara
+    speaker_url: https://scholar.google.com/citations?hl=en&user=Fc4gd7oAAAAJ&view_op=list_works&sortby=pubdate
+    abstract: "As ChatGPT and Midjourney rise to prominence on a global scale, generative models have captivated the public’s attention.  This talk explores the concept of flow-based generative models aimed at achieving a target distribution. We focus on designing a Markov-chain (for discrete time) or a flow (for continuous time) to converge from a simple initial distribution to the desired target.  Specifically, we propose a Nesterov type method to enhance the efficiency of  the classical Markov Chain Monte Carlo (MCMC) algorithm (for example, Metropolis-Hastings algorithms) on finite graphs. We interpret MCMC on a finite graph as the gradient flow of a divergence functional and incorporate the concept of \"momentum\" inspired by the Nesterov acceleration method. This addition allows us to propose a second-order ODE in the probability space, which can be viewed as the accelerated version of MCMC process. At last, we provide analysis to justify the convergence of the algorithm and numerical examples to validate the effectiveness of our approach."
     slides_url: 
     schedule: S24
 
@@ -63,7 +63,7 @@ LucibelloS24:
     title: "The Exponential Capacity of Dense Associative Memories"
     date: 4/16/24
     speaker: Carlo Lucibello
-    affiliation: Bocconi University
+    affiliation: Bocconi University, Italy
     speaker_url: https://carlolucibello.github.io/
     abstract: "Recent generalizations of the Hopfield model of associative memories are able to store a number P of random patterns that grows exponentially with the number N of neurons, P=exp(αN). Besides the huge storage capacity, another interesting feature of these networks is their connection to the attention mechanism which is part of the Transformer architectures and to the score function of Denoising Diffusion Models. In this work, we consider a generic family of pattern ensembles, and thanks to the statistical mechanics analysis of an auxiliary Random Energy Model, we are able to provide exact asymptotic thresholds for the retrieval of a typical pattern, α1, and lower bounds for the maximum of the load α for which all patterns can be retrieved, αc. Additionally, we characterize the size of the basins of attractions. We discuss in detail the cases of Gaussian and spherical patterns, and show that they display rich and qualitatively different phase diagrams."
     slides_url: 

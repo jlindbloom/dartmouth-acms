@@ -1,0 +1,8 @@
+---
+title: "Acceleration for MCMC methods on discrete states"
+---
+**Speaker:** [Bohan Zhou](https://scholar.google.com/citations?hl=en&user=Fc4gd7oAAAAJ&view_op=list_works&sortby=pubdate) (UC Santa Barbara)
+
+**Date:** 5/6/24
+
+**Abstract:** As ChatGPT and Midjourney rise to prominence on a global scale, generative models have captivated the public’s attention.  This talk explores the concept of flow-based generative models aimed at achieving a target distribution. We focus on designing a Markov-chain (for discrete time) or a flow (for continuous time) to converge from a simple initial distribution to the desired target.  Specifically, we propose a Nesterov type method to enhance the efficiency of  the classical Markov Chain Monte Carlo (MCMC) algorithm (for example, Metropolis-Hastings algorithms) on finite graphs. We interpret MCMC on a finite graph as the gradient flow of a divergence functional and incorporate the concept of "momentum" inspired by the Nesterov acceleration method. This addition allows us to propose a second-order ODE in the probability space, which can be viewed as the accelerated version of MCMC process. At last, we provide analysis to justify the convergence of the algorithm and numerical examples to validate the effectiveness of our approach.

@@ -1,8 +1,0 @@
----
-title: "TBA"
----
-**Speaker:** [Zeynep Ertem](https://www.binghamton.edu/ssie/people/profile.html?id=zeynep) (Binghamton)
-
-**Date:** 5/7/24
-
-**Abstract:** TBA
