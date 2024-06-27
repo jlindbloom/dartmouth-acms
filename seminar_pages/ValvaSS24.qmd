@@ -1,0 +1,9 @@
+---
+title: "Consistent spectral approximation of Koopman operators: Applications to climate dynamics"
+---
+**Speaker:** [Claire Valva](https://clairevalva.github.io/) (NYU)
+
+**Date:** 6/28/24
+
+**Abstract:** Koopman operators and transfer operators transform nonlinear dynamics in phase space to linear dynamics on vector spaces of functions, enabling the use of spectral techniques without modeling constraints such as linearity. The extraction of approximate Koopman eigenfunctions (and the associated eigenfrequencies) from an unknown system is nontrivial, particularly if the system has mixed or continuous spectrum.
+We discuss a spectrally-accurate approach to approximate the Koopman operator from data via a “compactification” of the resolvent of the Koopman generator. We then discuss implementations of this technique to a range of systems including Lorenz 63 and the tropical atmosphere, where we can identify nonlinear interactions between the annual cycle and the Quasi-Biennial Oscillation.

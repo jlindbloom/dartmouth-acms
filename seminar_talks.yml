@@ -1,4 +1,25 @@
 
+ValvaSS24:
+    title: "Consistent spectral approximation of Koopman operators: Applications to climate dynamics"
+    date: 6/28/24
+    speaker: Claire Valva
+    affiliation: NYU
+    speaker_url: https://clairevalva.github.io/
+    abstract: "Koopman operators and transfer operators transform nonlinear dynamics in phase space to linear dynamics on vector spaces of functions, enabling the use of spectral techniques without modeling constraints such as linearity. The extraction of approximate Koopman eigenfunctions (and the associated eigenfrequencies) from an unknown system is nontrivial, particularly if the system has mixed or continuous spectrum.\nWe discuss a spectrally-accurate approach to approximate the Koopman operator from data via a “compactification” of the resolvent of the Koopman generator. We then discuss implementations of this technique to a range of systems including Lorenz 63 and the tropical atmosphere, where we can identify nonlinear interactions between the annual cycle and the Quasi-Biennial Oscillation."
+    slides_url: 
+    schedule: SS24
+
+LorenzoSS24:
+    title: "Koopman operator theory for enhanced Pacific SST forecasting"
+    date: 6/28/24
+    speaker: Paula Lorenzo Sánchez
+    affiliation: University of Bologna
+    speaker_url: https://www.unibo.it/sitoweb/paula.lorenzosanche2/en
+    abstract: "El Niño-Southern Oscillation (ENSO) is a complex climatic phenomenon with significant impacts on global weather patterns and ecosystems. Improving ENSO predictability is therefore an issue of high societal value. However, Global Circulation Models present severe biases when predicting ENSO, and their skill remains comparable to that of vastly simpler empirical models such as Linear Inverse Models (LIMs). LIMs, however, rely on linear dynamics, and they have inherent limitations in capturing the behavior of non-linear phenomena. In this context, Koopman operator theory has emerged as a powerful mathematical framework, offering a novel perspective for analyzing complex non-linear systems, such as ENSO.\nIn this study, we investigate the potential of Koopman operator theory to enhance ENSO forecasting accuracy. Leveraging 2000 years of tropical SST pre-industrial CESM data, we have assessed the skill of the Niño 3.4 index forecasts using the Koopman framework and compared it to the benchmark set by LIMs. Our analysis includes sensitivity testing of both methods across various parameters, such as retained variability and data length used for operator computations. Our findings reveal nuances in the robustness of Koopman Operator estimates, particularly evident when using shorter training periods, contrasting with more stable LIM counterparts. However, a notable breakthrough emerges as we demonstrate the higher skill of Koopman Ensemble Forecasts (KEFs), showcasing consistent improvements over linear models. Additionally, the Koopman approach seems to capture the variability of the western Pacific, as well as the occurrence of El Niño and La Niña events, providing fundamental potential for event forecasting.\nThe comparative analysis highlights the potential of Koopman operator theory in advancing ENSO forecasting beyond linear models. The utilization of KEFs emerges as a promising strategy, demonstrating enhanced forecasting capabilities. Yet, challenges in robustness persist, particularly in shorter data spans, signaling avenues for further refinement. Overall, these findings underscore the significance of the Koopman framework and lay the groundwork for future research aimed at refining methodologies for more accurate predictions in complex climatic systems."
+    slides_url: 
+    schedule: SS24
+
+
 BovierS24:
     title: "A branching random walk with self repulsion"
     date: 5/28/24
@@ -10,22 +31,22 @@ BovierS24:
     schedule: S24
 
 RenS24:
-    title: "TBA"
+    title: "Inverse problems to mean field game systems: analysis and computation"
     date: 5/21/24
     speaker: Kui Ren
     affiliation: Columbia
     speaker_url: https://www.columbia.edu/~kr2002/
-    abstract: "TBA"
+    abstract: "Mean field game models have been developed in different application areas. We will provide an overview of recent developments in inverse problems to mean field game models where we are interested in reconstructing missing information from observed data. We present a few different scenarios where differential data allows for the unique identification of model parameters in various forms, as well as numerical methods for computing the inverse solutions."
     slides_url: 
     schedule: S24
 
 SideriusS24:
-    title: "TBA"
+    title: "How AI Aggregators Affect Knowledge Sharing"
     date: 5/14/24
     speaker: James Siderius
     affiliation: Dartmouth, Tuck
     speaker_url: https://www.tuck.dartmouth.edu/faculty/faculty-directory/james-siderius
-    abstract: "TBA"
+    abstract: "Recent advancements in AI have brought great promise to more efficiently aggregate and deliver information, but also raise concerns about their tendency to exacerbate existing biases entrenched in society. In this talk, we formalize this tradeoff by extending the DeGroot model of network learning to incorporate AI aggregators. We model these aggregators as nodes in the network that take as input beliefs from the population (“training data”) and communicate synthesized beliefs (“answers to queries”). We show that the feedback loop between AI input and output tends to amplify the majority opinion, a phenomenon known as model collapse, and can degrade the quality of information sharing in equilibrium under some mild conditions. In doing so, we also contrast the case of a single global aggregator (e.g., ChatGPT) to many local aggregators (e.g., Internet forums) to provide general conditions under which AI aggregators help or hinder wisdom in society. This is joint work with Daron Acemoglu, Darren Lin, and Asuman Ozdaglar."
     slides_url: 
     schedule: S24
 

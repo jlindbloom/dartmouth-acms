@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "Inverse problems to mean field game systems: analysis and computation"
 ---
 **Speaker:** [Kui Ren](https://www.columbia.edu/~kr2002/) (Columbia)
 
 **Date:** 5/21/24
 
-**Abstract:** TBA
+**Abstract:** Mean field game models have been developed in different application areas. We will provide an overview of recent developments in inverse problems to mean field game models where we are interested in reconstructing missing information from observed data. We present a few different scenarios where differential data allows for the unique identification of model parameters in various forms, as well as numerical methods for computing the inverse solutions.

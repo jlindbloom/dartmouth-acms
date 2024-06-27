@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "How AI Aggregators Affect Knowledge Sharing"
 ---
 **Speaker:** [James Siderius](https://www.tuck.dartmouth.edu/faculty/faculty-directory/james-siderius) (Dartmouth, Tuck)
 
 **Date:** 5/14/24
 
-**Abstract:** TBA
+**Abstract:** Recent advancements in AI have brought great promise to more efficiently aggregate and deliver information, but also raise concerns about their tendency to exacerbate existing biases entrenched in society. In this talk, we formalize this tradeoff by extending the DeGroot model of network learning to incorporate AI aggregators. We model these aggregators as nodes in the network that take as input beliefs from the population (“training data”) and communicate synthesized beliefs (“answers to queries”). We show that the feedback loop between AI input and output tends to amplify the majority opinion, a phenomenon known as model collapse, and can degrade the quality of information sharing in equilibrium under some mild conditions. In doing so, we also contrast the case of a single global aggregator (e.g., ChatGPT) to many local aggregators (e.g., Internet forums) to provide general conditions under which AI aggregators help or hinder wisdom in society. This is joint work with Daron Acemoglu, Darren Lin, and Asuman Ozdaglar.
