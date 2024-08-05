@@ -1,0 +1,8 @@
+---
+title: "Impact of Linker Length on Biomolecular Condensate Formation"
+---
+**Speaker:** [Trevor GrandPre](https://www.trevorgrandpre.com/) (Princeton)
+
+**Date:** 8/6/24
+
+**Abstract:** Biomolecular condensates are membraneless organelles formed via phase separation of macromolecules, typically consisting of bond-forming “sticker" regions connected by flexible “linkers.” Linkers have diverse roles, such as occupying space, facilitating interactions, and excluding intruders. However, an understudied question is how the length of linkers influences condensation via an interplay with other molecular length scales. We address this point in the context of the pyrenoid, a biomolecular condensate that enhances photosynthesis in green algae. Specifically, we apply coarse-grained simulations and analytical theory to the pyrenoid proteins of Chlamydomonas reinhardtii: the rigid carbon-fixing holoenzyme Rubisco and its flexible bonding partner EPYC1. Remarkably, halving EPYC1 linker lengths decreases critical concentrations by tenfold. We attribute this extreme sensitivity to molecular “fit,” i.e., the number of stickers of EPYC1 that can bind to a single Rubisco given the relation between EPYC1 linker length and Rubisco sticker spacing. We find an inverse relationship between molecular fit and the tendency of EPYC1 and Rubisco to phase separate. Moreover, by computationally varying Rubisco sticker locations we discover that the naturally occurring sticker locations optimize phase separation. Generally, our findings illustrate how evolution can tune the phase separation of intrinsically disordered proteins via the interplay of molecular length scales.

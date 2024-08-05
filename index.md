@@ -12,7 +12,12 @@ The Applied & Computational Mathematics seminar (ACMS) at Dartmouth brings toget
 
 The regular seminar is paused and will resume in Fall 2024. 
 
-<span style="color:red">*During the summer, we will have the following special session on applications of Koopman operators to climate dynamics. The session is on 6/28/24 from 1:00 -- 2:30 PM in Kemeny Hall, Room 307. *</span> 
+
+<span style="color:red">*During the summer, we will have the following special session on applications of Koopman operators to climate dynamics. The session is on 6/28/24 from 1:00 -- 2:30 PM in Kemeny Hall, Room 307.</span> 
+
+<span style="color:red">We also have an additional talk on 8/6/24 from 2:30 -- 3:30 PM in Kemeny Hall 307. See details below.</span> 
+<!-- 
+<span style="color:red">*During the summer, we will have the following special session on applications of Koopman operators to climate dynamics. The session is on 6/28/24 from 1:00 -- 2:30 PM in Kemeny Hall, Room 307. *</span>  -->
 
 <!-- <span style="color:red">*The Monday 5/6/24 talk by Bohan Zhou will be from 2:30 -- 3:30 PM.*</span>
  -->
@@ -27,11 +32,12 @@ Date     Speaker                                                                
 -------  -----------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------
 6/28/24  [Claire Valva](https://clairevalva.github.io/) (NYU)                                                   [Consistent spectral approximation of Koopman operators: Applications to climate dynamics](/seminar_pages/ValvaSS24.html)
 6/28/24  [Paula Lorenzo Sánchez](https://www.unibo.it/sitoweb/paula.lorenzosanche2/en) (University of Bologna)  [Koopman operator theory for enhanced Pacific SST forecasting](/seminar_pages/LorenzoSS24.html)
+8/6/24   [Trevor GrandPre](https://www.trevorgrandpre.com/) (Princeton)                                         [Impact of Linker Length on Biomolecular Condensate Formation](/seminar_pages/GrandPreSS24.html)
 :::
 :::
 
 
-This seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu) and Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu).
+This seminar is organized by Linh Huynh (linh.n.huynh@dartmouth.edu), Jonathan Lindbloom (jonathan.t.lindbloom.gr@dartmouth.edu), Rebecca Hardenbrook (rebecca.l.hardenbrook@dartmouth.edu), and Keenan Eikenberry (keenan.j.eikenberry@dartmouth.edu).
 
 ![](acms_banner.JPG)
 
