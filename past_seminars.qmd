@@ -44,6 +44,20 @@ def build_table(which_schedule):
 
 ```
 
+
+
+# Summer 2024
+```{python}
+which_schedule = "SS24"
+table = build_table(which_schedule)
+Markdown(tabulate(
+  table, 
+  headers=["Date", "Speaker", "Title"]
+))
+```
+
+
+
 # Spring 2024
 ```{python}
 which_schedule = "S24"

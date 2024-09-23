@@ -8,11 +8,34 @@ keep-md: true
 
 
 
+
+
+# Spring 2024
+
+::: {.cell execution_count=2}
+
+::: {.cell-output .cell-output-display execution_count=2}
+Date     Speaker                                                                                                                                Title
+-------  -------------------------------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------
+5/28/24  [Anton Bovier](https://wt.iam.uni-bonn.de/bovier/home/) (UBonn, Germany)                                                               [A branching random walk with self repulsion](/seminar_pages/BovierS24.html)
+5/21/24  [Kui Ren](https://www.columbia.edu/~kr2002/) (Columbia)                                                                                [Inverse problems to mean field game systems: analysis and computation](/seminar_pages/RenS24.html)
+5/14/24  [James Siderius](https://www.tuck.dartmouth.edu/faculty/faculty-directory/james-siderius) (Dartmouth, Tuck)                            [How AI Aggregators Affect Knowledge Sharing](/seminar_pages/SideriusS24.html)
+5/6/24   [Bohan Zhou](https://scholar.google.com/citations?hl=en&user=Fc4gd7oAAAAJ&view_op=list_works&sortby=pubdate) (UC Santa Barbara)        [Acceleration for MCMC methods on discrete states](/seminar_pages/ZhouS24.html)
+4/30/24  [Eva Loeser](https://sites.google.com/ucsd.edu/eva-loesers-website/home) (UCSD)                                                        [Fluid Limit for a Stochastic Model of Enzymatic Processing with General Distributions](/seminar_pages/LoeserS24.html)
+4/23/24  [Mathieu Le Provost](https://nbviewer.org/github/jlindbloom/dartmouth-acms/blob/main/slides/Le_Provost_Dartmouth_ACMS_0424.pdf) (MIT)  [Preserving linear invariants in ensemble filtering methods](/seminar_pages/LeProvostS24.html)
+4/16/24  [Carlo Lucibello](https://carlolucibello.github.io/) (Bocconi University, Italy)                                                       [The Exponential Capacity of Dense Associative Memories](/seminar_pages/LucibelloS24.html)
+4/9/24   [Erik Bates](https://www.ewbates.com/home) (NCSU)                                                                                      [Parisi formulas in multi-species and vector spin glass models](/seminar_pages/BatesS24.html)
+4/2/24   [Asher Leeks](https://asherleeks.com/) (Yale)                                                                                          [The (anti-)social lives of viruses: the emergence of a new form of viral genome organisation through evolutionary conflict](/seminar_pages/LeeksS24.html)
+3/26/24  [Wenjun Zhao](https://wenjunzhaowo.github.io/) (Brown)                                                                                 [Optimal transport with covariates: Wasserstein barycenter and its extensions](/seminar_pages/ZhaoS24.html)
+:::
+:::
+
+
 # Winter 2024
 
-::: {#ff78e767 .cell execution_count=2}
+::: {.cell execution_count=3}
 
-::: {.cell-output .cell-output-display .cell-output-markdown execution_count=2}
+::: {.cell-output .cell-output-display execution_count=3}
 Date     Speaker                                                                                                              Title
 -------  -------------------------------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
 3/12/24  [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems](/seminar_pages/AlfantW24.html)
@@ -31,9 +54,9 @@ Date     Speaker                                                                
 
 # Fall 2023
 
-::: {#5f833810 .cell execution_count=3}
+::: {.cell execution_count=4}
 
-::: {.cell-output .cell-output-display .cell-output-markdown execution_count=3}
+::: {.cell-output .cell-output-display execution_count=4}
 Date      Speaker                                                                                                        Title
 --------  -------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 11/14/23  [Georg Stadler](https://math.nyu.edu/~stadler/) (NYU)                                                          [Mitigating the nonlinearity in PDEs, with application to continuous sea ice models](/seminar_pages/StadlerF23.html)
@@ -52,9 +75,9 @@ Date      Speaker                                                               
 
 # Spring 2023
 
-::: {#15593ef6 .cell execution_count=4}
+::: {.cell execution_count=5}
 
-::: {.cell-output .cell-output-display .cell-output-markdown execution_count=4}
+::: {.cell-output .cell-output-display execution_count=5}
 Date     Speaker                                                                                       Title
 -------  --------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------
 5/30/23  [Ethan Levien](https://elevien.github.io/) (Dartmouth, Mathematics)                           [Evolution in the presence of large (but finite) offspring fluctuations](/seminar_pages/LevienS23.html)
@@ -71,9 +94,9 @@ Date     Speaker                                                                
 
 # Winter 2023
 
-::: {#147d79f7 .cell execution_count=5}
+::: {.cell execution_count=6}
 
-::: {.cell-output .cell-output-display .cell-output-markdown execution_count=5}
+::: {.cell-output .cell-output-display execution_count=6}
 Date     Speaker                                                             Title
 -------  ------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------
 2/14/23  [Rob Frost](https://people.csail.mit.edu/drp/) (Dartmouth, Geisel)  [Eigenvectors from eigenvalues sparse principal component analysis](/seminar_pages/FrostW23.html)
@@ -85,9 +108,9 @@ Date     Speaker                                                             Tit
 
 # Fall 2022
 
-::: {#8d7fc432 .cell execution_count=6}
+::: {.cell execution_count=7}
 
-::: {.cell-output .cell-output-display .cell-output-markdown execution_count=6}
+::: {.cell-output .cell-output-display execution_count=7}
 Date      Speaker                                                                                                    Title
 --------  ---------------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 11/15/23  [Matt Colbrook and Alex Townsend](https://www.damtp.cam.ac.uk/user/mjc249/home.html) (Cambridge, Cornell)  [On spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond](/seminar_pages/ColbrookF22.html)

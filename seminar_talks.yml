@@ -1,3 +1,102 @@
+TungF24:
+    title: "TBA"
+    date: 11/19/24
+    speaker: Hwai-Ray Tung
+    affiliation: University of Utah
+    speaker_url: https://hwairaytung.github.io/
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+TBA3F24:
+    title: "TBA"
+    date: 11/12/24
+    speaker: TBA
+    affiliation: TBA
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+EikenberryF24:
+    title: "TBA"
+    date: 11/5/24
+    speaker: Keenan Eikenberry
+    affiliation: Dartmouth
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+TBA2F24:
+    title: "TBA"
+    date: 10/29/24
+    speaker: TBA
+    affiliation: TBA
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+TBA1F24:
+    title: "TBA"
+    date: 10/22/24
+    speaker: TBA
+    affiliation: TBA
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+MooreF24:
+    title: "TBA"
+    date: 10/15/24
+    speaker: Cris Moore 
+    affiliation: Binghampton
+    speaker_url: https://sites.santafe.edu/~moore/
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+ErtemF24:
+    title: "TBA"
+    date: 10/1/24
+    speaker: Zeynep Ertem
+    affiliation: Binghampton
+    speaker_url: https://www.binghamton.edu/labs/datart/
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+ChuF24:
+    title: "TBA"
+    date: 10/8/24
+    speaker: Weiqi Chu
+    affiliation: UMass Amherst
+    speaker_url: https://weiqichu.github.io/
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+GrantF24:
+    title: "TBA"
+    date: 10/8/24
+    speaker: Curtis Grant
+    affiliation: Northwestern
+    speaker_url: 
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
+
 
 GrandPreSS24:
     title: "Impact of Linker Length on Biomolecular Condensate Formation"
