@@ -24,6 +24,7 @@ The regular seminar is paused and will resume in Fall 2024.
 
 <span style="color:red">* There will be two talks on Tuesday 10/8/24. The first will be Curtis Grant from 1-2 PM, and the second will be Weiqi Chu from 2:30 - 3:30 PM.*</span>
 
+<span style="color:red">* The Friday 10/8/24 talk by Yujun Yan will be fron 1:30-2:30 PM.*</span>
 
 
 <!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->

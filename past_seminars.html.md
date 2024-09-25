@@ -8,13 +8,25 @@ keep-md: true
 
 
 
+# Summer 2024
+
+::: {#0cda139d .cell execution_count=2}
+
+::: {.cell-output .cell-output-display .cell-output-markdown execution_count=2}
+Date     Speaker                                                                                                Title
+-------  -----------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------
+8/6/24   [Trevor GrandPre](https://www.trevorgrandpre.com/) (Princeton)                                         [Impact of Linker Length on Biomolecular Condensate Formation](/seminar_pages/GrandPreSS24.html)
+6/28/24  [Paula Lorenzo Sánchez](https://www.unibo.it/sitoweb/paula.lorenzosanche2/en) (University of Bologna)  [Koopman operator theory for enhanced Pacific SST forecasting](/seminar_pages/LorenzoSS24.html)
+6/28/24  [Claire Valva](https://clairevalva.github.io/) (NYU)                                                   [Consistent spectral approximation of Koopman operators: Applications to climate dynamics](/seminar_pages/ValvaSS24.html)
+:::
+:::
 
 
 # Spring 2024
 
-::: {.cell execution_count=2}
+::: {#7309ad36 .cell execution_count=3}
 
-::: {.cell-output .cell-output-display execution_count=2}
+::: {.cell-output .cell-output-display .cell-output-markdown execution_count=3}
 Date     Speaker                                                                                                                                Title
 -------  -------------------------------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------
 5/28/24  [Anton Bovier](https://wt.iam.uni-bonn.de/bovier/home/) (UBonn, Germany)                                                               [A branching random walk with self repulsion](/seminar_pages/BovierS24.html)
@@ -33,9 +45,9 @@ Date     Speaker                                                                
 
 # Winter 2024
 
-::: {.cell execution_count=3}
+::: {#67dd8e40 .cell execution_count=4}
 
-::: {.cell-output .cell-output-display execution_count=3}
+::: {.cell-output .cell-output-display .cell-output-markdown execution_count=4}
 Date     Speaker                                                                                                              Title
 -------  -------------------------------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
 3/12/24  [Rachael Alfant](https://rachaelalfant.github.io/) (Rice)                                                            [A Stochastic Programming Approach to Capacity Allocation for Cloud Computing Systems](/seminar_pages/AlfantW24.html)
@@ -54,9 +66,9 @@ Date     Speaker                                                                
 
 # Fall 2023
 
-::: {.cell execution_count=4}
+::: {#a36fa658 .cell execution_count=5}
 
-::: {.cell-output .cell-output-display execution_count=4}
+::: {.cell-output .cell-output-display .cell-output-markdown execution_count=5}
 Date      Speaker                                                                                                        Title
 --------  -------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 11/14/23  [Georg Stadler](https://math.nyu.edu/~stadler/) (NYU)                                                          [Mitigating the nonlinearity in PDEs, with application to continuous sea ice models](/seminar_pages/StadlerF23.html)
@@ -75,9 +87,9 @@ Date      Speaker                                                               
 
 # Spring 2023
 
-::: {.cell execution_count=5}
+::: {#1d4731e3 .cell execution_count=6}
 
-::: {.cell-output .cell-output-display execution_count=5}
+::: {.cell-output .cell-output-display .cell-output-markdown execution_count=6}
 Date     Speaker                                                                                       Title
 -------  --------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------
 5/30/23  [Ethan Levien](https://elevien.github.io/) (Dartmouth, Mathematics)                           [Evolution in the presence of large (but finite) offspring fluctuations](/seminar_pages/LevienS23.html)
@@ -94,9 +106,9 @@ Date     Speaker                                                                
 
 # Winter 2023
 
-::: {.cell execution_count=6}
+::: {#3ad1694e .cell execution_count=7}
 
-::: {.cell-output .cell-output-display execution_count=6}
+::: {.cell-output .cell-output-display .cell-output-markdown execution_count=7}
 Date     Speaker                                                             Title
 -------  ------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------
 2/14/23  [Rob Frost](https://people.csail.mit.edu/drp/) (Dartmouth, Geisel)  [Eigenvectors from eigenvalues sparse principal component analysis](/seminar_pages/FrostW23.html)
@@ -108,9 +120,9 @@ Date     Speaker                                                             Tit
 
 # Fall 2022
 
-::: {.cell execution_count=7}
+::: {#55ddcb94 .cell execution_count=8}
 
-::: {.cell-output .cell-output-display execution_count=7}
+::: {.cell-output .cell-output-display .cell-output-markdown execution_count=8}
 Date      Speaker                                                                                                    Title
 --------  ---------------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 11/15/23  [Matt Colbrook and Alex Townsend](https://www.damtp.cam.ac.uk/user/mjc249/home.html) (Cambridge, Cornell)  [On spectral computations in infinite dimensions: Spectral measures, Koopman operators and beyond](/seminar_pages/ColbrookF22.html)

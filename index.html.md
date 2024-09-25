@@ -24,24 +24,26 @@ The regular seminar is paused and will resume in Fall 2024.
 
 <span style="color:red">* There will be two talks on Tuesday 10/8/24. The first will be Curtis Grant from 1-2 PM, and the second will be Weiqi Chu from 2:30 - 3:30 PM.*</span>
 
+<span style="color:red">* The Friday 10/8/24 talk by Yujun Yan will be fron 1:30-2:30 PM.*</span>
 
 
 <!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
 
-::: {#0f96e699 .cell execution_count=1}
+::: {#4dab1452 .cell execution_count=1}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=1}
-Date      Speaker                                                                Title
---------  ---------------------------------------------------------------------  ----------------------------------------
-10/1/24   [Zeynep Ertem](https://www.binghamton.edu/labs/datart/) (Binghampton)  [TBA](/seminar_pages/ErtemF24.html)
-10/8/24   Curtis Grant (Northwestern)                                            [TBA](/seminar_pages/GrantF24.html)
-10/8/24   [Weiqi Chu](https://weiqichu.github.io/) (UMass Amherst)               [TBA](/seminar_pages/ChuF24.html)
-10/15/24  [Cris Moore](https://sites.santafe.edu/~moore/) (Binghampton)          [TBA](/seminar_pages/MooreF24.html)
-10/22/24  TBA (TBA)                                                              [TBA](/seminar_pages/TBA1F24.html)
-10/29/24  TBA (TBA)                                                              [TBA](/seminar_pages/TBA2F24.html)
-11/5/24   Keenan Eikenberry (Dartmouth)                                          [TBA](/seminar_pages/EikenberryF24.html)
-11/12/24  TBA (TBA)                                                              [TBA](/seminar_pages/TBA3F24.html)
-11/19/24  [Hwai-Ray Tung](https://hwairaytung.github.io/) (University of Utah)   [TBA](/seminar_pages/TungF24.html)
+Date      Speaker                                                                    Title
+--------  -------------------------------------------------------------------------  ----------------------------------------
+10/1/24   [Zeynep Ertem](https://www.binghamton.edu/labs/datart/) (Binghampton)      [TBA](/seminar_pages/ErtemF24.html)
+10/8/24   Curtis Grant (Northwestern)                                                [TBA](/seminar_pages/GrantF24.html)
+10/8/24   [Weiqi Chu](https://weiqichu.github.io/) (UMass Amherst)                   [TBA](/seminar_pages/ChuF24.html)
+10/15/24  [Cris Moore](https://sites.santafe.edu/~moore/) (Binghampton)              [TBA](/seminar_pages/MooreF24.html)
+10/22/24  TBA (TBA)                                                                  [TBA](/seminar_pages/TBA1F24.html)
+10/29/24  TBA (TBA)                                                                  [TBA](/seminar_pages/TBA2F24.html)
+11/5/24   Keenan Eikenberry (Dartmouth)                                              [TBA](/seminar_pages/EikenberryF24.html)
+11/8/24   [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home) (Dartmouth)  [TBA](/seminar_pages/YanF24.html)
+11/12/24  [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/) (TBA)                [TBA](/seminar_pages/TBA3F24.html)
+11/19/24  [Hwai-Ray Tung](https://hwairaytung.github.io/) (University of Utah)       [TBA](/seminar_pages/TungF24.html)
 :::
 :::
 

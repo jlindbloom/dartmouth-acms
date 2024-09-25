@@ -1,3 +1,14 @@
+YanF24:
+    title: "TBA"
+    date: 11/8/24
+    speaker: Yujun Yan
+    affiliation: Dartmouth
+    speaker_url: https://sites.google.com/umich.edu/yujunyan/home
+    abstract: "TBA"
+    slides_url: 
+    schedule: F24
+
+
 TungF24:
     title: "TBA"
     date: 11/19/24
@@ -12,9 +23,9 @@ TungF24:
 TBA3F24:
     title: "TBA"
     date: 11/12/24
-    speaker: TBA
+    speaker: Wojciech Jarosz
     affiliation: TBA
-    speaker_url: 
+    speaker_url: https://cs.dartmouth.edu/~wjarosz/
     abstract: "TBA"
     slides_url: 
     schedule: F24
