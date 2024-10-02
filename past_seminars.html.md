@@ -10,7 +10,7 @@ keep-md: true
 
 # Summer 2024
 
-::: {#0cda139d .cell execution_count=2}
+::: {#7b664f9b .cell execution_count=2}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=2}
 Date     Speaker                                                                                                Title
@@ -24,7 +24,7 @@ Date     Speaker                                                                
 
 # Spring 2024
 
-::: {#7309ad36 .cell execution_count=3}
+::: {#8c023f00 .cell execution_count=3}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=3}
 Date     Speaker                                                                                                                                Title
@@ -45,7 +45,7 @@ Date     Speaker                                                                
 
 # Winter 2024
 
-::: {#67dd8e40 .cell execution_count=4}
+::: {#a003033e .cell execution_count=4}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=4}
 Date     Speaker                                                                                                              Title
@@ -66,7 +66,7 @@ Date     Speaker                                                                
 
 # Fall 2023
 
-::: {#a36fa658 .cell execution_count=5}
+::: {#1486aa30 .cell execution_count=5}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=5}
 Date      Speaker                                                                                                        Title
@@ -87,7 +87,7 @@ Date      Speaker                                                               
 
 # Spring 2023
 
-::: {#1d4731e3 .cell execution_count=6}
+::: {#886d7e54 .cell execution_count=6}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=6}
 Date     Speaker                                                                                       Title
@@ -106,7 +106,7 @@ Date     Speaker                                                                
 
 # Winter 2023
 
-::: {#3ad1694e .cell execution_count=7}
+::: {#2e02b588 .cell execution_count=7}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=7}
 Date     Speaker                                                             Title
@@ -120,7 +120,7 @@ Date     Speaker                                                             Tit
 
 # Fall 2022
 
-::: {#55ddcb94 .cell execution_count=8}
+::: {#71cc2d14 .cell execution_count=8}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=8}
 Date      Speaker                                                                                                    Title

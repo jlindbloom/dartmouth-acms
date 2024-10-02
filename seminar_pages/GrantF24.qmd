@@ -1,8 +1,8 @@
 ---
-title: "TBA"
+title: "An Introduction to Spin Glasses"
 ---
 **Speaker:** Curtis Grant (Northwestern)
 
 **Date:** 10/8/24
 
-**Abstract:** TBA
+**Abstract:** Spin Glasses are a prototypical example of a complex disordered system, the study of which has interested mathematicians and physicists alike since the 1970s. In this talk we will introduce spin glasses from the point of view of a difficult optimization problem. Our goal will be to demonstrate some of the techniques used in this field, and to explain the predictions of Parisi which have shaped the research direction of the field for the last 40 years.

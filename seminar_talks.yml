@@ -24,7 +24,7 @@ TBA3F24:
     title: "TBA"
     date: 11/12/24
     speaker: Wojciech Jarosz
-    affiliation: TBA
+    affiliation: Dartmouth
     speaker_url: https://cs.dartmouth.edu/~wjarosz/
     abstract: "TBA"
     slides_url: 
@@ -67,7 +67,7 @@ MooreF24:
     title: "TBA"
     date: 10/15/24
     speaker: Cris Moore 
-    affiliation: Binghampton
+    affiliation: Santa Fe Institute
     speaker_url: https://sites.santafe.edu/~moore/
     abstract: "TBA"
     slides_url: 
@@ -75,12 +75,12 @@ MooreF24:
 
 
 ErtemF24:
-    title: "TBA"
+    title: "Epidemic Disease Modeling, Contact Networks and Clustering on Social Networks"
     date: 10/1/24
     speaker: Zeynep Ertem
-    affiliation: Binghampton
+    affiliation: Binghamton
     speaker_url: https://www.binghamton.edu/labs/datart/
-    abstract: "TBA"
+    abstract: "The COVID-19 pandemic has highlighted the importance of effective surveillance and containment strategies in public health. In this study, we examined the impact of county-level mandates on COVID-19 cases pre-post to the availability of vaccinations. We also emphasize the need for a dynamic model of policy, as changes in population behavior, conditions, and vaccination levels can alter policy effectiveness. Dr. Ertem will be talking about several models on different machine learning techniques to address several real-life problems in public health management. Mainly, she will describe an operations research-based approach can help improve efficiency in public health decisions. She will describe a new forecasting algorithm that uses multiple data sources to timely and accurately predict epidemic diseases. She will talk about her hierarchical framework uses multi-linear regression to combine forecasts from multiple data sources and greedy optimization with forward-selection to sequentially choose the most predictive combinations of data sources. Clique relaxations are used in classical models of cohesive subgroups in social network analysis. Clustering coefficient was introduced more recently as a structural feature characterizing small-world networks. Noting that cohesive subgroups tend to have high clustering coefficients, here she will introduce a new clique relaxation, 𝛼-cluster, defined by enforcing a lower bound ̨ on the clustering coefficient in the corresponding induced subgraph. She considers two variations of the clustering coefficient, namely, the local and global clustering coefficient. She analyzes certain structural properties of 𝛼-clusters and she develops mathematical optimization models for determining 𝛼-clusters of the largest size in a network and apply these models to several real-life social networks. In addition, she develops a novel network clustering algorithm based on local 𝛼-cluster."
     slides_url: 
     schedule: F24
 
@@ -97,12 +97,12 @@ ChuF24:
 
 
 GrantF24:
-    title: "TBA"
+    title: "An Introduction to Spin Glasses"
     date: 10/8/24
     speaker: Curtis Grant
     affiliation: Northwestern
     speaker_url: 
-    abstract: "TBA"
+    abstract: "Spin Glasses are a prototypical example of a complex disordered system, the study of which has interested mathematicians and physicists alike since the 1970s. In this talk we will introduce spin glasses from the point of view of a difficult optimization problem. Our goal will be to demonstrate some of the techniques used in this field, and to explain the predictions of Parisi which have shaped the research direction of the field for the last 40 years."
     slides_url: 
     schedule: F24
 
