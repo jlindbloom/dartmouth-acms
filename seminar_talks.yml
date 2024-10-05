@@ -52,12 +52,12 @@ TBA2F24:
     slides_url: 
     schedule: F24
 
-TBA1F24:
+JaroszF24:
     title: "TBA"
     date: 10/22/24
-    speaker: TBA
-    affiliation: TBA
-    speaker_url: 
+    speaker: Wojciech Jarosz
+    affiliation: Dartmouth
+    speaker_url: https://cs.dartmouth.edu/~wjarosz/
     abstract: "TBA"
     slides_url: 
     schedule: F24

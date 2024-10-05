@@ -29,7 +29,7 @@ The regular seminar is paused and will resume in Fall 2024.
 
 <!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
 
-::: {#d90b0377 .cell execution_count=1}
+::: {#71cc6958 .cell execution_count=1}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=1}
 Date      Speaker                                                                    Title
@@ -38,7 +38,7 @@ Date      Speaker                                                               
 10/8/24   [Curtis Grant](https://curtismgrant.github.io/about/) (Northwestern)       [An Introduction to Spin Glasses](/seminar_pages/GrantF24.html)
 10/8/24   [Weiqi Chu](https://weiqichu.github.io/) (UMass Amherst)                   [TBA](/seminar_pages/ChuF24.html)
 10/15/24  [Cris Moore](https://sites.santafe.edu/~moore/) (Santa Fe Institute)       [TBA](/seminar_pages/MooreF24.html)
-10/22/24  TBA (TBA)                                                                  [TBA](/seminar_pages/TBA1F24.html)
+10/22/24  [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/) (Dartmouth)          [TBA](/seminar_pages/JaroszF24.html)
 10/29/24  TBA (TBA)                                                                  [TBA](/seminar_pages/TBA2F24.html)
 11/5/24   Keenan Eikenberry (Dartmouth)                                              [TBA](/seminar_pages/EikenberryF24.html)
 11/8/24   [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home) (Dartmouth)  [TBA](/seminar_pages/YanF24.html)
