@@ -29,13 +29,13 @@ The regular seminar is paused and will resume in Fall 2024.
 
 <!-- This cell looks through the seminar_talks YAML file and generates the current seminar schedule. -->
 
-::: {#ff83609e .cell execution_count=1}
+::: {#d90b0377 .cell execution_count=1}
 
 ::: {.cell-output .cell-output-display .cell-output-markdown execution_count=1}
 Date      Speaker                                                                    Title
 --------  -------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------
 10/1/24   [Zeynep Ertem](https://www.binghamton.edu/labs/datart/) (Binghamton)       [Epidemic Disease Modeling, Contact Networks and Clustering on Social Networks](/seminar_pages/ErtemF24.html)
-10/8/24   Curtis Grant (Northwestern)                                                [An Introduction to Spin Glasses](/seminar_pages/GrantF24.html)
+10/8/24   [Curtis Grant](https://curtismgrant.github.io/about/) (Northwestern)       [An Introduction to Spin Glasses](/seminar_pages/GrantF24.html)
 10/8/24   [Weiqi Chu](https://weiqichu.github.io/) (UMass Amherst)                   [TBA](/seminar_pages/ChuF24.html)
 10/15/24  [Cris Moore](https://sites.santafe.edu/~moore/) (Santa Fe Institute)       [TBA](/seminar_pages/MooreF24.html)
 10/22/24  TBA (TBA)                                                                  [TBA](/seminar_pages/TBA1F24.html)

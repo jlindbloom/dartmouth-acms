@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Spin Glasses"
 ---
-**Speaker:** Curtis Grant (Northwestern)
+**Speaker:** [Curtis Grant](https://curtismgrant.github.io/about/) (Northwestern)
 
 **Date:** 10/8/24
 
